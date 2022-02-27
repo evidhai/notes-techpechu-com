@@ -26,7 +26,7 @@ jobs:
         ruby-version: 2.6
         bundler-cache: true
     - name: "Bundle install"
-      run:  bundle install jekyll
+      run:  bundle install
     - name: "Build Site"
       run: bundle exec jekyll build
       env:
