@@ -38,10 +38,11 @@ jobs:
           clean-exclude: |
             CNAME
             .nojekyll 
-      - name: "Deploy to AWS S3"
+      - name: "Swap branch"
         uses: actions/checkout@v2
         with:
           ref: gh-pages
+      - name: "Push to S3"
         run: aws s3 sync ./ s3://${{ secrets.AWS_S3_BUCKET_NAME }} --acl public-read --delete --cache-control max-age=604800
       - name: "Create AWS Cloudfront Invalidation"
         run: aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
