@@ -35,8 +35,10 @@ jobs:
           clean-exclude: |
             CNAME
             .nojekyll 
-      - name: "Swap branch"
-        uses: actions/checkout@v2
+  build2:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
         with:
           ref: gh-pages
       - name: "S3"
