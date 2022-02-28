@@ -56,4 +56,5 @@
  :feature/enable-encryption? false
  :markdown/version 2
  :favorites ["Getting started" "Changelog" "Videos"]
- :publishing/all-pages-public? true}
+ :publishing/all-pages-public? true
+ :graph/settings {:journal? false, :orphan-pages? false, :builtin-pages? true}}

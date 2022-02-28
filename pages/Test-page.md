@@ -1,2 +1,2 @@
 - This is dummy page
-- This is been refered in
+- This is been referred in [[Contents]]
