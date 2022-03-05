@@ -3,7 +3,7 @@
            :alias "Logseq Wiki"}
  :text-formats [],
  :all-pages-public? true,        ;; Git settings
- :default-home {:page "Contents"}
+ :default-home {:page "Home"}
 
  ;; Currently, we support either "Markdown" or "Org".
  ;; This can overwrite your global preference so that
