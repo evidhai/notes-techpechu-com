@@ -1,3 +1,3 @@
-- Beging here
+- Begin here
 	- Starting here to test
 	- Writing few more to link [[Test-page]]
