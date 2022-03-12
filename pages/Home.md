@@ -1,5 +1,5 @@
 - #+BEGIN_QUOTE
-  This is public rough notes of what ever [Vasan](https://twitter.com/keerthivasan036) studying. 
+  This is public rough notes of what ever [Vasan](https://twitter.com/keerthivasan036) studying / learning day to day
   #+END_QUOTE
 - [[Welcome]]
 -
