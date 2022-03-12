@@ -1,3 +1,3 @@
 - #+BEGIN_QUOTE
-  All rough notes will be hosted 
+  This is public rough notes of what ever 
   #+END_QUOTE
