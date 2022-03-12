@@ -1,4 +1,5 @@
 - Welcome to the Blog!
-- This blog is built on [Logseq](https://logseq.com/)  https://logseq.com/. Thanks for their
-- Look for the status is the document status is In-progress or Completed. If it's Inprogress then that is something I am currently studying and still in rough draft :)
+- This blog is built on [Logseq](https://logseq.com/)  Thanks for their open source option. I am Loving it!
+-
+- Look for the status in the document status.  If it's In progress then that is something I am currently studying and still in rough draft :) .
 -
