@@ -1,2 +1,3 @@
 - Welcome to the Blog!
+- Look for the status is the document status is In-progress or Completed. If it's Inprogress then that is something I am currently studying and still in rough draft :)
 -
