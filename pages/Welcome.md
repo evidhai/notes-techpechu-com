@@ -1,4 +1,4 @@
 - Welcome to the Blog!
-- This blog is built on [Logseq](https://logseq.com/)  Thanks for their open source option. I am Loving it!
+- This blog is built on [Logseq](https://logseq.github.io/#/page/Contents)  Thanks for their open source option. I am Loving it!
 -
 - Look for the status in the document status.  If it's In progress then that is something I am currently studying and still in rough draft :) . By default you can assume it as completed.
