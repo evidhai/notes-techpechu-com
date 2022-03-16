@@ -11,10 +11,12 @@
 	- ### Continuous Integration
 	  collapsed:: true
 		- [[draws/2022-03-17-00-13-15.excalidraw]]
-	- ## Continuous Delivery vs Deployment
+	- ### Continuous Delivery vs Deployment
+	  collapsed:: true
 		- Continuous Delivery
 			- When entire deployment till Production occurs with some manual intervention
 		- Continuous Deployment
 			- No manual intervention at all
+	- ### Stacks to focus on
 	-
 	-
