@@ -9,4 +9,4 @@
 	- Get your AWS CLI setup
 - ## CICD
 	- ### Continuous Integration
-		- -
+		- [[draws/2022-03-17-00-13-15.excalidraw]]
