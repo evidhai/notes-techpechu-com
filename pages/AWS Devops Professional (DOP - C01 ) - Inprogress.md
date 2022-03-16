@@ -8,4 +8,5 @@
 	- Get your AWS account created
 	- Get your AWS CLI setup
 - ## CICD
-	-
+	- ### Continuous Integration
+		- -
