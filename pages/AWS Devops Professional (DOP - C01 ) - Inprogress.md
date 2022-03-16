@@ -18,5 +18,10 @@
 		- Continuous Deployment
 			- No manual intervention at all
 	- ### Stacks to focus on
-	-
+	- - Code commit
+	  - Code Build
+	  - Elastic Beanstalk
+	  - Code Deploy
+	  - Jenkins CI
+	  - Cloudformation
 	-
