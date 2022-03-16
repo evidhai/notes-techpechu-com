@@ -7,7 +7,7 @@
 	- Pure hands-on and going to need practice , practice so let's get our hands dirty 😊
 	- Get your AWS account created
 	- Get your AWS CLI setup
-- ## CICD
+- ## CICD Overview
 	- ### Continuous Integration
 	  collapsed:: true
 		- [[draws/2022-03-17-00-13-15.excalidraw]]
@@ -18,6 +18,7 @@
 		- Continuous Deployment
 			- No manual intervention at all
 	- ### Stacks to focus on
+	  collapsed:: true
 		- Code commit
 		- Code Build
 		- Elastic Beanstalk
