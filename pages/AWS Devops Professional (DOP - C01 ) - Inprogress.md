@@ -13,6 +13,8 @@
 		- [[draws/2022-03-17-00-13-15.excalidraw]]
 	- ## Continuous Delivery vs Deployment
 		- Continuous Delivery
-		-
+			- When entire deployment till Production occurs with some manual intervention
+		- Continuous Deployment
+			- No manual intervention at all
 	-
 	-
