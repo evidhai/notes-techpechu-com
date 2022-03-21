@@ -8,4 +8,5 @@
   #+END_WARNING
 - Credential creation for Code Commit ->  [AWS Reference](https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-ssh-unixes.html) #hands-on
 - Clone, Add , Commit , Push
-	- Commands remains same as git
+	- Commands remains same as git : Refer -> [Basic Git commands](https://www.atlassian.com/git/glossary)
+-
