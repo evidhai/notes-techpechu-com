@@ -20,4 +20,5 @@
 	- Code Commit supports both Triggers and Notifications
 	- Notifications - are referred to [[SNS]]
 	- Triggers - can be referred to [[SNS]] and [[Lambda]]
--
+- [[Cloudwatch events]]
+	- We can setup cloudwatch events configured based on Code Commit and can trigger
