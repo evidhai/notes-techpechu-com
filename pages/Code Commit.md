@@ -7,4 +7,5 @@
   Don't use root account to create ssh , always use non-root account
   #+END_WARNING
 - Credential creation for Code Commit ->  [AWS Reference](https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-ssh-unixes.html) #hands-on
--
+- Clone, Add , Commit , Push
+	- Commands remains same as git
