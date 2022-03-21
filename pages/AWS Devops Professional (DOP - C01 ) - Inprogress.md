@@ -17,7 +17,7 @@
 		- Continuous Deployment
 			- No manual intervention at all
 	- ### Stacks to focus on
-		- [[CodeCommit]]
+		- [[Code Commit]]
 		- [[Code Build]]
 		- [[Elastic Beanstalk]]
 		- [[Code Deploy]]
