@@ -13,3 +13,5 @@
   collapsed:: true
 	- ![image.png](../assets/image_1647887484356_0.png)
 	-
+- Restrict people to directly publish changes to Master branch
+-
