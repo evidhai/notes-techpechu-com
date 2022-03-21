@@ -22,4 +22,5 @@
 	- Triggers - can be referred to [[SNS]] and [[Lambda]]
 - [[Cloudwatch events]]
 	- We can setup cloudwatch events configured based on Code Commit and can trigger multiple components like [[Lambda]] [[SNS]]
+	- [AWS guide](https://docs.aws.amazon.com/codepipeline/latest/userguide/pipelines-trigger-source-repo-changes-console.html)
 -
