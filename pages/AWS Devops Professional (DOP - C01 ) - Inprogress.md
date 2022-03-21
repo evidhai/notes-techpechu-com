@@ -9,6 +9,7 @@
 	- Get your AWS CLI setup
 - ## CICD Overview
 	- ### Continuous Integratio
+	  collapsed:: true
 		- ![image.png](../assets/image_1647885932857_0.png)
 	- ### Continuous Delivery vs Deployment
 		- Continuous Delivery
@@ -16,11 +17,12 @@
 		- Continuous Deployment
 			- No manual intervention at all
 	- ### Stacks to focus on
-		- Code commit
-		- Code Build
-		- Elastic Beanstalk
-		- Code Deploy
+		- [[Code commit]]
+		- [[Code Build]]
+		- [[Elastic Beanstalk]]
+		- [[Code Deploy]]
 		- Jenkins CI
 		- Cloudformation
 	-
+-
 -
