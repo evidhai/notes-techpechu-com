@@ -7,7 +7,11 @@
 	- Pure hands-on and going to need practice , practice so let's get our hands dirty 😊
 	- Get your AWS account created
 	- Get your AWS CLI setup
+- Day wise planner
+	- Day 1
+	-
 - ## CICD Overview (Day 1)
+  collapsed:: true
 	- ### Continuous Integratio
 	  collapsed:: true
 		- ![image.png](../assets/image_1647885932857_0.png)
@@ -25,6 +29,7 @@
 		- [[Cloudformation]]
 	-
 - Reference links:
+  collapsed:: true
 	- CodeCommit
 		- https://www.atlassian.com/git/tutorials/using-branches
 		- https://docs.aws.amazon.com/codecommit/latest/userguide/auth-and-access-control-iam-identity-based-access-control.html
