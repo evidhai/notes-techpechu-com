@@ -7,7 +7,8 @@
 	- Pure hands-on and going to need practice , practice so let's get our hands dirty 😊
 	- Get your AWS account created
 	- Get your AWS CLI setup
-- ## CICD Overview
+- ## CICD Overview (Day 1)
+  collapsed:: true
 	- ### Continuous Integratio
 	  collapsed:: true
 		- ![image.png](../assets/image_1647885932857_0.png)
@@ -21,8 +22,8 @@
 		- [[Code Build]]
 		- [[Elastic Beanstalk]]
 		- [[Code Deploy]]
-		- Jenkins CI
-		- Cloudformation
+		- [[Jenkins CI]]
+		- [[Cloudformation]]
 	-
 -
 -
