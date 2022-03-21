@@ -11,6 +11,7 @@
 	- Day 1
 		- ((6238bf86-e7cf-4b09-acb6-89a9bd9e1307))
 	- Day 2
+		- ((6238bf86-9de5-49b0-8f5f-ab6c7d976ced))
 		-
 - ## CICD Overview
   id:: 6238bf86-e7cf-4b09-acb6-89a9bd9e1307
@@ -23,6 +24,7 @@
 			- No manual intervention at all
 	- ### Stacks to focus on
 		- [[Code Commit]]
+		  id:: 6238bf86-9de5-49b0-8f5f-ab6c7d976ced
 		- [[Code Build]]
 		- [[Elastic Beanstalk]]
 		- [[Code Deploy]]
