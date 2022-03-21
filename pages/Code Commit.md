@@ -6,5 +6,5 @@
 - #+BEGIN_WARNING
   Don't use root account to create ssh , always use non-root account
   #+END_WARNING
-- Credential creation for Code Commit
-	-
+- Credential creation for Code Commit ->  [AWS Reference](https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-ssh-unixes.html)
+-
