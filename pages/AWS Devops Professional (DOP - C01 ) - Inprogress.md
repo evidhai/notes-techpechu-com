@@ -10,9 +10,10 @@
 - Day wise planner
 	- Day 1
 		- ((6238bf86-e7cf-4b09-acb6-89a9bd9e1307))
+	- Day 2
+		-
 - ## CICD Overview
   id:: 6238bf86-e7cf-4b09-acb6-89a9bd9e1307
-  collapsed:: true
 	- ### Continuous Integratio
 		- ![image.png](../assets/image_1647885932857_0.png)
 	- ### Continuous Delivery vs Deployment
@@ -29,7 +30,7 @@
 		- [[Cloudformation]]
 	-
 	- #+BEGIN_NOTE
-	  
+	  We will go in depth on above stacks in upcoming days
 	  #+END_NOTE
 - Reference links:
   collapsed:: true
