@@ -24,4 +24,5 @@
 - [[Cloudwatch events]]
   collapsed:: true
 	- We can setup cloudwatch events configured based on Code Commit and can trigger multiple components like [[Lambda]] [[SNS]] [Refer here](https://docs.aws.amazon.com/codepipeline/latest/userguide/pipelines-trigger-source-repo-changes-console.html) #hands-on
--
+- Code Commit as [[Lambda]] trigger
+	- We can use Code Commit as Lambda trigger , so when ever a change occured on Code Commit Lm
