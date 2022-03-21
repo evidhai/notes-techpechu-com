@@ -1,5 +1,5 @@
-- Introduction
+- Overview
 	- It's a private repository
 	- Infinite storage space
 	- Files inside repositories can be encrypted
-	- Can be integrated with any pipeline tools like Jenkins, Gitlab ..
+	- Can be integrated with any pipeline tools like Jenkins
