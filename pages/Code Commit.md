@@ -14,4 +14,5 @@
 	- ![image.png](../assets/image_1647887484356_0.png)
 	-
 - Restrict people to directly publish changes to Master branch
+	- To protect people from directly pushing changes to Master branch , we can restrict it with IAM policy
 -
