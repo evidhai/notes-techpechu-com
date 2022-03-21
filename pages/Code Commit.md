@@ -16,4 +16,4 @@
 - Protect Master branch from unwanted commits #exam-revise
   collapsed:: true
 	- To protect people from directly pushing changes to Master branch , we can restrict it with IAM policy [Guide to create IAM policy](https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-conditional-branch.html) #hands-on
--
+- Triggers and Notifications
