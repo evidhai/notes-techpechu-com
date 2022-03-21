@@ -13,7 +13,7 @@
   collapsed:: true
 	- ![image.png](../assets/image_1647887484356_0.png)
 	-
-- Restrict people to directly publish changes to Master branch
+- Protect Master branch from unwanted commits #exam-revise
   collapsed:: true
 	- To protect people from directly pushing changes to Master branch , we can restrict it with IAM policy [Guide to create IAM policy](https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-conditional-branch.html) #hands-on
 -
