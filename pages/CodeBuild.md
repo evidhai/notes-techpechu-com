@@ -59,3 +59,4 @@
   
   Remember if it's pre requisite and mandatory for a job like credentials, cloing repo etc all must go in pre-build phase
   #+END_TIP
+-
