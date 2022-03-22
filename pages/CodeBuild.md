@@ -54,3 +54,8 @@
 		  #+END_TIP
 	- Reference for buildspec syntax [here](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html#build-spec-ref-syntax)
 	- Use case based samples can be found [here](https://docs.aws.amazon.com/codebuild/latest/userguide/use-case-based-samples.html) #hands-on
+- #+BEGIN_TIP
+  How to decide which command to go in which phase??
+  
+  Remember if it's pre requisite
+  #+END_TIP
