@@ -83,5 +83,5 @@
 		- Total builds
 		- Duration Average
 - #+BEGIN_QUOTE
-  Have a read on User guide 
+  Have a read on User guide from AWS [here](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html) 
   #+END_QUOTE
