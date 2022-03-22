@@ -65,4 +65,4 @@
 	- Plaintext
 		- If it's non-sensitive information, just store it as plain text
 	- Parameter store
-		- For Sensitive information like password never save it as plaintex
+		- For Sensitive information like password never save it as plaintext, always store in [[parameter store]] and refer that here
