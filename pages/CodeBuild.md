@@ -18,21 +18,22 @@
 	- sample
 		- ```
 		  version: 0.2
+		  
 		  phases:
 		    install:
 		      runtime-versions:
 		        java: corretto11
 		    pre_build:
 		      commands:
-		          echo Nothing to do in the pre_build phase...
+		        - echo Nothing to do in the pre_build phase...
 		    build:
 		      commands:
-		          echo Build started on `date`
-		          mvn install
+		        - echo Build started on `date`
+		        - mvn install
 		    post_build:
 		      commands:
-		          echo Build completed on `date`
+		        - echo Build completed on `date`
 		  artifacts:
 		    files:
-		          target/messageUtil-1.0.jar
+		      - target/messageUtil-1.0.jar
 		  ```
