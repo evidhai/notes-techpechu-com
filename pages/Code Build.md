@@ -9,4 +9,8 @@
 		- [[KMS]] to encrypt build artifcats
 		- [[CloudTrail]] to track API calls
 - Working flow
+  collapsed:: true
 	- ![image.png](../assets/image_1647975987455_0.png)
+- #+BEGIN_NOTE
+  Timeout and Queue timings can be set from 5 minutes to 8 hours. Where as in Lambda we get only max of 15min 
+  #+END_NOTE
