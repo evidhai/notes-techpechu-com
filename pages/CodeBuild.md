@@ -82,3 +82,6 @@
 		- Failure builds
 		- Total builds
 		- Duration Average
+- #+BEGIN_QUOTE
+  Have a read on User guide 
+  #+END_QUOTE
