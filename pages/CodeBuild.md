@@ -53,4 +53,4 @@
 		  Finally is used to do any cleanup before terminating
 		  #+END_TIP
 	- Reference for buildspec syntax [here](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html#build-spec-ref-syntax)
-	- Use case based samples can be found
+	- Use case based samples can be found [here](https://docs.aws.amazon.com/codebuild/latest/userguide/use-case-based-samples.html) #hands-on
