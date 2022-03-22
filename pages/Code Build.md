@@ -4,4 +4,5 @@
 	- It's secured :
 		- can be controlled with [[IAM]]
 		- Network settings can be played with [[VPC]]
-		-
+		- [[KMS]] to encrypt build artifcats
+		- [[CloudTrail]] to track API calls
