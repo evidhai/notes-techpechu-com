@@ -79,4 +79,6 @@
 	- For each build individual CloudWatch log stream will be created
 	- We get below metrics from CloudWatch #exam-revise
 		- Succeed builds
-		-
+		- Failure builds
+		- Total builds
+		- Duration Average
