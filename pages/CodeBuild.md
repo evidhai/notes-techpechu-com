@@ -57,5 +57,5 @@
 - #+BEGIN_TIP
   How to decide which command to go in which phase??
   
-  Remember if it's pre requisite
+  Remember if it's pre requisite and mandatory for a job like credentials, cloing repo etc all must go in pre-build phase
   #+END_TIP
