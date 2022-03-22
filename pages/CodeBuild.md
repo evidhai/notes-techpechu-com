@@ -14,8 +14,9 @@
   #+BEGIN_NOTE
   Timeout and Queue timings can be set from 5 minutes to 8 hours. Where as in Lambda we get only max of 15 min runtime
   #+END_NOTE
-- buildspec.yaml file overview
+- buildspec.yaml file Deep dive
 	- sample
+	  collapsed:: true
 		- ```
 		  version: 0.2
 		  
@@ -52,3 +53,4 @@
 		  Finally is used to do any cleanup before terminating
 		  #+END_TIP
 	- Reference for buildspec syntax [here](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html#build-spec-ref-syntax)
+	- Use case based samples can be found
