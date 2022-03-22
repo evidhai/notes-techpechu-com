@@ -46,4 +46,7 @@
 		  3. build
 		  4. post-build
 	- commands vs finally
-		- Finally is executed post commands and
+		- Finally is executed post commands and it will be executed for sure even if command initialised any error on execution
+		- #+BEGIN_TIP
+		  Finally is used 
+		  #+END_TIP
