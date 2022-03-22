@@ -72,4 +72,5 @@
 		- For Sensitive information like password never save it as plaintext, always store in [[parameter store]] and refer that here
 - Artifacts
 	- Any files that generated as outcome post running build is called artificats
-	- In artificat section of buildspec file we declare what files are to be included under art
+	- In artificat section of buildspec file we declare what files are to be included under artifcat
+	- The artifacts can be uploaded to S3 . Refer
