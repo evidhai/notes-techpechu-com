@@ -15,7 +15,8 @@
   Timeout and Queue timings can be set from 5 minutes to 8 hours. Where as in Lambda we get only max of 15 min runtime
   #+END_NOTE
 - buildspec.yaml file overview
-	- sample
+	- sample 
+	  collapsed:: true
 		- ```
 		  version: 0.2
 		  
