@@ -48,5 +48,5 @@
 	- commands vs finally
 		- Finally is executed post commands and it will be executed for sure even if command initialised any error on execution
 		- #+BEGIN_TIP
-		  Finally is used 
+		  Finally is used to do any cleanup before terminating
 		  #+END_TIP
