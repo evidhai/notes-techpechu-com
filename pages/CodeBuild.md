@@ -30,6 +30,8 @@
 		      commands:
 		        - echo Build started on `date`
 		        - mvn install
+		      finally:
+		        - echo Whoohoo
 		    post_build:
 		      commands:
 		        - echo Build completed on `date`
@@ -44,4 +46,4 @@
 		  3. build
 		  4. post-build
 	- commands vs finally
-		- Commands runs
+		- Finally is executed post commands and
