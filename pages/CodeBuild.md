@@ -15,7 +15,7 @@
   Timeout and Queue timings can be set from 5 minutes to 8 hours. Where as in Lambda we get only max of 15 min runtime
   #+END_NOTE
 - buildspec.yaml file overview
-	- sample 
+	- sample
 	  collapsed:: true
 		- ```
 		  version: 0.2
@@ -38,3 +38,9 @@
 		    files:
 		      - target/messageUtil-1.0.jar
 		  ```
+	- 4 phases which can define #exam-revise
+	  collapsed:: true
+		- 1. install
+		  2. pre-build
+		  3. build
+		  4. post-build
