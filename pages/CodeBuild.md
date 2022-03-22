@@ -60,9 +60,12 @@
   Remember if it's pre requisite and mandatory for a job like credentials, cloing repo etc all must go in pre-build phase
   #+END_TIP
 - Environment variables in buildspec file
+  collapsed:: true
 	- This is to pass any value and to access the variable at runtime
 	- Types:
 	- Plaintext
 		- If it's non-sensitive information, just store it as plain text
 	- Parameter store
 		- For Sensitive information like password never save it as plaintext, always store in [[parameter store]] and refer that here
+- Artifacts
+	-
