@@ -16,7 +16,6 @@
   #+END_NOTE
 - buildspec.yaml file overview
 	- sample
-	  collapsed:: true
 		- ```
 		  version: 0.2
 		  
@@ -44,3 +43,5 @@
 		  2. pre-build
 		  3. build
 		  4. post-build
+	- commands vs finally
+		- Commands runs
