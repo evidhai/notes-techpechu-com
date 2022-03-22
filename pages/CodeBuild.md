@@ -59,6 +59,9 @@
   
   Remember if it's pre requisite and mandatory for a job like credentials, cloing repo etc all must go in pre-build phase
   #+END_TIP
+- #+BEGIN_TIP
+  Use printenv command to 
+  #+END_TIP
 - Environment variables in buildspec file
   collapsed:: true
 	- This is to pass any value and to access the variable at runtime
@@ -68,4 +71,5 @@
 	- Parameter store
 		- For Sensitive information like password never save it as plaintext, always store in [[parameter store]] and refer that here
 - Artifacts
-	-
+	- Any files that generated as outcome post running build is called artificats
+	- In
