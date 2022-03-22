@@ -60,7 +60,7 @@
   Remember if it's pre requisite and mandatory for a job like credentials, cloing repo etc all must go in pre-build phase
   #+END_TIP
 - #+BEGIN_TIP
-  Use printenv command to 
+  Use `printenv` command to list all the local env variables
   #+END_TIP
 - Environment variables in buildspec file
   collapsed:: true
@@ -72,4 +72,4 @@
 		- For Sensitive information like password never save it as plaintext, always store in [[parameter store]] and refer that here
 - Artifacts
 	- Any files that generated as outcome post running build is called artificats
-	- In
+	- In artificat section of buildspec file we declare what files are to be included under art
