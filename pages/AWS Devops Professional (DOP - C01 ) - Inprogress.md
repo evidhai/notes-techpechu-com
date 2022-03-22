@@ -25,7 +25,7 @@
 	- ### Stacks to focus on
 		- [[Code Commit]]
 		  id:: 6238bf86-9de5-49b0-8f5f-ab6c7d976ced
-		- [[Code Build]]
+		- [[CodeBuild]]
 		- [[Elastic Beanstalk]]
 		- [[Code Deploy]]
 		- [[Jenkins CI]]

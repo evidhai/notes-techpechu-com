@@ -1,5 +1,5 @@
 - Overview
-  collapsed:: true
+	- It is elastic and server less service
 	- It's AWS equivalent of build tools like Jenkins
 	- Uses Docker under the hood (We can also use custom docker images) #exam-revise
 	- It's secured : #exam-revise
