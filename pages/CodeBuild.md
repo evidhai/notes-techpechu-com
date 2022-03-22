@@ -63,3 +63,6 @@
 	- This is to pass any value and to access the variable at runtime
 	- Types:
 	- Plaintext
+		- If it's non-sensitive information, just store it as plain text
+	- Parameter store
+		- For Sensitive information like password never save it as plaintex
