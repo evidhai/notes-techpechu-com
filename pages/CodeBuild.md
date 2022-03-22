@@ -71,6 +71,9 @@
 	- Parameter store
 		- For Sensitive information like password never save it as plaintext, always store in [[parameter store]] and refer that here
 - Artifacts
+  collapsed:: true
 	- Any files that generated as outcome post running build is called artificats
 	- In artificat section of buildspec file we declare what files are to be included under artifcat
 	- The artifacts can be uploaded to S3 . Refer [How to here](https://docs.aws.amazon.com/codebuild/latest/userguide/sample-disable-artifact-encryption.html) #hands-on
+- [[CloudWatch]] integration
+	-
