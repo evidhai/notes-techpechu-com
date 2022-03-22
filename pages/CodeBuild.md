@@ -76,4 +76,7 @@
 	- In artificat section of buildspec file we declare what files are to be included under artifcat
 	- The artifacts can be uploaded to S3 . Refer [How to here](https://docs.aws.amazon.com/codebuild/latest/userguide/sample-disable-artifact-encryption.html) #hands-on
 - [[CloudWatch]] integration
-	-
+	- For each build individual CloudWatch log stream will be created
+	- We get below metrics from CloudWatch #exam-revise
+		- Succeed builds
+		-
