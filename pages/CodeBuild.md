@@ -46,7 +46,9 @@
 		  3. build
 		  4. post-build
 	- commands vs finally
+	  collapsed:: true
 		- Finally is executed post commands and it will be executed for sure even if command initialised any error on execution
 		- #+BEGIN_TIP
 		  Finally is used to do any cleanup before terminating
 		  #+END_TIP
+	- Reference for buildspec syntax [here](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html#build-spec-ref-syntax)
