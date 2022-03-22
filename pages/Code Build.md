@@ -8,4 +8,5 @@
 		- Network settings can be played with [[VPC]]
 		- [[KMS]] to encrypt build artifcats
 		- [[CloudTrail]] to track API calls
--
+- Working flow
+	- ![image.png](../assets/image_1647975987455_0.png)
