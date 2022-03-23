@@ -15,8 +15,7 @@
 	- Day 3
 		- ((6238bf86-0802-4806-b2c6-5a1e0500f084))
 	- Day 4
-		- ((623a275d-36c2-43eb-b2e5-6612da8ffd3b))
-		- Practiced Hands-on and revised Day 1- 3
+		- ((623a275d-36c2-43eb-b2e5-6612da8ffd3b)) Practiced Hands-on for Dand revised Day 1- 3
 		-
 - ## CICD Overview
   id:: 6238bf86-e7cf-4b09-acb6-89a9bd9e1307
