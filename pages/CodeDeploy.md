@@ -33,3 +33,5 @@
 		- Before install
 		- Install
 		- After Install
+		- Application start
+	-
