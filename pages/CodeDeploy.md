@@ -17,4 +17,8 @@
 		- During deployment the instances will be taken offline
 	- Blue / Green
 		- Parallel Ec2 will be maintained here
-- Deployment settings
+- Deployment settings #exam-revise
+	- One at a time
+		- take one instance offline and perform the deployment at once
+	- Half at a time
+		- take half of instances (say i) offline and perform the deployment at once
