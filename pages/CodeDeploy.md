@@ -17,6 +17,7 @@
 		- During deployment the instances will be taken offline
 	- Blue / Green
 		- Parallel Ec2 will be maintained here
+		- You need to use ASG for this and one of ELB to be used
 - Deployment settings #exam-revise
 	- One at a time
 		- take one instance offline and perform the deployment at once
