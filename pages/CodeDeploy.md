@@ -28,4 +28,8 @@
 	- All at once
 		- All instances will be taken down and deployment will occur
 - appspec.yml - deepdive #exam-revise
-	-
+	- Stages
+		- Application stop
+		- Before install
+		- Install
+		- After Install
