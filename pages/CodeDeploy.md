@@ -79,4 +79,6 @@
 - Deployment Hooks for Lambda deployment
 	- Start
 	- Before allow traffic
-	-
+	- Allow Traffic
+	- After Allow Traffic
+	- End
