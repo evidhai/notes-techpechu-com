@@ -7,5 +7,7 @@
 	- ![image.png](../assets/image_1648145458219_0.png)
 	-
 - #+BEGIN_IMPORTANT
-  Code deployment can be chained to [[CodePipeline]] 
+  - Code deployment can be chained to [[CodePipeline]] 
+  - It supports Deployment at Lambda and EC2
+  - EC2 instances are grouped by deployment group (dev, test)
   #+END_IMPORTANT
