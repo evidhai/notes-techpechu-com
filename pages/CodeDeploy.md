@@ -50,3 +50,7 @@
 - #+BEGIN_TIP
   CodeDeploy can be integrated with [[CloudWatch]] followed by CloudWatch events and alarm, also can be pointed to SNS notification
   #+END_TIP
+- Rollbacks #exam-revise
+	- Automatic Rollback
+		- Rollback when deployment fail
+		-
