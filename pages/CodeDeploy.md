@@ -8,6 +8,6 @@
 	-
 - #+BEGIN_IMPORTANT
   - Code deployment can be chained to [[CodePipeline]] 
-  - It supports Deployment at Lambda and EC2
-  - EC2 instances are grouped by deployment group (dev, test)
+  - It supports Deployment at Lambda , EC2 , On
+  - EC2 instances are grouped by deployment group (dev, test ,prod)
   #+END_IMPORTANT
