@@ -48,5 +48,5 @@
 		- LIFECYCLE_EVENT
 			- The name of the current deployment lifecycle event (for example, AfterInstall).
 - #+BEGIN_TIP
-  CodeDeploy can be integrated with Clou
+  CodeDeploy can be integrated with [[CloudWatch]] followed by CloudWatch events and alarm, also can be pointed to SNS notification
   #+END_TIP
