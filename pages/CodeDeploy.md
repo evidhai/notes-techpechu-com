@@ -13,15 +13,19 @@
   #+END_IMPORTANT
 - Configure CodeDeploy agent at EC2 instance [Refer here](https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-ec2-configure.html) #hands-on
 - Deployment types #exam-revise
+  collapsed:: true
 	- In-place
 		- During deployment the instances will be taken offline
 	- Blue / Green
 		- Parallel Ec2 will be maintained here
 		- You need to use ASG for this and one of ELB to be used
 - Deployment settings #exam-revise
+  collapsed:: true
 	- One at a time
 		- take one instance offline and perform the deployment at once
 	- Half at a time
 		- take half of instances (say if you have 4 instances 2 will be done at once) offline and perform the deployment at once
 	- All at once
 		- All instances will be taken down and deployment will occur
+- appspec.yml - deepdive #exam-revise
+	-
