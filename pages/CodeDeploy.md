@@ -71,4 +71,6 @@
 	  #+END_WARNING
 - Deployment Configuration for Lambda #exam-revise
 	- Canary
-		- - Here initial x % traffic will be shifted to new version and then 100% will be directly shift
+		- - Here initial x % traffic will be shifted to new version and then 100% will be directly shifted on the 2nd increment itself
+	- Linear
+		- The version happ
