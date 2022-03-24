@@ -32,7 +32,7 @@
 		- [[CodeBuild]]
 		  id:: 6238bf86-0802-4806-b2c6-5a1e0500f084
 		- [[Elastic Beanstalk]]
-		- [[Code Deploy]]
+		- [[CodeDeploy]]
 		- [[Jenkins CI]]
 		- [[Cloudformation]]
 	-
