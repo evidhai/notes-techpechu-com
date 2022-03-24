@@ -61,5 +61,5 @@
 	- Rollback and redeployment workflow
 	- Rollback behavior with existing content
 - CodeDeploy on On-premise instance
-- - You need one IAM per On-premise instances
--
+	- You need one IAM per On-premise instances
+		- [Guide](https://docs.aws.amazon.com/codedeploy/latest/userguide/on-premises-instances-register.html) #hands-on
