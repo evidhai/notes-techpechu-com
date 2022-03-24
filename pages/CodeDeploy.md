@@ -70,6 +70,7 @@
 	  For better security use STS to create temp credentials
 	  #+END_WARNING
 - Deployment Configuration for Lambda #exam-revise
+  collapsed:: true
 	- Canary
 		- - Here initial x % traffic will be shifted to new version and then 100% will be directly shifted on the 2nd increment itself
 	- Linear
