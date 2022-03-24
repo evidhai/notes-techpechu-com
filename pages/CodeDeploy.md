@@ -14,4 +14,7 @@
 - Configure CodeDeploy agent at EC2 instance [Refer here](https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-ec2-configure.html) #hands-on
 - Deployment types #exam-revise
 	- In-place
-		- Due
+		- During deployment the instances will be taken offline
+	- Blue / Green
+		- Parallel Ec2 will be maintained here
+		-
