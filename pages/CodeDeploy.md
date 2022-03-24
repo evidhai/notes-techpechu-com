@@ -61,6 +61,7 @@
 	- Rollback and redeployment workflow
 	- Rollback behavior with existing content
 - CodeDeploy on On-premise instance
+  collapsed:: true
 	- You need one IAM per On-premise instances
 		- [Guide](https://docs.aws.amazon.com/codedeploy/latest/userguide/on-premises-instances-register.html) #hands-on
 	- #+BEGIN_WARNING
@@ -68,3 +69,6 @@
 	  Best practice is to use IAM session ARN to manage instances at large scale
 	  For better security use STS to create temp credentials
 	  #+END_WARNING
+- Deployment Configuration for Lambda #exam-revise
+	- Canary
+		- - Here initial x % traffic will be shifted to new version and then 100% will be directly shift
