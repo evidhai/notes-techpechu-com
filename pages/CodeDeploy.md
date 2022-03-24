@@ -21,4 +21,6 @@
 	- One at a time
 		- take one instance offline and perform the deployment at once
 	- Half at a time
-		- take half of instances (say i) offline and perform the deployment at once
+		- take half of instances (say if you have 4 instances 2 will be done at once) offline and perform the deployment at once
+	- All at once
+		- All instances will be taken down and deployment will occur
