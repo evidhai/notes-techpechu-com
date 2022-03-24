@@ -28,6 +28,7 @@
 	- All at once
 		- All instances will be taken down and deployment will occur
 - appspec.yml - deepdive
+  collapsed:: true
 	- Stages #exam-revise
 		- Application stop
 		- Before install
@@ -35,7 +36,7 @@
 		- After Install
 		- Application start
 	- Appsec hooks - Have a read on [here](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html)
-	- Environment variables availablity for hook
+	- Environment variables availablity for hook #exam-revise
 		- APPLICATION_NAME
 			- The name of the application in CodeDeploy that is part of the current deployment (for example, WordPress_App).
 		- DEPLOYMENT_ID
@@ -46,3 +47,6 @@
 			- The ID of the deployment group in CodeDeploy that is part of the current deployment (for example, b1a2189b-dd90-4ef5-8f40-4c1c5EXAMPLE).
 		- LIFECYCLE_EVENT
 			- The name of the current deployment lifecycle event (for example, AfterInstall).
+- #+BEGIN_TIP
+  CodeDeploy can be integrated with Clou
+  #+END_TIP
