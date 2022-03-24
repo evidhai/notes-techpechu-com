@@ -73,4 +73,5 @@
 	- Canary
 		- - Here initial x % traffic will be shifted to new version and then 100% will be directly shifted on the 2nd increment itself
 	- Linear
-		- The version happ
+		- The version swap happens x% by x% (equal % at equal number of interval)
+	- All at once
