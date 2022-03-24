@@ -27,11 +27,12 @@
 		- take half of instances (say if you have 4 instances 2 will be done at once) offline and perform the deployment at once
 	- All at once
 		- All instances will be taken down and deployment will occur
-- appspec.yml - deepdive #exam-revise
-	- Stages
+- appspec.yml - deepdive
+	- Stages #exam-revise
 		- Application stop
 		- Before install
 		- Install
 		- After Install
 		- Application start
+	- Appsec hooks - Have a read on [here](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html)
 	-
