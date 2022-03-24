@@ -76,3 +76,7 @@
 	- Linear
 		- The version swap happens x% by x% (equal % at equal number of interval)
 	- All at once
+- Deployment Hooks for Lambda deployment
+	- Start
+	- Before allow traffic
+	-
