@@ -17,4 +17,4 @@
 		- During deployment the instances will be taken offline
 	- Blue / Green
 		- Parallel Ec2 will be maintained here
-		-
+- Deployment settings
