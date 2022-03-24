@@ -51,7 +51,7 @@
   CodeDeploy can be integrated with [[CloudWatch]] followed by CloudWatch events and alarm, also can be pointed to SNS notification
   #+END_TIP
 - Rollbacks #exam-revise
-	-
+	- Refer [here](https://docs.aws.amazon.com/codedeploy/latest/userguide/deployments-rollback-and-redeploy.html)
 	- Automatic Rollback
 		- Rollback when deployment fail
 		- Rollback when alarm thershold are met
