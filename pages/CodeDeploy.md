@@ -35,4 +35,14 @@
 		- After Install
 		- Application start
 	- Appsec hooks - Have a read on [here](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html)
-	-
+	- Environment variables availablity for hook
+		- APPLICATION_NAME
+			- The name of the application in CodeDeploy that is part of the current deployment (for example, WordPress_App).
+		- DEPLOYMENT_ID
+			- The ID CodeDeploy has assigned to the current deployment (for example, d-AB1CDEF23).
+		- DEPLOYMENT_GROUP_NAME
+			- The name of the deployment group in CodeDeploy that is part of the current deployment (for example, WordPress_DepGroup).
+			  DEPLOYMENT_GROUP_ID
+		- The ID of the deployment group in CodeDeploy that is part of the current deployment (for example, b1a2189b-dd90-4ef5-8f40-4c1c5EXAMPLE).
+		  LIFECYCLE_EVENT
+		- The name of the current deployment lifecycle event (for example, AfterInstall).
