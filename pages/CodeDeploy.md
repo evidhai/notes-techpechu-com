@@ -53,4 +53,5 @@
 - Rollbacks #exam-revise
 	- Automatic Rollback
 		- Rollback when deployment fail
-		-
+		- Rollback when alarm thershold are met
+			- - Can be configured cloudwatch alarm
