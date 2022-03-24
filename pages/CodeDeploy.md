@@ -63,4 +63,8 @@
 - CodeDeploy on On-premise instance
 	- You need one IAM per On-premise instances
 		- [Guide](https://docs.aws.amazon.com/codedeploy/latest/userguide/on-premises-instances-register.html) #hands-on
-	-
+	- #+BEGIN_WARNING
+	  #exam-revise 
+	  Best practice is to use IAM session ARN to manage instances at large scale
+	  For better security use STS to create temp credentials
+	  #+END_WARNING
