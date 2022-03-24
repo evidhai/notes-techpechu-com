@@ -60,4 +60,5 @@
 	- Manual rollbacks
 	- Rollback and redeployment workflow
 	- Rollback behavior with existing content
--
+- CodeDeploy on On-premise instance
+	- - You need one IAM per On-premise instances
