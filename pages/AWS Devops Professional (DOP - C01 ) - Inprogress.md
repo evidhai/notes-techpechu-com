@@ -16,6 +16,9 @@
 		- ((6238bf86-0802-4806-b2c6-5a1e0500f084))
 	- Day 4
 		- ((623a275d-36c2-43eb-b2e5-6612da8ffd3b)) Practiced Hands-on and revised topic for Day 1 - 3
+	- Day 5
+		- ((6238bf86-06af-45c9-9724-cf8f40badcc2))
+		-
 		-
 - ## CICD Overview
   id:: 6238bf86-e7cf-4b09-acb6-89a9bd9e1307
@@ -33,6 +36,7 @@
 		  id:: 6238bf86-0802-4806-b2c6-5a1e0500f084
 		- [[Elastic Beanstalk]]
 		- [[CodeDeploy]]
+		  id:: 6238bf86-06af-45c9-9724-cf8f40badcc2
 		- [[Jenkins CI]]
 		- [[Cloudformation]]
 	-
