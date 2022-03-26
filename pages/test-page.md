@@ -8,4 +8,4 @@ tags: [aws,faq]     # TAG names should always be lowercase
      crossorigin="anonymous"></script>
 
 - This is a test page
-	- Testing 123
+	- Testing
