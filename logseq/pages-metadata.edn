@@ -49,9 +49,6 @@
  {:block/name "done",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
- {:block/name "draws/2022-03-17-00-13-15.excalidraw",
-  :block/created-at 1647456965029,
-  :block/updated-at 1647456965029}
  {:block/name "elastic beanstalk",
   :block/created-at 1647886214748,
   :block/updated-at 1647886214748}
@@ -73,6 +70,9 @@
  {:block/name "hands-on",
   :block/created-at 1647887065300,
   :block/updated-at 1648062548062}
+ {:block/name "hello world",
+  :block/created-at 1648316493035,
+  :block/updated-at 1648316493035}
  {:block/name "hi",
   :block/created-at 1648304330422,
   :block/updated-at 1648304330422}
@@ -97,39 +97,9 @@
  {:block/name "later",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
- {:block/name "mar 12th, 2022",
-  :block/created-at 1647074592229,
-  :block/updated-at 1647074592229}
- {:block/name "mar 17th, 2022",
-  :block/created-at 1647455662094,
-  :block/updated-at 1647455662094}
- {:block/name "mar 21st, 2022",
-  :block/created-at 1647886214024,
-  :block/updated-at 1647886214024}
- {:block/name "mar 22nd, 2022",
-  :block/created-at 1647887403524,
-  :block/updated-at 1647887403524}
- {:block/name "mar 23rd, 2022",
-  :block/created-at 1647973852961,
-  :block/updated-at 1647973852961}
- {:block/name "mar 24th, 2022",
-  :block/created-at 1648062426855,
-  :block/updated-at 1648062426855}
- {:block/name "mar 25th, 2022",
-  :block/created-at 1648146646465,
-  :block/updated-at 1648146646465}
  {:block/name "mar 26th, 2022",
   :block/created-at 1648304238242,
   :block/updated-at 1648304238242}
- {:block/name "mar 2nd, 2022",
-  :block/created-at 1646179200000,
-  :block/updated-at 1646179200000}
- {:block/name "mar 5th, 2022",
-  :block/created-at 1646438400000,
-  :block/updated-at 1646438400000}
- {:block/name "mar 6th, 2022",
-  :block/created-at 1646524800000,
-  :block/updated-at 1646524800000}
  {:block/name "now",
   :block/created-at 1646899294263,
   :block/updated-at 1646899294263}
@@ -139,6 +109,9 @@
  {:block/name "preparation]",
   :block/created-at 1648315567600,
   :block/updated-at 1648315567600}
+ {:block/name "readme",
+  :block/created-at 1648316493014,
+  :block/updated-at 1648316493014}
  {:block/name "sns",
   :block/created-at 1647888328583,
   :block/updated-at 1647888328583}
