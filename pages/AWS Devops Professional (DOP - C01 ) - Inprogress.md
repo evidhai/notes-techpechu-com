@@ -22,7 +22,8 @@
 		-
 - ## CICD Overview
   id:: 6238bf86-e7cf-4b09-acb6-89a9bd9e1307
-	- ### Continuous Integratio
+	- ### Continuous Integration
+	  collapsed:: true
 		- ![image.png](../assets/image_1647885932857_0.png)
 	- ### Continuous Delivery vs Deployment
 		- Continuous Delivery
