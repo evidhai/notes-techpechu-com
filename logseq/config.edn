@@ -11,7 +11,7 @@
  ;; need to use Markdown for some projects.
  ;; :preferred-format ""
  :preferred-format "Markdown"
- :feature/enable-grammarly? false
+ :feature/enable-grammarly? true
 
  ;; Git settings
  :git-pull-secs 60
