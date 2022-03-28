@@ -1,3 +1,3 @@
 - It is a Continuous delivery
-- ((623f65b8-1902-4455-a1a3-09cfb8e46d7e))
--
+- Recall : ((623f65b8-1902-4455-a1a3-09cfb8e46d7e))
+- It is made of stages
