@@ -23,5 +23,7 @@
 - Change detection options
 	- ![image.png](../assets/image_1648490586653_0.png)
 	- #+BEGIN_IMPORTANT
+	  - Use Cloudwatch event if to be triggered immediately on any new change
 	  
+	  - Use CodePipeline if to be checked periodically at certain interval
 	  #+END_IMPORTANT
