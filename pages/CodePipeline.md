@@ -42,5 +42,6 @@
 	- Stages are executed sequential or parallel based on the runorder
 	- By default value of runorder is 1
 	- Lower value of runorder executes first followed by the highest one
+	- [Reference](https://docs.aws.amazon.com/codepipeline/latest/userguide/reference-pipeline-structure.html)
 - Codepipeline bestpractice and usecase [here](https://docs.aws.amazon.com/codepipeline/latest/userguide/best-practices.html) #hands-on
 -
