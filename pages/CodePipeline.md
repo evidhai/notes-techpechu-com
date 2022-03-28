@@ -5,4 +5,5 @@
   - Each stage can perform various actions like Test, Build , Deploy or any
   #+END_TIP
 - CodePipeline is to orchestrate entire CICD
+- ![image.png](../assets/image_1648489920852_0.png)
 -
