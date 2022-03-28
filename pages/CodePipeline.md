@@ -4,4 +4,5 @@
 - #+BEGIN_TIP
   - Each stage can perform various actions like Test, Build , Deploy or any
   #+END_TIP
-- CodePipeline
+- CodePipeline is to orchestrate entire CICD
+-
