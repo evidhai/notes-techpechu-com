@@ -18,4 +18,5 @@
 - Supported source stages #exam-revise
 	- [[CodeCommit]]
 	- [[ECR]]
-	-
+	- [[S3]]
+	- GitHub
