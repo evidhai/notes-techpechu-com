@@ -1,0 +1,1 @@
+- It's nothing but output files or images that generated
