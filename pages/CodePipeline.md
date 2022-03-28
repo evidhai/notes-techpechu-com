@@ -35,4 +35,6 @@
   ie) Code pipeline can be in one region and CodeDeploy can be in another region
   #+END_NOTE
 - The stages in codepipeline can be both sequential or parallel
--
+- #+BEGIN_WARNING
+  Remember [[CodeBuild]] 
+  #+END_WARNING
