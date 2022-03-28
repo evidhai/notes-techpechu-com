@@ -11,4 +11,7 @@
   #+END_NOTE
 - Flow
 	- ![image.png](../assets/image_1648490249532_0.png)
-	-
+- #+BEGIN_WARNING
+  Bewar
+  ![image.png](../assets/image_1648490357610_0.png) 
+  #+END_WARNING
