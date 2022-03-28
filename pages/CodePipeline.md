@@ -28,5 +28,6 @@
 	  - Use CodePipeline if to be checked periodically at certain interval
 	  #+END_IMPORTANT
 - #+BEGIN_NOTE
-  
+  Cross region deployment is possible
+  ie) Code pipeline can be in one region and CodeDeploy can be in another region
   #+END_NOTE
