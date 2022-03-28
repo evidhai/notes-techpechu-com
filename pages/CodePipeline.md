@@ -40,4 +40,6 @@
   #+END_WARNING
 - runorder #exam-revise
 	- Stages are executed sequential or parallel based on the runorder
-	-
+	- By default value of runorder is 1
+	- Lower value of runorder executes first followed by the highest one
+-
