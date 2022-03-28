@@ -6,4 +6,6 @@
   #+END_TIP
 - CodePipeline is to orchestrate entire CICD
 - ![image.png](../assets/image_1648489920852_0.png)
--
+- #+BEGIN_NOTE
+  Each stage in pipeline can create [[Artifacts]] 
+  #+END_NOTE
