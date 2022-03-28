@@ -26,6 +26,7 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1647885932857_0.png)
 	- ### Continuous Delivery vs Deployment
+	  id:: 623f65b8-1902-4455-a1a3-09cfb8e46d7e
 		- Continuous Delivery
 			- When entire deployment till Production occurs with some manual intervention
 		- Continuous Deployment
