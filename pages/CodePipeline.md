@@ -38,3 +38,6 @@
 - #+BEGIN_WARNING
   Remember [[CodeBuild]]- Artifacts and CodePipeline Artifacts are not same. CodePipeline generates Artifacts on each stage and will be stored in [[S3]] 
   #+END_WARNING
+- runorder #exam-revise
+	- Stages are executed sequential or parallel based on the runorder
+	-
