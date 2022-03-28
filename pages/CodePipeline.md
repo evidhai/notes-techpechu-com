@@ -12,6 +12,7 @@
 - Flow
 	- ![image.png](../assets/image_1648490249532_0.png)
 - #+BEGIN_WARNING
-  Bewar
+  Beware if you choose Default then new S3 bucket will be created each time. Consider selecting Custom Location
   ![image.png](../assets/image_1648490357610_0.png) 
   #+END_WARNING
+-
