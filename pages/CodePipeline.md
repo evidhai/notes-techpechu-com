@@ -20,3 +20,8 @@
 	- [[ECR]]
 	- [[S3]]
 	- GitHub
+- Change detection options
+	- ![image.png](../assets/image_1648490586653_0.png)
+	- #+BEGIN_IMPORTANT
+	  
+	  #+END_IMPORTANT
