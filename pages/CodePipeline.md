@@ -9,4 +9,6 @@
 - #+BEGIN_NOTE
   Each stage in pipeline can create [[Artifacts]] 
   #+END_NOTE
--
+- Flow
+	- ![image.png](../assets/image_1648490249532_0.png)
+	-
