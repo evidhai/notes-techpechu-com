@@ -10,17 +10,20 @@
   Each stage in pipeline can create [[Artifacts]] 
   #+END_NOTE
 - Flow
+  collapsed:: true
 	- ![image.png](../assets/image_1648490249532_0.png)
 - #+BEGIN_WARNING
   Beware if you choose Default then new S3 bucket will be created each time. Consider selecting Custom Location
   ![image.png](../assets/image_1648490357610_0.png) 
   #+END_WARNING
 - Supported source stages #exam-revise
+  collapsed:: true
 	- [[CodeCommit]]
 	- [[ECR]]
 	- [[S3]]
 	- GitHub
 - Change detection options
+  collapsed:: true
 	- ![image.png](../assets/image_1648490586653_0.png)
 	- #+BEGIN_IMPORTANT
 	  - Use Cloudwatch event if to be triggered immediately on any new change
@@ -31,3 +34,4 @@
   Cross region deployment is possible
   ie) Code pipeline can be in one region and CodeDeploy can be in another region
   #+END_NOTE
+-
