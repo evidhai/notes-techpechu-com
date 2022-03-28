@@ -45,4 +45,6 @@
 	- [Reference](https://docs.aws.amazon.com/codepipeline/latest/userguide/reference-pipeline-structure.html)
 - Codepipeline bestpractice and usecase [here](https://docs.aws.amazon.com/codepipeline/latest/userguide/best-practices.html) #hands-on
 - Permission for Lambda #exam-revise
-	-
+	- Lambda must contain for execution
+		- PutJobSuccessResult
+		- PutJobFailureResult
