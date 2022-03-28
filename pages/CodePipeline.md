@@ -36,5 +36,5 @@
   #+END_NOTE
 - The stages in codepipeline can be both sequential or parallel
 - #+BEGIN_WARNING
-  Remember [[CodeBuild]] 
+  Remember [[CodeBuild]]- Artifacts and CodePipeline Artifacts are not same. CodePipeline generates Artifacts on each stage and will be stored 
   #+END_WARNING
