@@ -35,6 +35,7 @@
 		  id:: 6238bf86-9de5-49b0-8f5f-ab6c7d976ced
 		- [[CodeBuild]]
 		  id:: 6238bf86-0802-4806-b2c6-5a1e0500f084
+		- [[CodePipeline]]
 		- [[Elastic Beanstalk]]
 		- [[CodeDeploy]]
 		  id:: 6238bf86-06af-45c9-9724-cf8f40badcc2
