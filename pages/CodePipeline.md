@@ -27,3 +27,6 @@
 	  
 	  - Use CodePipeline if to be checked periodically at certain interval
 	  #+END_IMPORTANT
+- #+BEGIN_NOTE
+  
+  #+END_NOTE
