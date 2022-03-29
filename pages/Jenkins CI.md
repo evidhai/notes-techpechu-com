@@ -16,4 +16,4 @@
 	  In some case you can even have more than one master
 	  #+END_TIP
 - AWS Whitepaper : [Refer](https://d1.awsstatic.com/whitepapers/DevOps/Jenkins_on_AWS.pdf)
--
+- Must known Jenkins plugin
