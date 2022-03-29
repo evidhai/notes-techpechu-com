@@ -24,6 +24,7 @@
 		-
 		-
 - # Topic: SDLC Atomation
+  collapsed:: true
 	- ## CICD Overview
 	  id:: 6238bf86-e7cf-4b09-acb6-89a9bd9e1307
 	  collapsed:: true
@@ -104,8 +105,7 @@
 			- https://wiki.jenkins.io/display/JENKINS/Artifact+Manager+S3+Plugin
 			- https://wiki.jenkins.io/display/JENKINS/AWS+CodePipeline+Plugin
 	- TODO Whitepaters to read on
-		- MUST READ - Blue/Green Deployments on AWS
-		      https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
+		- MUST READ - Blue/Green Deployments on AWS/   https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
 		  RECOMMENDED - Practicing Continuous Integration Continuous Delivery on AWS
 		      https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
 		  RECOMMENDED - Jenkins on AWS
