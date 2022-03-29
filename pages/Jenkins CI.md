@@ -24,5 +24,8 @@
 		- Automatically spins up and down Jenkins slave based on the load
 	- AWS CodeBuild
 		- It's more serverless way of doing
-		- Each run will be like a codebuild and EC2 will be
+		- Each run will be like a codebuild and EC2 will be bright down once the run is finished
+	- ECS
+	- CodePipeline
+		- For
 		-
