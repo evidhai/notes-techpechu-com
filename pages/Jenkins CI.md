@@ -1,1 +1,6 @@
-- Opensource CICD tii
+- It is an Opensource CICD tool
+- It can replace
+	- CodeBuild
+	- CodePipeline
+	- CodeDeploy
+- Things to consider
