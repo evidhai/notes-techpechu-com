@@ -12,4 +12,5 @@
 - Architecture options:
 	- Can have Master and Slave both at same EC2 instance
 	- Can have Master and Slave on seperate EC2 instances
+- AWS Whitepaper : [refer](https://d1.awsstatic.com/whitepapers/DevOps/Jenkins_on_AWS.pdf)
 	-
