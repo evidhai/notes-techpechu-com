@@ -27,5 +27,7 @@
 		- Each run will be like a codebuild and EC2 will be bright down once the run is finished
 	- ECS
 	- CodePipeline
-		- For
+		- For CodePipeline integration
+	- S3
+		- To store the [[Artifacts]] in the S3
 		-
