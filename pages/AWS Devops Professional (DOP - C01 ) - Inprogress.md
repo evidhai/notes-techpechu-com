@@ -21,13 +21,11 @@
 	- Day 6
 		- ((6241f27e-2baa-4ed5-b069-efe8195f6dab))
 	- Day 7
-		-
-		-
-		-
+		- ((62434b14-d801-44a9-b621-c1582ce00474))
+		- ((623f65b8-4fd2-44e9-bfb7-ff675907fa4c))
 - # Topic: SDLC Atomation
 	- ## CICD Overview
 	  id:: 6238bf86-e7cf-4b09-acb6-89a9bd9e1307
-	  collapsed:: true
 		- ### Continuous Integration
 		  collapsed:: true
 			- ![image.png](../assets/image_1647885932857_0.png)
@@ -45,10 +43,12 @@
 			- [[CodePipeline]]
 			  id:: 6241f27e-2baa-4ed5-b069-efe8195f6dab
 			- [[CodeStar]]
+			  id:: 62434b14-d801-44a9-b621-c1582ce00474
 			- [[Elastic Beanstalk]]
 			- [[CodeDeploy]]
 			  id:: 6238bf86-06af-45c9-9724-cf8f40badcc2
 			- [[Jenkins CI]]
+			  id:: 623f65b8-4fd2-44e9-bfb7-ff675907fa4c
 			- [[Cloudformation]]
 		-
 		- #+BEGIN_NOTE
