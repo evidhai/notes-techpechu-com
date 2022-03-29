@@ -1,5 +1,4 @@
 - #+BEGIN_NOTE
   Not that important for exam knowing basic is enough for exam
   #+END_NOTE
-- CodeStar is an integrated tool (Code )and provide simplified UI
--
+- CodeStar is an integrated tool (CodeCommit , Build , Deploy .. all can be created at once)and provide simplified UI
