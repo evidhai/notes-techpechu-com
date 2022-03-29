@@ -18,9 +18,11 @@
 - AWS Whitepaper : [Refer](https://d1.awsstatic.com/whitepapers/DevOps/Jenkins_on_AWS.pdf)
 - Must known Jenkins plugin #exam-revise
 	- #+BEGIN_NOTE
-	  Below are just plugin name, don't confuse it with AWS
+	  Below are just plugin names, don't confuse it with actual AWS services
 	  #+END_NOTE
 	- Amazon EC2
 		- Automatically spins up and down Jenkins slave based on the load
 	- AWS CodeBuild
+		- It's more serverless way of doing
+		- Each run will be like a codebuild and EC2 will be
 		-
