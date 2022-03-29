@@ -8,7 +8,6 @@
 	- Get your AWS account created
 	- Get your AWS CLI setup
 - Day wise tracker
-  collapsed:: true
 	- Day 1
 		- ((6238bf86-e7cf-4b09-acb6-89a9bd9e1307))
 	- Day 2
@@ -21,10 +20,11 @@
 		- ((6238bf86-06af-45c9-9724-cf8f40badcc2))
 	- Day 6
 		- ((6241f27e-2baa-4ed5-b069-efe8195f6dab))
+	- Day 7
+		-
 		-
 		-
 - # Topic: SDLC Atomation
-  collapsed:: true
 	- ## CICD Overview
 	  id:: 6238bf86-e7cf-4b09-acb6-89a9bd9e1307
 	  collapsed:: true
