@@ -7,5 +7,6 @@
 	- Must be deployed in Master/Slace config
 	- Should deploy on Multi AZ Ec2
 	- All projects muct contains **Jenkinsfile** -> which tells what action to be performed
-	  Similar to ((623f65b9-47e8-4737-9d94-60a76c79303e))
+	  ^ Similar to ((623f65b9-47e8-4737-9d94-60a76c79303e))
 	-
+-
