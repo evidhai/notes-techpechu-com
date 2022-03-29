@@ -3,4 +3,7 @@
 	- CodeBuild
 	- CodePipeline
 	- CodeDeploy
-- Things to consider
+- Things to consider #exam-revise
+	- Must be deployed in Master/Slace config
+	- Should deploy on Multi AZ Ec2
+	- All projects much
