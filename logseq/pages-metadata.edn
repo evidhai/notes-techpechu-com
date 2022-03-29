@@ -4,9 +4,12 @@
  {:block/name "a",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
+ {:block/name "artifacts",
+  :block/created-at 1648490003320,
+  :block/updated-at 1648490079701}
  {:block/name "aws devops professional (dop - c01 ) - inprogress",
   :block/created-at 1647455662443,
-  :block/updated-at 1648314156739}
+  :block/updated-at 1648494767650}
  {:block/name "b",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
@@ -39,7 +42,7 @@
   :block/updated-at 1648148841341}
  {:block/name "codepipeline",
   :block/created-at 1648145571056,
-  :block/updated-at 1648145571056}
+  :block/updated-at 1648494054252}
  {:block/name "contents",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
@@ -49,6 +52,9 @@
  {:block/name "done",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
+ {:block/name "ecr",
+  :block/created-at 1648490484625,
+  :block/updated-at 1648490484625}
  {:block/name "elastic beanstalk",
   :block/created-at 1647886214748,
   :block/updated-at 1647886214748}
@@ -103,6 +109,9 @@
  {:block/name "mar 28th, 2022",
   :block/created-at 1648405841853,
   :block/updated-at 1648405841853}
+ {:block/name "mar 29th, 2022",
+  :block/created-at 1648492203408,
+  :block/updated-at 1648492203408}
  {:block/name "now",
   :block/created-at 1646899294263,
   :block/updated-at 1646899294263}
@@ -115,6 +124,9 @@
  {:block/name "readme",
   :block/created-at 1648316493014,
   :block/updated-at 1648316493014}
+ {:block/name "s3",
+  :block/created-at 1648490489536,
+  :block/updated-at 1648490489536}
  {:block/name "sns",
   :block/created-at 1647888328583,
   :block/updated-at 1647888328583}
