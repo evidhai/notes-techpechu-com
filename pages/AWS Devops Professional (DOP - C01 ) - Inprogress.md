@@ -24,84 +24,94 @@
 		-
 		-
 - # Topic: SDLC Atomation
--
-- ## CICD Overview
-  id:: 6238bf86-e7cf-4b09-acb6-89a9bd9e1307
-  collapsed:: true
-	- ### Continuous Integration
+	- ## CICD Overview
+	  id:: 6238bf86-e7cf-4b09-acb6-89a9bd9e1307
 	  collapsed:: true
-		- ![image.png](../assets/image_1647885932857_0.png)
-	- ### Continuous Delivery vs Deployment
-	  id:: 623f65b8-1902-4455-a1a3-09cfb8e46d7e
-		- Continuous Delivery
-			- When entire deployment till Production occurs with some manual intervention
-		- Continuous Deployment
-			- No manual intervention at all
-	- ### Stacks to focus on
-		- [[CodeCommit]]
-		  id:: 6238bf86-9de5-49b0-8f5f-ab6c7d976ced
-		- [[CodeBuild]]
-		  id:: 6238bf86-0802-4806-b2c6-5a1e0500f084
-		- [[CodePipeline]]
-		  id:: 6241f27e-2baa-4ed5-b069-efe8195f6dab
-		- [[CodeStar]]
-		- [[Elastic Beanstalk]]
-		- [[CodeDeploy]]
-		  id:: 6238bf86-06af-45c9-9724-cf8f40badcc2
-		- [[Jenkins CI]]
-		- [[Cloudformation]]
-	-
-	- #+BEGIN_NOTE
-	  We will go in depth on above stacks in upcoming days
-	  #+END_NOTE
-- Reference links:
-  collapsed:: true
-	- CodeCommit
-		- https://www.atlassian.com/git/tutorials/using-branches
-		- https://docs.aws.amazon.com/codecommit/latest/userguide/auth-and-access-control-iam-identity-based-access-control.html
-		- https://aws.amazon.com/blogs/devops/refining-access-to-branches-in-aws-codecommit/
-		- https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-notify.html
-		- https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-repository-email.html )
-		- https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-notify-lambda.html
-		- https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-migrate-repository-existing.html
-	- CodeBuild
-		- https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html
-		- https://docs.aws.amazon.com/codebuild/latest/userguide/samples.html
-		- https://docs.aws.amazon.com/codebuild/latest/userguide/sample-docker.html
-		- https://aws.amazon.com/blogs/devops/validating-aws-codecommit-pull-requests-with-aws-codebuild-and-aws-lambda/
-	- CodeDeploy
-		- https://docs.aws.amazon.com/codedeploy/latest/APIReference/API_MinimumHealthyHosts.html
-		- https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html
-		- https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html#appspec-hooks-server
-		- https://docs.amazonaws.cn/en_us/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html#reference-appspec-file-structure-environment-variable-availability
-		- https://docs.aws.amazon.com/codedeploy/latest/userguide/monitoring-cloudwatch-events.html
-		- https://aws.amazon.com/blogs/devops/view-aws-codedeploy-logs-in-amazon-cloudwatch-console/
-		- https://docs.aws.amazon.com/codedeploy/latest/userguide/monitoring-sns-event-notifications.html
-		- https://docs.aws.amazon.com/codedeploy/latest/userguide/deployments-rollback-and-redeploy.html
-		- https://docs.aws.amazon.com/codedeploy/latest/userguide/deployment-groups-configure-advanced-options.html
-		- https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-on-premises.html
-		- https://docs.aws.amazon.com/codedeploy/latest/userguide/register-on-premises-instance-iam-user-arn.html
-		- https://docs.aws.amazon.com/codedeploy/latest/userguide/register-on-premises-instance-iam-session-arn.html
-		- https://docs.aws.amazon.com/codedeploy/latest/userguide/deployment-configurations.html#deployment-configuration-lambda
-		- https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html#appspec-hooks-lambda
-	- CodePipeline
-		- https://docs.aws.amazon.com/codepipeline/latest/userguide/reference-pipeline-structure.html#action-requirements
-		- https://docs.aws.amazon.com/codepipeline/latest/userguide/best-practices.html#use-cases
-		- https://docs.aws.amazon.com/codepipeline/latest/userguide/actions-invoke-lambda-function.html
-		- https://docs.aws.amazon.com/codepipeline/latest/userguide/actions-create-custom-action.html
-		- https://docs.aws.amazon.com/codepipeline/latest/APIReference/API_PutJobSuccessResult.html
-		- https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/continuous-delivery-codepipeline.html
-		- https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-cloudformation.html
-		- https://github.com/aws-samples/codepipeline-nested-cfn
-		- https://aws.amazon.com/blogs/devops/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/
-	- CodeStar
-		- https://docs.aws.amazon.com/codestar/latest/userguide/templates.html
-	- Jenkins
-		- https://aws.amazon.com/getting-started/projects/setup-jenkins-build-server/
-		- https://wiki.jenkins.io/display/JENKINS/Amazon+EC2+Plugin
-		- https://aws.amazon.com/blogs/devops/setting-up-a-ci-cd-pipeline-by-integrating-jenkins-with-aws-codebuild-and-aws-codedeploy/
-		- https://wiki.jenkins.io/display/JENKINS/AWS+CodeBuild+Plugin
-		- https://wiki.jenkins.io/display/JENKINS/Amazon+EC2+Container+Service+Plugin
-		- https://wiki.jenkins.io/display/JENKINS/Artifact+Manager+S3+Plugin
-		- https://wiki.jenkins.io/display/JENKINS/AWS+CodePipeline+Plugin
+		- ### Continuous Integration
+		  collapsed:: true
+			- ![image.png](../assets/image_1647885932857_0.png)
+		- ### Continuous Delivery vs Deployment
+		  id:: 623f65b8-1902-4455-a1a3-09cfb8e46d7e
+			- Continuous Delivery
+				- When entire deployment till Production occurs with some manual intervention
+			- Continuous Deployment
+				- No manual intervention at all
+		- ### Stacks to focus on
+			- [[CodeCommit]]
+			  id:: 6238bf86-9de5-49b0-8f5f-ab6c7d976ced
+			- [[CodeBuild]]
+			  id:: 6238bf86-0802-4806-b2c6-5a1e0500f084
+			- [[CodePipeline]]
+			  id:: 6241f27e-2baa-4ed5-b069-efe8195f6dab
+			- [[CodeStar]]
+			- [[Elastic Beanstalk]]
+			- [[CodeDeploy]]
+			  id:: 6238bf86-06af-45c9-9724-cf8f40badcc2
+			- [[Jenkins CI]]
+			- [[Cloudformation]]
+		-
+		- #+BEGIN_NOTE
+		  We will go in depth on above stacks in upcoming days
+		  #+END_NOTE
+	- Reference links
+	  collapsed:: true
+		- CodeCommit
+			- https://www.atlassian.com/git/tutorials/using-branches
+			- https://docs.aws.amazon.com/codecommit/latest/userguide/auth-and-access-control-iam-identity-based-access-control.html
+			- https://aws.amazon.com/blogs/devops/refining-access-to-branches-in-aws-codecommit/
+			- https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-notify.html
+			- https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-repository-email.html )
+			- https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-notify-lambda.html
+			- https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-migrate-repository-existing.html
+		- CodeBuild
+			- https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html
+			- https://docs.aws.amazon.com/codebuild/latest/userguide/samples.html
+			- https://docs.aws.amazon.com/codebuild/latest/userguide/sample-docker.html
+			- https://aws.amazon.com/blogs/devops/validating-aws-codecommit-pull-requests-with-aws-codebuild-and-aws-lambda/
+		- CodeDeploy
+			- https://docs.aws.amazon.com/codedeploy/latest/APIReference/API_MinimumHealthyHosts.html
+			- https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html
+			- https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html#appspec-hooks-server
+			- https://docs.amazonaws.cn/en_us/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html#reference-appspec-file-structure-environment-variable-availability
+			- https://docs.aws.amazon.com/codedeploy/latest/userguide/monitoring-cloudwatch-events.html
+			- https://aws.amazon.com/blogs/devops/view-aws-codedeploy-logs-in-amazon-cloudwatch-console/
+			- https://docs.aws.amazon.com/codedeploy/latest/userguide/monitoring-sns-event-notifications.html
+			- https://docs.aws.amazon.com/codedeploy/latest/userguide/deployments-rollback-and-redeploy.html
+			- https://docs.aws.amazon.com/codedeploy/latest/userguide/deployment-groups-configure-advanced-options.html
+			- https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-on-premises.html
+			- https://docs.aws.amazon.com/codedeploy/latest/userguide/register-on-premises-instance-iam-user-arn.html
+			- https://docs.aws.amazon.com/codedeploy/latest/userguide/register-on-premises-instance-iam-session-arn.html
+			- https://docs.aws.amazon.com/codedeploy/latest/userguide/deployment-configurations.html#deployment-configuration-lambda
+			- https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html#appspec-hooks-lambda
+		- CodePipeline
+			- https://docs.aws.amazon.com/codepipeline/latest/userguide/reference-pipeline-structure.html#action-requirements
+			- https://docs.aws.amazon.com/codepipeline/latest/userguide/best-practices.html#use-cases
+			- https://docs.aws.amazon.com/codepipeline/latest/userguide/actions-invoke-lambda-function.html
+			- https://docs.aws.amazon.com/codepipeline/latest/userguide/actions-create-custom-action.html
+			- https://docs.aws.amazon.com/codepipeline/latest/APIReference/API_PutJobSuccessResult.html
+			- https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/continuous-delivery-codepipeline.html
+			- https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-cloudformation.html
+			- https://github.com/aws-samples/codepipeline-nested-cfn
+			- https://aws.amazon.com/blogs/devops/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/
+		- CodeStar
+			- https://docs.aws.amazon.com/codestar/latest/userguide/templates.html
+		- Jenkins
+			- https://aws.amazon.com/getting-started/projects/setup-jenkins-build-server/
+			- https://wiki.jenkins.io/display/JENKINS/Amazon+EC2+Plugin
+			- https://aws.amazon.com/blogs/devops/setting-up-a-ci-cd-pipeline-by-integrating-jenkins-with-aws-codebuild-and-aws-codedeploy/
+			- https://wiki.jenkins.io/display/JENKINS/AWS+CodeBuild+Plugin
+			- https://wiki.jenkins.io/display/JENKINS/Amazon+EC2+Container+Service+Plugin
+			- https://wiki.jenkins.io/display/JENKINS/Artifact+Manager+S3+Plugin
+			- https://wiki.jenkins.io/display/JENKINS/AWS+CodePipeline+Plugin
+	- TODO Whitepaters to read on
+		- MUST READ - Blue/Green Deployments on AWS
+		      https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
+		  RECOMMENDED - Practicing Continuous Integration Continuous Delivery on AWS
+		      https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
+		  RECOMMENDED - Jenkins on AWS
+		      https://d1.awsstatic.com/whitepapers/DevOps/Jenkins_on_AWS.pdf
+		  OPTIONAL - Introduction to DevOps on AWS
+		      https://d1.awsstatic.com/whitepapers/AWS_DevOps.pdf
+		  OPTIONAL - Development and Test on AWS
+		      https://d1.awsstatic.com/whitepapers/aws-development-test-environments.pdf
 -
