@@ -49,7 +49,7 @@ jobs:
       - name: inject script
         run: ls
       - name: sed
-        run:  sed -i  's+<head>+<head>\n    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CLE18BXBH6"></script>\n    <script>\n        window.dataLayer = window.dataLayer || [];\n        function gtag(){dataLayer.push(arguments);}\n        gtag('js', new Date());\n         gtag('config', 'G-CLE18BXBH6');\n    </script>\n    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1685973888441817" crossorigin="anonymous">\n    </script>\n+g' index.html
+        run:  sed -i  's+<head>+<head>\n<script async src="https://www.googletagmanager.com/gtag/js?id=G-CLE18BXBH6"></script>\n<script>\n    window.dataLayer = window.dataLayer || [];\n    function gtag(){dataLayer.push(arguments);}\n    gtag('js', new Date());\n    gtag('config', 'G-CLE18BXBH6');\n</script>\n<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1685973888441817" crossorigin="anonymous">\n</script>\n+g' index.html
       - name: cat
         run: cat index.html
       - name: "S3"
