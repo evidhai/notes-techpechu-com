@@ -49,6 +49,7 @@ jobs:
           ref: gh-pages
       - name: inject script
           run: ls
+          shell: bash
         # run:  sed -i '' 's+<head>+<head>\n    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CLE18BXBH6"></script>\n    <script>\n        window.dataLayer = window.dataLayer || [];\n        function gtag(){dataLayer.push(arguments);}\n        gtag('js', new Date());\n          gtag('config', 'G-CLE18BXBH6');\n    </script>\n    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1685973888441817" crossorigin="anonymous">\n    </script>+g' ./index.html
       # - name: "S3"
       #   run: aws s3 sync ./ s3://${{ secrets.AWS_S3_BUCKET_NAME }} --acl public-read --delete --cache-control max-age=604800
