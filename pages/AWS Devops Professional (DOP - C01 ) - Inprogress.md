@@ -23,6 +23,9 @@
 	- Day 7
 		- ((62434b14-d801-44a9-b621-c1582ce00474))
 		- ((623f65b8-4fd2-44e9-bfb7-ff675907fa4c))
+	- Day 8
+		- Today we played with our hobby project -> way how we actually hosted our blog https://notes.techpechu.com to execute some commands over pipeline!
+		- Nothing much but it was fun! Will continue tomorrow
 - # Topic: SDLC Atomation
 	- ## CICD Overview
 	  id:: 6238bf86-e7cf-4b09-acb6-89a9bd9e1307
