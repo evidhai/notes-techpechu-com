@@ -1,2 +1,3 @@
 - CloudTrail by default records all events (any action performed by the user)that happens within your account
--
+- Data events #exam-revise
+	- We can store all events in S3 or we can trigger [[Lambda]] for wh
