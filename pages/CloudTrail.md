@@ -29,5 +29,4 @@
 		-
 - Multiaccount Loggins #exam-revise
 	- We can set multi account logs delivered to same S3 , ==just need to ensure bucket policy is set with right permission ==
-	-
--
+	- [AWS - Doc](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-receive-logs-from-multiple-accounts.html) #hands-on
