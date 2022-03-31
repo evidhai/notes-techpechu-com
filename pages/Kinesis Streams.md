@@ -21,6 +21,9 @@
 		- Record Key -> Used to group shards same Record key = Same shard group
 		- Sequence number - > Added by Kinesis post data injection to track sequence of shard
 - #+BEGIN_WARNING
+  #exam-revise 
   Limitations :
+  - Provider can write 1MB/s or 1000 Messages/sec else would result in ==ProvisionedThroughputException==
+  -
   
   #+END_WARNING
