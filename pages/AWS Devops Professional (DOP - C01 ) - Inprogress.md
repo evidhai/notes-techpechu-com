@@ -54,9 +54,6 @@
 			  id:: 623f65b8-4fd2-44e9-bfb7-ff675907fa4c
 			- [[Cloudformation]]
 		-
-		- #+BEGIN_NOTE
-		  We will go in depth on above stacks in upcoming days
-		  #+END_NOTE
 	- Reference links
 	  collapsed:: true
 		- CodeCommit
