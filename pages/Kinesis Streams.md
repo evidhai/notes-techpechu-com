@@ -11,4 +11,6 @@
   #exam-revise
   Single Stream can be used by multiple applications 
   #+END_TIP
+- How it looks?
+	- ![image.png](../assets/image_1648751130104_0.png)
 -
