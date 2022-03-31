@@ -1,1 +1,2 @@
 - Pass the stream data to storage such as [[S3]] [[Redshift]] [[ElasticSearch]]
+- It is full
