@@ -17,4 +17,6 @@
 - Log Integrity #exam-revise
 	- What if someone modifies your logfiles to erase evidence?
 		- With Log integrity api we can verify for
+			- Modification or deletion of CloudTrail log files
+			- Modification or deletion of CloudTrail digest files
 			-
