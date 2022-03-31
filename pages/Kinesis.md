@@ -1,5 +1,7 @@
 - Kinesis is majorly used to handle big realtime data
 - Data in Kinesis is automatically replicated to ==3Availability Zones==
 - 3 Sub services
-	-
+	- [[Kinesis Streams]]
+	- [[Kinesis Analytics]]
+	- [[Kinesis Firehose]]
 -
