@@ -1,5 +1,6 @@
 - CloudTrail by default records all events (any action performed by the user)that happens within your account
 - Data events #exam-revise
+  id:: 6245e5b0-0523-4592-b8e5-83e391ea335d
   collapsed:: true
 	- We can store all events in S3 or we can trigger [[Lambda]] for which we will be creating Trail and choose respective Data events
 	- By default logs stored in S3 bucket are SSE-S3 encrypted
@@ -17,7 +18,7 @@
 	- What role been used
 - CloudTrail digest #exam-revise
 	- This contains consilated logs that delivered in past one hour
-	- Digest files are created for every onehour
+	- Digest files are created for every onehour and stored in the same s3 where ((6245e5b0-0523-4592-b8e5-83e391ea335d)) enabled under folder called digest
 - Log Integrity #exam-revise
   collapsed:: true
 	- What if someone modifies your logfiles to erase evidence?
@@ -26,3 +27,4 @@
 			- Modification or deletion of CloudTrail digest files
 	- [API-Reference](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/validate-logs.html) #hands-on
 		-
+-
