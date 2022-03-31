@@ -12,5 +12,7 @@
   Single Stream can be used by multiple applications 
   #+END_TIP
 - How it looks?
+  collapsed:: true
+	- Shards are ordered sequence
 	- ![image.png](../assets/image_1648751130104_0.png)
 -
