@@ -6,7 +6,11 @@
 	- can be mapped to [[SNS]]  for every log file delivery
 - CloudTrail Logs can be configured to get it delivered to [[CloudWatch Logs]]
 - #+BEGIN_IMPORTANT
-  
+  #exam-revise 
   There is a 15 min delay for CloudTrail to S3 . If you need realtime notification then use [[CloudWatch events]] 
   #+END_IMPORTANT
--
+- What info you can get from CloudTrail? #exam-revise
+	- Who accessed?
+	- What action been performed?
+	- What was the response?
+	- What role been used
