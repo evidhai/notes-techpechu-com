@@ -28,6 +28,7 @@
 		- Nothing much but it was fun! Will continue tomorrow
 	- Day 9
 		- ((6245e567-55a5-4256-bcd3-2ccb2b8c1000))
+		- ((6245ee0c-8e48-491d-a887-a68516a7ee01))
 		-
 		-
 - # Topic: SDLC Atomation
@@ -124,6 +125,7 @@
 	- [[CloudTrail]]
 	  id:: 6245e567-55a5-4256-bcd3-2ccb2b8c1000
 	- [[Kinesis]]
+	  id:: 6245ee0c-8e48-491d-a887-a68516a7ee01
 	-
 	-
 	- Reference links
