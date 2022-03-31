@@ -1,6 +1,7 @@
 - This one onboards data to Kinesis from multiple inputs like
 	- Realtime IoT
 	- Metrics and Logs
+- Data is realtime with ~200ms latency
 - Stream are divided into ordered shards (say multiple parts)
 - Data retention in Kinesis is ==1 day (default) to 7 days== #exam-revise
 - #+BEGIN_CAUTION
