@@ -1,1 +1,3 @@
-- To perform realtime analy
+- To perform realtime analytics on stream data
+- uses SQL to query
+-
