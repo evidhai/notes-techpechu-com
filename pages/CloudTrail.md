@@ -10,11 +10,14 @@
   There is a 15 min delay for CloudTrail to S3 . If you need realtime notification then use [[CloudWatch events]] 
   #+END_IMPORTANT
 - What info you can get from CloudTrail? #exam-revise
+  collapsed:: true
 	- Who accessed?
 	- What action been performed?
 	- What was the response?
 	- What role been used
+-
 - Log Integrity #exam-revise
+  collapsed:: true
 	- What if someone modifies your logfiles to erase evidence?
 		- With Log integrity api we can verify for
 			- Modification or deletion of CloudTrail log files
