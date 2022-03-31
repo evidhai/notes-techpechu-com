@@ -30,3 +30,4 @@
 - Multiaccount Loggins #exam-revise
 	- We can set multi account logs delivered to same S3 , ==just need to ensure bucket policy is set with right permission ==
 	-
+-
