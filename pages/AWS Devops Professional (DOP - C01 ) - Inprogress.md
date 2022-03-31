@@ -118,6 +118,8 @@
 			- https://wiki.jenkins.io/display/JENKINS/AWS+CodePipeline+Plugin
 - # Topic : Monitoring and Logging
 	- [[CloudTrail]]
+	- [[Kinesis]]
+	-
 	-
 	- Reference links
 	  collapsed:: true
