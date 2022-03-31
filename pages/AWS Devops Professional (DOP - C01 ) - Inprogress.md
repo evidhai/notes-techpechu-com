@@ -117,6 +117,8 @@
 			- https://wiki.jenkins.io/display/JENKINS/Artifact+Manager+S3+Plugin
 			- https://wiki.jenkins.io/display/JENKINS/AWS+CodePipeline+Plugin
 - # Topic : Monitoring and Logging
+	- [[CloudTrail]]
+	-
 	- Reference links
 	  collapsed:: true
 		- CloudTrail:
