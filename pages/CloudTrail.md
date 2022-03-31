@@ -27,4 +27,5 @@
 			- Modification or deletion of CloudTrail digest files
 	- [API-Reference](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/validate-logs.html) #hands-on
 		-
--
+- Multiaccount Loggins #exam-revise
+	- We can set multi account logs delivered to same S3 , just need to ensure bucket policy is set with right permission
