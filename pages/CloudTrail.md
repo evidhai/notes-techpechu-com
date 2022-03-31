@@ -15,7 +15,9 @@
 	- What action been performed?
 	- What was the response?
 	- What role been used
--
+- CloudTrail digest #exam-revise
+	- This contains consilated logs that delivered in past one hour
+	- Digest files are created for every onehour
 - Log Integrity #exam-revise
   collapsed:: true
 	- What if someone modifies your logfiles to erase evidence?
