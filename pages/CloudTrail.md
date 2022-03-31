@@ -5,4 +5,6 @@
 	- By default logs stored in S3 bucket are SSE-S3 encrypted
 	- can be mapped to [[SNS]]  for every log file delivery
 - CloudTrail Logs can be configured to get it delivered to [[CloudWatch Logs]]
--
+- #+BEGIN_IMPORTANT
+  There is a 15 min delay for CloudTrail to Cloudwatch 
+  #+END_IMPORTANT
