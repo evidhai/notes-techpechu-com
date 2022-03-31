@@ -31,4 +31,7 @@
 		- Kinesis SDK
 		- CloudWatch Logs
 		- Kinesis Agent
-		-
+		- 3rd part libraries (eg: spark)
+- Kinesis Consumers #exam-revise
+	-
+	-
