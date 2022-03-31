@@ -17,6 +17,6 @@
 	- ![image.png](../assets/image_1648751130104_0.png)
 - Kinesis Stream Records #exam-revise
 	- Contains 3
-		- Data Blob
-		- Record Key -> Used to group shards
+		- Data Blob -> Data , can be upto 1 MB
+		- Record Key -> Used to group shards same Record key = Same shard group
 		- Sequence number - > Added by Kinesis post data injection to track sequence of shard
