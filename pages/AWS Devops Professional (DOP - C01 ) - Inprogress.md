@@ -27,8 +27,10 @@
 		- Today we played with our hobby project -> way how we actually hosted our blog https://notes.techpechu.com to execute some commands over pipeline!
 		- Nothing much but it was fun! Will continue tomorrow
 - # Topic: SDLC Atomation
+  collapsed:: true
 	- ## CICD Overview
 	  id:: 6238bf86-e7cf-4b09-acb6-89a9bd9e1307
+	  collapsed:: true
 		- ### Continuous Integration
 		  collapsed:: true
 			- ![image.png](../assets/image_1647885932857_0.png)
@@ -53,6 +55,16 @@
 			- [[Jenkins CI]]
 			  id:: 623f65b8-4fd2-44e9-bfb7-ff675907fa4c
 			- [[Cloudformation]]
+		- TODO Whitepaters to read on
+			- MUST READ - Blue/Green Deployments on AWS/   https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
+			  RECOMMENDED - Practicing Continuous Integration Continuous Delivery on AWS
+			      https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
+			  RECOMMENDED - Jenkins on AWS
+			      https://d1.awsstatic.com/whitepapers/DevOps/Jenkins_on_AWS.pdf
+			  OPTIONAL - Introduction to DevOps on AWS
+			      https://d1.awsstatic.com/whitepapers/AWS_DevOps.pdf
+			  OPTIONAL - Development and Test on AWS
+			      https://d1.awsstatic.com/whitepapers/aws-development-test-environments.pdf
 		-
 	- Reference links
 	  collapsed:: true
@@ -104,14 +116,26 @@
 			- https://wiki.jenkins.io/display/JENKINS/Amazon+EC2+Container+Service+Plugin
 			- https://wiki.jenkins.io/display/JENKINS/Artifact+Manager+S3+Plugin
 			- https://wiki.jenkins.io/display/JENKINS/AWS+CodePipeline+Plugin
-	- TODO Whitepaters to read on
-		- MUST READ - Blue/Green Deployments on AWS/   https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
-		  RECOMMENDED - Practicing Continuous Integration Continuous Delivery on AWS
-		      https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
-		  RECOMMENDED - Jenkins on AWS
-		      https://d1.awsstatic.com/whitepapers/DevOps/Jenkins_on_AWS.pdf
-		  OPTIONAL - Introduction to DevOps on AWS
-		      https://d1.awsstatic.com/whitepapers/AWS_DevOps.pdf
-		  OPTIONAL - Development and Test on AWS
-		      https://d1.awsstatic.com/whitepapers/aws-development-test-environments.pdf
--
+- # Topic : Monitoring and Logging
+	- Reference links
+	  collapsed:: true
+		- CloudTrail:
+		- https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-log-file-validation-cli.html
+		- https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-receive-logs-from-multiple-accounts.html
+		- https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-sharing-logs.html
+		- CloudWatch:
+		- https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html#Metric
+		- https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/metrics-collected-by-CloudWatch-agent.html#linux-metrics-enabled-by-CloudWatch-agent
+		- https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/Counting404Responses.html
+		- https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/Subscriptions.html
+		- https://aws.amazon.com/blogs/big-data/power-data-ingestion-into-splunk-using-amazon-kinesis-data-firehose/
+		- https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/SubscriptionFilters.html#FirehoseExample
+		- https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/Create-CloudWatch-Events-CloudTrail-Rule.html
+		- https://docs.aws.amazon.com/AmazonS3/latest/user-guide/enable-event-notifications.html
+		- X-Ray:
+		- https://docs.aws.amazon.com/xray/latest/devguide/aws-xray.html
+		- https://aws.amazon.com/blogs/devops/using-amazon-cloudwatch-and-amazon-sns-to-notify-when-aws-x-ray-detects-elevated-levels-of-latency-errors-and-faults-in-your-application/
+		- Amazon ES:
+		- https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/CWL_ES_Stream.html
+		- Tagging in AWS
+		- https://aws.amazon.com/answers/account-management/aws-tagging-strategies/
