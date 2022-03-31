@@ -36,7 +36,9 @@
 	- One who used Kinesis streams for their app purpose
 		- Kinesis SDK
 		- Kinesis Client Library
+		- Kinesis Connector Library
 		- Kinesis Firehose
 		- [[Lambda]]
+		- 3rd party libraries
 		-
 	-
