@@ -1,2 +1,5 @@
 - Pass the stream data to storage such as [[S3]] [[Redshift]] [[ElasticSearch]]
-- It is full
+- It is fully managed service so no administration required
+- Near realtime,  min of 60sec lag on realtime data
+-
+-
