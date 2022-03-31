@@ -8,5 +8,7 @@
   Once data into Kinesis can't be deleted manually , it gets auto deleted based on the retention duration
   #+END_CAUTION
 - #+BEGIN_TIP
-  
+  #exam-revise
+  Single Stream can be used by multiple applications 
   #+END_TIP
+-
