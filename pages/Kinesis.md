@@ -1,0 +1,2 @@
+- Kinesis is majorly used to handle big realtime data
+- Data in Kinesis is automatically replicated to ==
