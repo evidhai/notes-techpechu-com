@@ -26,4 +26,9 @@
   - Provider can write 1MB/s or 1000 Messages/sec else would result in ==ProvisionedThroughputException==
   -Consumer can read 2 MB/sec per shard
   #+END_WARNING
--
+- Kinesis Producers #exam-revise
+	- One who pass data to Streams
+		- Kinesis SDK
+		- CloudWatch Logs
+		- Kinesis Agent
+		-
