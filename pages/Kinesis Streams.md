@@ -2,7 +2,7 @@
 	- Realtime IoT
 	- Metrics and Logs
 - Stream are divided into ordered shards (say multiple parts)
-- Data retention in Kinesis is ==1 day to 7 days == #exam-revise
+- Data retention in Kinesis is ==1 day (default) to 7 days== #exam-revise
 - #+BEGIN_CAUTION
   #exam-revise 
   Once data into Kinesis can't be deleted manually , it gets auto deleted based on the retention duration
@@ -20,3 +20,7 @@
 		- Data Blob -> Data , can be upto 1 MB
 		- Record Key -> Used to group shards same Record key = Same shard group
 		- Sequence number - > Added by Kinesis post data injection to track sequence of shard
+- #+BEGIN_WARNING
+  Limitations :
+  
+  #+END_WARNING
