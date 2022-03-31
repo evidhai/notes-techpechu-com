@@ -4,5 +4,9 @@
 - Stream are divided into ordered shards (say multiple parts)
 - Data retention in Kinesis is ==1 day to 7 days == #exam-revise
 - #+BEGIN_CAUTION
-  Once da
+  #exam-revise 
+  Once data into Kinesis can't be deleted manually , it gets auto deleted based on the retention duration
   #+END_CAUTION
+- #+BEGIN_TIP
+  
+  #+END_TIP
