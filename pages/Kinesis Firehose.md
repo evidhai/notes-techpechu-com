@@ -1,1 +1,1 @@
-- Pass the stream data to storage such as [[S3]]
+- Pass the stream data to storage such as [[S3]] [[Redshift]] [[ElasticSearch]]
