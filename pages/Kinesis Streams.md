@@ -15,4 +15,7 @@
   collapsed:: true
 	- Shards are ordered sequence
 	- ![image.png](../assets/image_1648751130104_0.png)
--
+- Kinesis Stream Records #exam-revise
+	- Contains 3
+		- Data Blob
+		-
