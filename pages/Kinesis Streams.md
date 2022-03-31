@@ -33,5 +33,10 @@
 		- Kinesis Agent
 		- 3rd part libraries (eg: spark)
 - Kinesis Consumers #exam-revise
-	-
+	- One who used Kinesis streams for their app purpose
+		- Kinesis SDK
+		- Kinesis Client Library
+		- Kinesis Firehose
+		- [[Lambda]]
+		-
 	-
