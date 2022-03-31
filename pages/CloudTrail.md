@@ -1,1 +1,2 @@
-- CloudTrail by default
+- CloudTrail by default records all events (any action performed by the user)that happens within your account
+-
