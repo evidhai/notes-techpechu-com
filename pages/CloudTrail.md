@@ -14,4 +14,7 @@
 	- What action been performed?
 	- What was the response?
 	- What role been used
--
+- Log Integrity #exam-revise
+	- What if someone modifies your logfiles to erase evidence?
+		- With Log integrity api we can verify for
+			-
