@@ -1,4 +1,5 @@
 - To perform realtime analytics on stream data
 - uses SQL to query
 - Fully managed
--
+- It can Autoscale
+- We can create a stream out of Analytics query on the stream
