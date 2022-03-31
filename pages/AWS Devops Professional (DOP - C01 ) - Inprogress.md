@@ -26,6 +26,10 @@
 	- Day 8
 		- Today we played with our hobby project -> way how we actually hosted our blog https://notes.techpechu.com to execute some commands over pipeline!
 		- Nothing much but it was fun! Will continue tomorrow
+	- Day 9
+		- ((6245e567-55a5-4256-bcd3-2ccb2b8c1000))
+		-
+		-
 - # Topic: SDLC Atomation
   collapsed:: true
 	- ## CICD Overview
@@ -118,6 +122,7 @@
 			- https://wiki.jenkins.io/display/JENKINS/AWS+CodePipeline+Plugin
 - # Topic : Monitoring and Logging
 	- [[CloudTrail]]
+	  id:: 6245e567-55a5-4256-bcd3-2ccb2b8c1000
 	- [[Kinesis]]
 	-
 	-
