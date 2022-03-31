@@ -18,4 +18,5 @@
 - Kinesis Stream Records #exam-revise
 	- Contains 3
 		- Data Blob
-		-
+		- Record Key -> Used to group shards
+		- Sequence number - > Added by Kinesis post data injection to track sequence of shard
