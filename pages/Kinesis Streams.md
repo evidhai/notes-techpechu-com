@@ -1,1 +1,3 @@
-- This one onboards data to Kinesis
+- This one onboards data to Kinesis from multiple inputs like
+	- Realtime IoT
+	- Metrics and Logs
