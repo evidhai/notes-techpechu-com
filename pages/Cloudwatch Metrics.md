@@ -4,4 +4,6 @@
 - Detailed monitoring - can get every 1 min (need to pay for it)
 - We can get up **15 months ** of logs in cloudwatch #exam-revise
 - Metric retention #exam-revise
+	- ![image.png](../assets/image_1649698265875_0.png)
+	-
 	-
