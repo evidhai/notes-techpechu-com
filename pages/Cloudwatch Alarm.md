@@ -1,4 +1,9 @@
 - Cloudwatch alarm are created based on [[Cloudwatch Metrics]]
 - It can be triggered once it cross the thershold
+- Based on thershold there are 3 state
+	- In Alarm
+	- OK
+	- Insu
 - We can integrate with [[SNS]] so that you can be notified
-- Autoscaling: We can set Scaleout and Scalein based on
+- Autoscaling: We can set Scaleout and Scalein based on thershold
+- EC2 action: We can set EC2 to reboot, start or shutdown
