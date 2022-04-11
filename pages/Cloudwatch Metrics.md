@@ -6,6 +6,7 @@
 - Metric retention #exam-revise
 	- ![image.png](../assets/image_1649698265875_0.png)
 - Must known Metrics
+  collapsed:: true
 	- EC2
 	  collapsed:: true
 		- #+BEGIN_IMPORTANT
@@ -21,3 +22,4 @@
 		- You don't get info on how much free space available need to rely on custom metrics
 	-
 	-
+- #
