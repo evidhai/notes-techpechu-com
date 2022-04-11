@@ -24,5 +24,6 @@
 	-
 - # Custom metrics
 - Resolution : #exam-revise
+  collapsed:: true
 	- Standard - data having 1 min granularity (default)
-	- High
+	- High resolution - data at a granularity of 1 second
