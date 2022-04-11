@@ -1,3 +1,4 @@
 - Cloudwatch alarm are created based on [[Cloudwatch Metrics]]
 - It can be triggered once it cross the thershold
-- We can integrate with
+- We can integrate with [[SNS]] so that you can be notified
+- Autoscaling: We can set Scaleout and Scalein based on
