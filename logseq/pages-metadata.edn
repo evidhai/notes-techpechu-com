@@ -4,12 +4,18 @@
  {:block/name "a",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
+ {:block/name "apr 1st, 2022",
+  :block/created-at 1648751401916,
+  :block/updated-at 1648751401916}
+ {:block/name "apr 2nd, 2022",
+  :block/created-at 1648846384312,
+  :block/updated-at 1648846384312}
  {:block/name "artifacts",
   :block/created-at 1648490003320,
   :block/updated-at 1648490079701}
  {:block/name "aws devops professional (dop - c01 ) - inprogress",
   :block/created-at 1647455662443,
-  :block/updated-at 1648666997115}
+  :block/updated-at 1648752716815}
  {:block/name "b",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
@@ -24,13 +30,16 @@
   :block/updated-at 1647886214772}
  {:block/name "cloudtrail",
   :block/created-at 1647975660954,
-  :block/updated-at 1647975660954}
+  :block/updated-at 1648750036876}
  {:block/name "cloudwatch",
   :block/created-at 1647979447827,
   :block/updated-at 1647979447827}
  {:block/name "cloudwatch events",
   :block/created-at 1647888505518,
   :block/updated-at 1647888505518}
+ {:block/name "cloudwatch logs",
+  :block/created-at 1648748256494,
+  :block/updated-at 1648748256494}
  {:block/name "codebuild",
   :block/created-at 1647886340619,
   :block/updated-at 1648315557876}
@@ -61,9 +70,12 @@
  {:block/name "elastic beanstalk",
   :block/created-at 1647886214748,
   :block/updated-at 1647886214748}
+ {:block/name "elasticsearch",
+  :block/created-at 1648750463910,
+  :block/updated-at 1648750463910}
  {:block/name "exam-revise",
   :block/created-at 1647887553296,
-  :block/updated-at 1647887553296}
+  :block/updated-at 1648751694870}
  {:block/name "faq]",
   :block/created-at 1648315567602,
   :block/updated-at 1648315567602}
@@ -97,6 +109,18 @@
  {:block/name "jenkins ci",
   :block/created-at 1647886214769,
   :block/updated-at 1647886214769}
+ {:block/name "kinesis",
+  :block/created-at 1648750135629,
+  :block/updated-at 1648750793050}
+ {:block/name "kinesis analytics",
+  :block/created-at 1648750333541,
+  :block/updated-at 1648752213795}
+ {:block/name "kinesis firehose",
+  :block/created-at 1648750345132,
+  :block/updated-at 1648752043433}
+ {:block/name "kinesis streams",
+  :block/created-at 1648750323994,
+  :block/updated-at 1648752114276}
  {:block/name "kms",
   :block/created-at 1647975640419,
   :block/updated-at 1647975640419}
@@ -124,6 +148,9 @@
  {:block/name "readme",
   :block/created-at 1648316493014,
   :block/updated-at 1648316493014}
+ {:block/name "redshift",
+  :block/created-at 1648750441410,
+  :block/updated-at 1648750441410}
  {:block/name "s3",
   :block/created-at 1648490489536,
   :block/updated-at 1648490489536}
