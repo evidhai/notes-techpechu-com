@@ -29,4 +29,5 @@
 	- High resolution - data at a granularity of 1 second
 - [create custom metric](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-metric-data.html) #hands-on
 - Can have upto 10 dimensions in one metric
+- Can publish average / single datapoints
 -
