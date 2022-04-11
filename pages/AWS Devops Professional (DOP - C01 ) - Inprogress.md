@@ -30,7 +30,7 @@
 		- ((6245e567-55a5-4256-bcd3-2ccb2b8c1000))
 		- ((6245ee0c-8e48-491d-a887-a68516a7ee01))
 	- Day 10
-		- ((62546ca6-1ede-4a85-92ed-3002b8086fef))
+		- ((625464bb-3dcd-4966-a004-f4d6e1c17a5c))
 		- ((62546ca6-1ede-4a85-92ed-3002b8086fef))
 		-
 		-
@@ -131,6 +131,7 @@
 	- [[Kinesis]]
 	  id:: 6245ee0c-8e48-491d-a887-a68516a7ee01
 	- [[Cloudwatch Metrics]]
+	  id:: 625464bb-3dcd-4966-a004-f4d6e1c17a5c
 	- [[Cloudwatch Alarm]]
 	  id:: 62546ca6-1ede-4a85-92ed-3002b8086fef
 	-
