@@ -7,6 +7,9 @@
 	- ![image.png](../assets/image_1649698265875_0.png)
 - Must known Metrics
 	- EC2
+		- #+BEGIN_IMPORTANT
+		  RAM info is not available by default need to use custom metrics for that
+		  #+END_IMPORTANT
 		- CPU utilisation
 		- Network IN
 		- Network Out
