@@ -126,6 +126,8 @@
 	  id:: 6245e567-55a5-4256-bcd3-2ccb2b8c1000
 	- [[Kinesis]]
 	  id:: 6245ee0c-8e48-491d-a887-a68516a7ee01
+	- [[Cloudwatch Metrics]]
+	-
 	-
 	-
 	- Reference links
