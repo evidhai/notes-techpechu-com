@@ -1,1 +1,4 @@
-- Metrics provides info on
+- Metrics provides info on various services.
+- eg: CPU utilisation on EC2
+- Basic monitoring - for every 5 min (free)
+- Detailed monitoring - can get
