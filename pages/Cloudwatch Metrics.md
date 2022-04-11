@@ -7,11 +7,17 @@
 	- ![image.png](../assets/image_1649698265875_0.png)
 - Must known Metrics
 	- EC2
+	  collapsed:: true
 		- #+BEGIN_IMPORTANT
 		  RAM info is not available by default need to use custom metrics for that
 		  #+END_IMPORTANT
 		- CPU utilisation
 		- Network IN
 		- Network Out
+		- EBS
 		-
+	- EBS
+	  collapsed:: true
+		- You don't get info on how much free space available need to rely on custom metrics
+	-
 	-
