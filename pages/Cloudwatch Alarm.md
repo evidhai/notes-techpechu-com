@@ -1,0 +1,3 @@
+- Cloudwatch alarm are created based on [[Cloudwatch Metrics]]
+- It can be triggered once it cross the thershold
+- We can integrate with
