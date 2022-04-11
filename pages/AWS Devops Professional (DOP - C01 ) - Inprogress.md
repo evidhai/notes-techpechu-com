@@ -127,6 +127,8 @@
 	- [[Kinesis]]
 	  id:: 6245ee0c-8e48-491d-a887-a68516a7ee01
 	- [[Cloudwatch Metrics]]
+	- [[Cloudwatch Alarm]]
+	-
 	-
 	-
 	-
