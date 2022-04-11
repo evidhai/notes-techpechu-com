@@ -27,3 +27,4 @@
   collapsed:: true
 	- Standard - data having 1 min granularity (default)
 	- High resolution - data at a granularity of 1 second
+-
