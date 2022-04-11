@@ -6,4 +6,4 @@
 	- Insufficient data - processing
 - We can integrate with [[SNS]] so that you can be notified
 - Autoscaling: We can set Scaleout and Scalein based on thershold
-- EC2 action: We can set EC2 to reboot, start or shutdown
+- EC2 action: We can set EC2 to reboot, start or terminate
