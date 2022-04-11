@@ -22,4 +22,7 @@
 		- You don't get info on how much free space available need to rely on custom metrics
 	-
 	-
-- #
+- # Custom metrics
+- Resolution : #exam-revise
+	- Standard - data having 1 min granularity (default)
+	- High
