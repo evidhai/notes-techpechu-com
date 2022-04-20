@@ -1,3 +1,4 @@
 - IAM policy to map to EC2 -> `CloudwatchAgentServerPolicy` #exam-revise
 - [Steps to install Cloudwatch unified agent](https://aws.amazon.com/premiumsupport/knowledge-center/cloudwatch-push-metrics-unified-agent/) #hands-on
-- The config of unified agent can be pus
+- The config of unified agent can be pushed to [[SSM]] and  unified agents in other [[EC2]] can reuse the same config #exam-revise
+-
