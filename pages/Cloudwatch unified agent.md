@@ -1,0 +1,2 @@
+- IAM policy to map to EC2 -> `CloudwatchAgentServerPolicy` #exam-revise
+-
