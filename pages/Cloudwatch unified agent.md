@@ -1,2 +1,3 @@
 - IAM policy to map to EC2 -> `CloudwatchAgentServerPolicy` #exam-revise
+- [Steps to install Cloudwatch unified agent](https://aws.amazon.com/premiumsupport/knowledge-center/cloudwatch-push-metrics-unified-agent/) #hands-on
 -
