@@ -136,6 +136,7 @@
 	  id:: 62546ca6-1ede-4a85-92ed-3002b8086fef
 	- [[Cloudwatch Logs]]
 	- [[Cloudwatch unified agent]]
+	- [[Cloudwatch Metric filters and alarm]]
 	-
 	-
 	-
