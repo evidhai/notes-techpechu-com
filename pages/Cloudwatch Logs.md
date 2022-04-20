@@ -3,4 +3,4 @@
 - Few logs are managed by aws itself those are prefixed by aws init
 	- ![image.png](../assets/image_1650473846323_0.png){:height 296, :width 415}
 - expires events after
-	- Logs expir
+	- Logs Never expires as default setup, we can get it modified to expire after x days
