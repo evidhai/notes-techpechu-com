@@ -1,1 +1,3 @@
-- Log groups - It's a directory that contains log streams £
+- Log groups - It's a directory that contains log streams #exam-revise
+- Log streams - Contains Log itself #exam-revise
+-
