@@ -1,1 +1,3 @@
-- Usecases
+- Amazon ES is managed version of ElasticSearch
+- Needs a server and not serverless
+- Use cases #exam-revise
