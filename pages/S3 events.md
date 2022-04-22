@@ -2,3 +2,5 @@
 - Here as target we can have [[SNS]] [[SQS]] [[Lambda]]
 -
 - You can also use [[CloudWatch events]] if any case not covered in s3 events
+- S3 events vs Cloudwatch events #exam-revise
+	- S3 even
