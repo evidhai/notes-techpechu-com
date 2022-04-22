@@ -3,5 +3,7 @@
 - Use cases #exam-revise
 	- Analytics (Log, security ..)
 	- Indexing
-	-
+	- Full Text search
+- General flow
+	- Elas
 	-
