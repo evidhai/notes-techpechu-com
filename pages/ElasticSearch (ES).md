@@ -5,5 +5,7 @@
 	- Indexing
 	- Full Text search
 - General flow
-	- Elas
+	- Elastic search -> for search and index
+	- Kibana -> for dashboard
+	- Logstash -> for log ingestion
 	-
