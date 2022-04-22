@@ -1,0 +1,4 @@
+- Method 1:
+	- For one time you can get it exported manually
+- Method 2:
+-
