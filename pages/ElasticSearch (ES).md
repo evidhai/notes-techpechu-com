@@ -9,4 +9,10 @@
 	- Kibana -> for dashboard (alternate to cloudwatch dashboard)
 	- Logstash -> for log ingestion (alternate to cloudwatch logs)
 -
--
+- Search patterns
+	- Cloudwatch
+		- Method 1:
+			- ![image.png](../assets/image_1650655131518_0.png)
+		- Method 2:
+			- ![image.png](../assets/image_1650655152339_0.png)
+		-
