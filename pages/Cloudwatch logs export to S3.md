@@ -6,5 +6,8 @@
 -
 - Method 3:
 	- Raltime processing of Log Data with subscription
-	- We can
+	- We can send realtime data to end locations such as [[Kinesis Streams]] [[Kinesis Firehose]] [[Lambda]]
+	- #+BEGIN_CAUTION
+	  Subscription to Kinesis can't be done at 
+	  #+END_CAUTION
 - ![image.png](../assets/image_1650650309933_0.png){:height 289, :width 444}
