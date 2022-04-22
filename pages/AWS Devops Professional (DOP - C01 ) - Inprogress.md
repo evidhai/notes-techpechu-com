@@ -144,6 +144,7 @@
 	  id:: 62603ace-1b1c-466a-bbc2-837bf4da5b6d
 	- [[Cloudwatch Metric filters and alarm]]
 	  id:: 62604172-ac30-40b6-9d8e-0bb8bf942a22
+	- [[Cloudwatch logs export to S3]]
 	-
 	-
 	-
