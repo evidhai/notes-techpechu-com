@@ -42,7 +42,8 @@
 		- ((6262f7c1-26da-4642-85c6-fd500d7f3120))
 		- ((6262f52d-d0c0-46c4-bfa4-60b974ad8d8c))
 		- ((6262fc6c-25ff-4837-a89a-977b9ac00f0a))
-		-
+		- ((6262fe0a-bc48-45b4-8d4b-6b679861d4a3))
+		- ((6262fe4c-7fee-4ba7-a86d-1aa530a60538))
 		-
 		-
 		-
@@ -163,7 +164,9 @@
 	- [[Cloudwatch dashboard]]
 	  id:: 6262fc6c-25ff-4837-a89a-977b9ac00f0a
 	- [[X-ray]]
+	  id:: 6262fe0a-bc48-45b4-8d4b-6b679861d4a3
 	- [[ElasticSearch (ES)]]
+	  id:: 6262fe4c-7fee-4ba7-a86d-1aa530a60538
 	-
 	-
 	-
