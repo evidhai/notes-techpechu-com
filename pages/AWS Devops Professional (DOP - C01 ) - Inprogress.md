@@ -147,6 +147,7 @@
 	- [[Cloudwatch logs export to S3]]
 	- [[Logs]]
 	- [[CloudWatch events]]
+	- [[S3 events]]
 	-
 	-
 	-
