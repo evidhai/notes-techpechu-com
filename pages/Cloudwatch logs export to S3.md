@@ -1,4 +1,4 @@
 - Method 1:
-	- For one time you can get it exported manually
+	- For one time you can get it exported manually [hands-on guide](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/S3ExportTasksConsole.html) #hands-on
 - Method 2:
--
+	- Use Cloudwatch events to
