@@ -1,2 +1,4 @@
 - Within [[S3]] we can configure events same as [[CloudWatch events]] for any actions at the S3 bucket.
 - Here as target we can have [[SNS]] [[SQS]] [[Lambda]]
+-
+- You can also use [[CloudWatch events]] if any case not covered in s3 events
