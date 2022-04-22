@@ -13,6 +13,9 @@
  {:block/name "apr 1st, 2022",
   :block/created-at 1648751401916,
   :block/updated-at 1648751401916}
+ {:block/name "apr 20th, 2022",
+  :block/created-at 1650473592413,
+  :block/updated-at 1650473592413}
  {:block/name "apr 2nd, 2022",
   :block/created-at 1648846384312,
   :block/updated-at 1648846384312}
@@ -21,7 +24,7 @@
   :block/updated-at 1648490079701}
  {:block/name "aws devops professional (dop - c01 ) - inprogress",
   :block/created-at 1647455662443,
-  :block/updated-at 1649700927035}
+  :block/updated-at 1650475748964}
  {:block/name "b",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
@@ -48,10 +51,16 @@
   :block/updated-at 1647888505518}
  {:block/name "cloudwatch logs",
   :block/created-at 1648748256494,
-  :block/updated-at 1648748256494}
+  :block/updated-at 1650474071981}
+ {:block/name "cloudwatch metric filters and alarm",
+  :block/created-at 1650475394538,
+  :block/updated-at 1650475638417}
  {:block/name "cloudwatch metrics",
   :block/created-at 1649698013004,
   :block/updated-at 1649698895296}
+ {:block/name "cloudwatch unified agent",
+  :block/created-at 1650474138955,
+  :block/updated-at 1650475061315}
  {:block/name "codebuild",
   :block/created-at 1647886340619,
   :block/updated-at 1648315557876}
@@ -76,6 +85,9 @@
  {:block/name "done",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
+ {:block/name "ec2",
+  :block/created-at 1650474732281,
+  :block/updated-at 1650474732281}
  {:block/name "ecr",
   :block/created-at 1648490484625,
   :block/updated-at 1648490484625}
@@ -169,6 +181,9 @@
  {:block/name "sns",
   :block/created-at 1647888328583,
   :block/updated-at 1647888328583}
+ {:block/name "ssm",
+  :block/created-at 1650474721862,
+  :block/updated-at 1650474721862}
  {:block/name "tag names should always be lowercase",
   :block/created-at 1648315567604,
   :block/updated-at 1648315567604}
