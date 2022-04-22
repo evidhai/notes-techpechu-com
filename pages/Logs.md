@@ -1,1 +1,4 @@
-- Application logs
+- Application logs #exam-revise
+	- these are produced by applications
+- Operating System Logs
+	-
