@@ -13,8 +13,8 @@
 	- Dynamodb
 	- ![image.png](../assets/image_1650655470940_0.png)
 	- Cloudwatch
-		- Method 1:
+		- Method 1: (You get data in realtime)
 			- ![image.png](../assets/image_1650655549553_0.png)
-		- Method 2:
-			-
+		- Method 2: (You get data in near realtime due to Kinesis)
+			- ![image.png](../assets/image_1650655596468_0.png)
 		-
