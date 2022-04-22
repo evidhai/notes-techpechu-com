@@ -11,3 +11,5 @@
 	  Subscription to Kinesis can't be done via Console and need to rely on CLI to achieve
 	  #+END_CAUTION
 		- ![image.png](../assets/image_1650650309933_0.png){:height 289, :width 444}
+	- [Hands-on guide](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/SubscriptionFilters.html) #hands-on
+-
