@@ -3,3 +3,4 @@
 - Method 2:
 	- Wrtie a Lambda code to use method 1 api
 	- Use Cloudwatch events to trigger Lambda and get the logs exported
+- ![image.png](../assets/image_1650650309933_0.png)
