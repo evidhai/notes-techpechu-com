@@ -14,7 +14,7 @@
 	- ![image.png](../assets/image_1650655470940_0.png)
 	- Cloudwatch
 		- Method 1:
-			- ![image.png](../assets/image_1650655131518_0.png)
+			- ![image.png](../assets/image_1650655549553_0.png)
 		- Method 2:
-			- ![image.png](../assets/image_1650655152339_0.png)
+			-
 		-
