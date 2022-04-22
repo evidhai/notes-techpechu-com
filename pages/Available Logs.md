@@ -1,4 +1,5 @@
 - Application logs
+  title:: Available Logs
 	- these are produced by applications
 	- Would need Cloudwatch Agent to push to Cloudwatch logs
 	- On using Lambda , ECS can be directly linked to Cloudwatch logs
@@ -12,3 +13,4 @@
 	- Cloudtrail -> stored in S3 and Cloudwatch logs
 	- VPC Flow logs -> > stored in S3 and Cloudwatch logs
 	- Route 53 Access logs -> > stored in S3
+	- Cloudfront access logs -> stored in S3
