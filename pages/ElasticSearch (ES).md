@@ -1,3 +1,7 @@
 - Amazon ES is managed version of ElasticSearch
-- Needs a server and not serverless
+- Needs a server and not serverless #exam-revise
 - Use cases #exam-revise
+	- Analytics (Log, security ..)
+	- Indexing
+	-
+	-
