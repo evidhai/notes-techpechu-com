@@ -38,8 +38,11 @@
 		- ((62604172-ac30-40b6-9d8e-0bb8bf942a22))
 	- Day 12
 		- ((6260428a-9aac-4c3f-8069-75b3b2f4ca9d))
-		-
+		- ((6262f3ac-d270-4b4c-8fc4-27b22cfa615f))
+		- ((6262f7c1-26da-4642-85c6-fd500d7f3120))
 		- ((6262f52d-d0c0-46c4-bfa4-60b974ad8d8c))
+		- ((6262fc6c-25ff-4837-a89a-977b9ac00f0a))
+		-
 		-
 		-
 		-
@@ -156,7 +159,9 @@
 	- [[CloudWatch events]]
 	  id:: 6262f52d-d0c0-46c4-bfa4-60b974ad8d8c
 	- [[S3 events]]
+	  id:: 6262f7c1-26da-4642-85c6-fd500d7f3120
 	- [[Cloudwatch dashboard]]
+	  id:: 6262fc6c-25ff-4837-a89a-977b9ac00f0a
 	- [[X-ray]]
 	- [[ElasticSearch (ES)]]
 	-
