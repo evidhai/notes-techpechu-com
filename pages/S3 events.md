@@ -3,4 +3,5 @@
 -
 - You can also use [[CloudWatch events]] if any case not covered in s3 events
 - S3 events vs Cloudwatch events #exam-revise
-	- S3 even
+	- S3 events is for only object level operations for a single bucket
+	- Cloudwatch events can be used for either object level operations ,
