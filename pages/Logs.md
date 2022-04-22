@@ -1,5 +1,5 @@
 - Application logs
-  title:: Available Logs
+  title:: Logs
 	- these are produced by applications
 	- Would need Cloudwatch Agent to push to Cloudwatch logs
 	- On using Lambda , ECS can be directly linked to Cloudwatch logs
