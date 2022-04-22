@@ -6,6 +6,7 @@
 	- Full Text search
 - General flow
 	- Elastic search -> for search and index
-	- Kibana -> for dashboard
-	- Logstash -> for log ingestion
-	-
+	- Kibana -> for dashboard (alternate to cloudwatch dashboard)
+	- Logstash -> for log ingestion (alternate to cloudwatch logs)
+-
+-
