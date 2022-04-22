@@ -150,6 +150,7 @@
 	- [[S3 events]]
 	- [[Cloudwatch dashboard]]
 	- [[X-ray]]
+	- [[ElasticSearch (ES)]]
 	-
 	-
 	-

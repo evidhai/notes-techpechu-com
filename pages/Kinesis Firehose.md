@@ -1,4 +1,4 @@
-- Pass the stream data to storage such as [[S3]] [[Redshift]] [[ElasticSearch]]
+- Pass the stream data to storage such as [[S3]] [[Redshift]] [[ElasticSearch (ES)]]
 - It is fully managed service so no administration required
 - Near realtime,  min of 60sec lag on realtime data
 - Supports Data compression GZIP , ZIP and SNAPPY if destination [[S3]] #exam-revise
