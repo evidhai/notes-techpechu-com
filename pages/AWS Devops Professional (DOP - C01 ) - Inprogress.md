@@ -37,6 +37,9 @@
 		- ((62603ace-1b1c-466a-bbc2-837bf4da5b6d))
 		- ((62604172-ac30-40b6-9d8e-0bb8bf942a22))
 	- Day 12
+		- ((6260428a-9aac-4c3f-8069-75b3b2f4ca9d))
+		-
+		- ((6262f52d-d0c0-46c4-bfa4-60b974ad8d8c))
 		-
 		-
 		-
@@ -147,8 +150,11 @@
 	- [[Cloudwatch Metric filters and alarm]]
 	  id:: 62604172-ac30-40b6-9d8e-0bb8bf942a22
 	- [[Cloudwatch logs export to S3]]
+	  id:: 6260428a-9aac-4c3f-8069-75b3b2f4ca9d
 	- [[Logs]]
+	  id:: 6262f3ac-d270-4b4c-8fc4-27b22cfa615f
 	- [[CloudWatch events]]
+	  id:: 6262f52d-d0c0-46c4-bfa4-60b974ad8d8c
 	- [[S3 events]]
 	- [[Cloudwatch dashboard]]
 	- [[X-ray]]
