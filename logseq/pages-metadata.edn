@@ -16,6 +16,12 @@
  {:block/name "apr 20th, 2022",
   :block/created-at 1650473592413,
   :block/updated-at 1650473592413}
+ {:block/name "apr 22nd, 2022",
+  :block/created-at 1650649197392,
+  :block/updated-at 1650649197392}
+ {:block/name "apr 23rd, 2022",
+  :block/created-at 1650652203362,
+  :block/updated-at 1650652203362}
  {:block/name "apr 2nd, 2022",
   :block/created-at 1648846384312,
   :block/updated-at 1648846384312}
@@ -24,7 +30,7 @@
   :block/updated-at 1648490079701}
  {:block/name "aws devops professional (dop - c01 ) - inprogress",
   :block/created-at 1647455662443,
-  :block/updated-at 1650475748964}
+  :block/updated-at 1650656045136}
  {:block/name "b",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
@@ -46,12 +52,18 @@
  {:block/name "cloudwatch alarm",
   :block/created-at 1649700022997,
   :block/updated-at 1649700371022}
+ {:block/name "cloudwatch dashboard",
+  :block/created-at 1650654327160,
+  :block/updated-at 1650654386523}
  {:block/name "cloudwatch events",
   :block/created-at 1647888505518,
-  :block/updated-at 1647888505518}
+  :block/updated-at 1650652862475}
  {:block/name "cloudwatch logs",
   :block/created-at 1648748256494,
   :block/updated-at 1650474071981}
+ {:block/name "cloudwatch logs export to s3",
+  :block/created-at 1650649982325,
+  :block/updated-at 1650650599737}
  {:block/name "cloudwatch metric filters and alarm",
   :block/created-at 1650475394538,
   :block/updated-at 1650475638417}
@@ -94,9 +106,9 @@
  {:block/name "elastic beanstalk",
   :block/created-at 1647886214748,
   :block/updated-at 1647886214748}
- {:block/name "elasticsearch",
+ {:block/name "elasticsearch (es)",
   :block/created-at 1648750463910,
-  :block/updated-at 1648750463910}
+  :block/updated-at 1650655627593}
  {:block/name "exam-revise",
   :block/created-at 1647887553296,
   :block/updated-at 1648751694870}
@@ -154,6 +166,9 @@
  {:block/name "later",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
+ {:block/name "logs",
+  :block/created-at 1650652086719,
+  :block/updated-at 1650652433790}
  {:block/name "mar 30th, 2022",
   :block/created-at 1648581041154,
   :block/updated-at 1648581041154}
@@ -178,9 +193,15 @@
  {:block/name "s3",
   :block/created-at 1648490489536,
   :block/updated-at 1648490489536}
+ {:block/name "s3 events",
+  :block/created-at 1650653126141,
+  :block/updated-at 1650653388843}
  {:block/name "sns",
   :block/created-at 1647888328583,
   :block/updated-at 1647888328583}
+ {:block/name "sqs",
+  :block/created-at 1650653190470,
+  :block/updated-at 1650653190470}
  {:block/name "ssm",
   :block/created-at 1650474721862,
   :block/updated-at 1650474721862}
@@ -203,5 +224,8 @@
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
  {:block/name "welcome",
-  :block/created-at 1647075187403, 
-  :block/updated-at 1647075187403}]
+  :block/created-at 1647075187403,
+  :block/updated-at 1647075187403}
+ {:block/name "x-ray",
+  :block/created-at 1650654753145, 
+  :block/updated-at 1650654768407}]
