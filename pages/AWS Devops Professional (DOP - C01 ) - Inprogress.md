@@ -45,7 +45,7 @@
 		- ((6262fe0a-bc48-45b4-8d4b-6b679861d4a3))
 		- ((6262fe4c-7fee-4ba7-a86d-1aa530a60538))
 	- Day 13
-		-
+		- ((62654cac-9b49-4979-b94d-a91740b2aaf4))
 		-
 		-
 		-
@@ -141,6 +141,7 @@
 			- https://wiki.jenkins.io/display/JENKINS/Artifact+Manager+S3+Plugin
 			- https://wiki.jenkins.io/display/JENKINS/AWS+CodePipeline+Plugin
 - # Topic : Monitoring and Logging
+  collapsed:: true
 	- [[CloudTrail]]
 	  id:: 6245e567-55a5-4256-bcd3-2ccb2b8c1000
 	- [[Kinesis]]
@@ -170,6 +171,7 @@
 	- [[ElasticSearch (ES)]]
 	  id:: 6262fe4c-7fee-4ba7-a86d-1aa530a60538
 	- AWS Tag strategies [Refer - here](https://docs.aws.amazon.com/general/latest/gr/aws_tagging.html)
+	  id:: 62654cac-9b49-4979-b94d-a91740b2aaf4
 	- Reference links
 	  collapsed:: true
 		- CloudTrail:
@@ -192,3 +194,4 @@
 		- https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/CWL_ES_Stream.html
 		- Tagging in AWS
 		- https://aws.amazon.com/answers/account-management/aws-tagging-strategies/
+# Topic : Monitoring and Logging
