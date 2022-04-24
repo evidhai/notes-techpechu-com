@@ -1,3 +1,3 @@
 - Patching is more like updating OS on the system
 - With Patch Manager we can set the baseline and declare if any exclusion to be done on patching and to perform patching in bulk on target [[SSM - Resource groups]]
--
+- [hands-on guide](https://docs.aws.amazon.com/systems-manager/latest/userguide/sysman-patch-cliwalk.html) #hands-on
