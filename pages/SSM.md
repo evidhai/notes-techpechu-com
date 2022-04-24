@@ -5,4 +5,7 @@
 	- Can be integrated with [[Cloudwatch Metrics]] [[Cloudwatch dashboard]] [[AWS config]]
 -
 - Features
-	-
+	- [[Resource groups]]
+	- [[Insights]]
+	- [[Paramter store]]
+	- [[Action]]
