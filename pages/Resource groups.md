@@ -1,0 +1,1 @@
+- Resources can begrouped in 2 ways £

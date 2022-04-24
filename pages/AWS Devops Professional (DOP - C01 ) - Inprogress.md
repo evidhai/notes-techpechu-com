@@ -46,6 +46,8 @@
 		- ((6262fe4c-7fee-4ba7-a86d-1aa530a60538))
 	- Day 13
 		- ((62654cac-9b49-4979-b94d-a91740b2aaf4))
+		- ((62654dbd-6dc8-434b-84c6-e55edcfe3e37))
+		-
 		-
 		-
 		-
@@ -196,6 +198,9 @@
 		- https://aws.amazon.com/answers/account-management/aws-tagging-strategies/
 - # Topic : Policies and Standard Automation
 	- [[SSM]]
+	  id:: 62654dbd-6dc8-434b-84c6-e55edcfe3e37
+	- [[Resource groups]]
+	-
 	- Reference links
 	  collapsed:: true
 		- AWS Systems Manager
