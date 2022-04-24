@@ -1,0 +1,1 @@
+- Handson - guide [Refer](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-setup.html) #hands-on
