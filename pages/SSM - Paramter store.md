@@ -1,0 +1,3 @@
+- Parameter store is more like storing values in the variable
+- You can store the values in the plain text or as encrypted text
+- Parameter store can be protected with IAM to contr
