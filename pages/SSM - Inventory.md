@@ -1,1 +1,2 @@
-- Inventory is to
+- Inventory is to fetch all the list of services that running in our instances #exam-revise
+-
