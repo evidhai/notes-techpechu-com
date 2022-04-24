@@ -169,13 +169,7 @@
 	  id:: 6262fe0a-bc48-45b4-8d4b-6b679861d4a3
 	- [[ElasticSearch (ES)]]
 	  id:: 6262fe4c-7fee-4ba7-a86d-1aa530a60538
-	- AWS Tag strategies
-	-
-	-
-	-
-	-
-	-
-	-
+	- AWS Tag strategies [Refer - here](https://docs.aws.amazon.com/general/latest/gr/aws_tagging.html)
 	- Reference links
 	  collapsed:: true
 		- CloudTrail:
