@@ -1,1 +1,3 @@
-- Resources can begrouped in 2 ways £
+- Resources can begrouped in 2 ways #exam-revise
+	- tag based
+	- Cloudformation stack based
