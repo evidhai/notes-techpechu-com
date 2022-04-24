@@ -1,0 +1,1 @@
+- SSM Run Command is used to execute commands targetting [[SSM - Resource groups]]
