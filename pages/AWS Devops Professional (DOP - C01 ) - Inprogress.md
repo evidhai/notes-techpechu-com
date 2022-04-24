@@ -204,7 +204,7 @@
 	- [[SSM - Parameter store]]
 	- [[SSM - Patch Manager]]
 	- [[SSM - Inventory]]
-	-
+	- [[SSM -automations]]
 	-
 	-
 	-
