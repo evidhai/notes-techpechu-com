@@ -7,6 +7,6 @@
 - Features
 	- [[SSM - Resource groups]]
 	- [[Insights]]
-	- [[SSM - Paramter store]]
+	- [[SSM - Parameter store]]
 	- [[Action]]
 -

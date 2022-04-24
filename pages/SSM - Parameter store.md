@@ -1,0 +1,5 @@
+- Parameter store is more like storing values in the variable
+- You can store the values in the plain text or as encrypted text
+- Parameter store can be protected with IAM to control who can read the values
+-
+- [hands-on guide](https://docs.aws.amazon.com/systems-manager/latest/userguide/parameter-search.html) #hands-on

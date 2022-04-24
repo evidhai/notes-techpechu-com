@@ -201,7 +201,7 @@
 	  id:: 62654dbd-6dc8-434b-84c6-e55edcfe3e37
 	- [[SSM - Resource groups]]
 	- [[SSM - Run Command]]
-	- [[SSM - Paramter store]]
+	- [[SSM - Parameter store]]
 	-
 	-
 	-
