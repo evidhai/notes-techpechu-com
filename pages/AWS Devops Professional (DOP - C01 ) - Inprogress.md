@@ -202,6 +202,7 @@
 	- [[SSM - Resource groups]]
 	- [[SSM - Run Command]]
 	- [[SSM - Parameter store]]
+	- [[SSM - Patch Manager]]
 	-
 	-
 	-

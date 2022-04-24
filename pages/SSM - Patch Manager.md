@@ -1,0 +1,2 @@
+- Patching is more like updating OS on the system
+- With Patch Manager we can
