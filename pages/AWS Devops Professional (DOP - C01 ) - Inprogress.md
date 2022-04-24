@@ -203,6 +203,7 @@
 	- [[SSM - Run Command]]
 	- [[SSM - Parameter store]]
 	- [[SSM - Patch Manager]]
+	- [[SSM - Inventory]]
 	-
 	-
 	-
