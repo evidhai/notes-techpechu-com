@@ -199,7 +199,7 @@
 - # Topic : Policies and Standard Automation
 	- [[SSM]]
 	  id:: 62654dbd-6dc8-434b-84c6-e55edcfe3e37
-	- [[Resource groups]]
+	- [[SSM - Resource groups]]
 	-
 	- Reference links
 	  collapsed:: true
