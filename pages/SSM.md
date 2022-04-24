@@ -1,1 +1,4 @@
-- AWS Systems Manager Over
+- AWS Systems Manager Overview
+	- Free service
+	- Used to manage EC2 and On-premise in largescale
+	- Works on both Linux and Windows OS
