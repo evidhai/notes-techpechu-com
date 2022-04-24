@@ -1,2 +1,2 @@
 - Inventory is to fetch all the list of services that running in our instances #exam-revise
--
+- [hands-on](https://docs.aws.amazon.com/systems-manager/latest/userguide/sysman-inventory-configuring.html) #hands-on
