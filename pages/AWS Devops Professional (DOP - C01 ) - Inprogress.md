@@ -47,6 +47,10 @@
 	- Day 13
 		- ((62654cac-9b49-4979-b94d-a91740b2aaf4))
 		- ((62654dbd-6dc8-434b-84c6-e55edcfe3e37))
+		- ((626552bc-e8fe-4dc2-9fbf-f84c9bbe7285))
+		- ((62658a20-7361-480b-8ca9-6e3ff39f0a38))
+		- ((62658a74-a528-4e00-ac1e-31567b5523f9))
+		- ((62658b56-353e-4c46-8554-c45e45048e8f))
 		-
 		-
 		-
@@ -200,9 +204,13 @@
 	- [[SSM]]
 	  id:: 62654dbd-6dc8-434b-84c6-e55edcfe3e37
 	- [[SSM - Resource groups]]
+	  id:: 626552bc-e8fe-4dc2-9fbf-f84c9bbe7285
 	- [[SSM - Run Command]]
+	  id:: 62658a20-7361-480b-8ca9-6e3ff39f0a38
 	- [[SSM - Parameter store]]
+	  id:: 62658a74-a528-4e00-ac1e-31567b5523f9
 	- [[SSM - Patch Manager]]
+	  id:: 62658b56-353e-4c46-8554-c45e45048e8f
 	- [[SSM - Inventory]]
 	- [[SSM -automations]]
 	-
