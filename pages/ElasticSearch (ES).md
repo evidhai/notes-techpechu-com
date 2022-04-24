@@ -18,3 +18,5 @@
 		- Method 2: (You get data in near realtime due to Kinesis)
 			- ![image.png](../assets/image_1650655596468_0.png)
 		-
+- ---
+-
