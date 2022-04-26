@@ -7,4 +7,5 @@
 		  Won't be available before resource is active
 		  #+END_CAUTION
 	- User generated tags
-		- We can mark user-generated ta
+		- We can mark user-generated tags as cost allocation tag, once then we can use that tag to track cost
+	-
