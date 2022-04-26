@@ -56,6 +56,7 @@
 	- Day 14
 		- ((62658aea-cb92-4e6b-804d-ee6e080eaf9a))
 		- ((62683dd3-9460-4542-a42a-50a39ac2e365))
+		- ((62658a93-b2a8-4dd2-bfcb-c81212da6d15))
 		-
 		-
 		-
@@ -223,6 +224,7 @@
 	- [[Service Catalog]]
 	  id:: 62683dd3-9460-4542-a42a-50a39ac2e365
 	- [[Amazon Inspector]]
+	  id:: 62658a93-b2a8-4dd2-bfcb-c81212da6d15
 	-
 	-
 	- Reference links

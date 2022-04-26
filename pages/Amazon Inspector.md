@@ -8,4 +8,4 @@
 	- ![image.png](../assets/image_1650999837842_0.png)
 	- source: https://aws.amazon.com/inspector/
 - /link
--
+- [Getting started](https://docs.aws.amazon.com/inspector/latest/user/getting_started_tutorial.html) #hands-on
