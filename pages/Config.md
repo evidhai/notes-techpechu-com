@@ -25,5 +25,7 @@
 - ## Config -  Multi account
 - ![image.png](../assets/image_1650998437582_0.png)
 - source: https://docs.aws.amazon.com/config/latest/developerguide/aggregate-data.html
-- Use aggregator to collect data from multiple accounts and regions
--
+- Use **aggregator** to collect data from multiple accounts and regions #exam-revise
+- Types of aggregator #exam-revise
+	- Individual account aggregator
+	- Organization aggregator
