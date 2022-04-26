@@ -1,0 +1,2 @@
+- Usecase
+	- It restricts access to uses
