@@ -11,4 +11,13 @@
 -
 - ## Config - Automations
 	- AWS config sends notification to [[SNS]]
+	- Config sends notification on below scenarios
+		-
+		- Configuration item change for a resource.
+		- Configuration history for a resource was delivered for your account.
+		- Configuration snapshot for recorded resources was started and delivered for your account.
+		- Compliance state of your resources and whether they are compliant with your rules.
+		- Evaluation started for a rule against your resources.
+		- AWS Config failed to deliver the notification to your account.
+	- Source: https://docs.aws.amazon.com/config/latest/developerguide/notifications-for-AWS-Config.html
 	-
