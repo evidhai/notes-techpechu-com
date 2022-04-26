@@ -54,6 +54,7 @@
 		- ((62658fca-7278-4637-9973-b7fc37bdf7ec))
 		- ((62659057-f1c6-4807-b6e4-2705d1164e2f))
 	- Day 14
+		- ((62658aea-cb92-4e6b-804d-ee6e080eaf9a))
 		-
 		-
 		-
@@ -218,6 +219,7 @@
 	- [[SSM -automations]]
 	  id:: 62659057-f1c6-4807-b6e4-2705d1164e2f
 	- [[Config]]
+	  id:: 62658aea-cb92-4e6b-804d-ee6e080eaf9a
 	-
 	-
 	- Reference links
