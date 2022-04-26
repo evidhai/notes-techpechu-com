@@ -1,4 +1,6 @@
 - Amazon inspector helps to identify any potential security issues
 - Assessment setup
 	- Network assessments
-		-
+		- Inspector agent is not required
+	- Host assessments
+		- Inspector agent is  required
