@@ -10,4 +10,5 @@
 	- [Getting started](https://docs.aws.amazon.com/config/latest/developerguide/evaluate-config.html) #hands-on
 -
 - ## Config - Automations
+	- AWS config sends notification to [[SNS]]
 	-
