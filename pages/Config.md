@@ -8,4 +8,6 @@
 	  Each rule in config will cost 1$ per month
 	  #+END_WARNING
 	- [Getting started](https://docs.aws.amazon.com/config/latest/developerguide/evaluate-config.html) #hands-on
+-
+- ## Config - Automations
 	-
