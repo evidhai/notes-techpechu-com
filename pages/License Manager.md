@@ -1,2 +1,3 @@
 - To manage all the software license you own
--
+- You create Licence configuration and associate the licence with the instance
+- #exam-revise
