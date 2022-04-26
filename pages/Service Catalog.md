@@ -1,3 +1,4 @@
 - Usecase
 	- It restricts access to users, so users can perform only approved actions by admin
-- It uses cloudformation
+- It uses cloudformation templates called as products to provide access to users
+- Can be integrated with self service tools like service now
