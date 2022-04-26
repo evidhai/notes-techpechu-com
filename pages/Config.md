@@ -12,6 +12,7 @@
 - ## Config - Automations
 	- AWS config sends notification to [[SNS]]
 	- Config sends notification on below scenarios #exam-revise
+	  collapsed:: true
 		- Configuration item change for a resource.
 		- Configuration history for a resource was delivered for your account.
 		- Configuration snapshot for recorded resources was started and delivered for your account.
@@ -20,3 +21,7 @@
 		- AWS Config failed to deliver the notification to your account.
 		- Source: https://docs.aws.amazon.com/config/latest/developerguide/notifications-for-AWS-Config.html
 			-
+-
+- ## Config -  Multi account
+- ![image.png](../assets/image_1650998437582_0.png)
+-
