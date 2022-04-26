@@ -4,6 +4,9 @@
  {:block/name "a",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
+ {:block/name "action",
+  :block/created-at 1650806449512,
+  :block/updated-at 1650806449512}
  {:block/name "apr 11th, 2022",
   :block/created-at 1649697829360,
   :block/updated-at 1649697829360}
@@ -25,15 +28,21 @@
  {:block/name "apr 24th, 2022",
   :block/created-at 1650793959665,
   :block/updated-at 1650793959665}
+ {:block/name "apr 25th, 2022",
+  :block/created-at 1650825014968,
+  :block/updated-at 1650825014968}
  {:block/name "apr 2nd, 2022",
   :block/created-at 1648846384312,
   :block/updated-at 1648846384312}
  {:block/name "artifacts",
   :block/created-at 1648490003320,
   :block/updated-at 1648490079701}
+ {:block/name "aws config",
+  :block/created-at 1650806366808,
+  :block/updated-at 1650806366808}
  {:block/name "aws devops professional (dop - c01 ) - inprogress",
   :block/created-at 1647455662443,
-  :block/updated-at 1650656045136}
+  :block/updated-at 1650824206781}
  {:block/name "b",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
@@ -145,6 +154,9 @@
  {:block/name "in-progress",
   :block/created-at 1646899294263,
   :block/updated-at 1646899294263}
+ {:block/name "insights",
+  :block/created-at 1650806434665,
+  :block/updated-at 1650806434665}
  {:block/name "jenkins ci",
   :block/created-at 1647886214769,
   :block/updated-at 1647886214769}
@@ -207,7 +219,25 @@
   :block/updated-at 1650653190470}
  {:block/name "ssm",
   :block/created-at 1650474721862,
-  :block/updated-at 1650474721862}
+  :block/updated-at 1650807374026}
+ {:block/name "ssm - inventory",
+  :block/created-at 1650823125636,
+  :block/updated-at 1650823245750}
+ {:block/name "ssm - parameter store",
+  :block/created-at 1650806443933,
+  :block/updated-at 1650821946135}
+ {:block/name "ssm - patch manager",
+  :block/created-at 1650821987012,
+  :block/updated-at 1650822426702}
+ {:block/name "ssm - resource groups",
+  :block/created-at 1650806428717,
+  :block/updated-at 1650807526885}
+ {:block/name "ssm - run command",
+  :block/created-at 1650821683632,
+  :block/updated-at 1650821735713}
+ {:block/name "ssm -automations",
+  :block/created-at 1650823328428,
+  :block/updated-at 1650824079362}
  {:block/name "tag names should always be lowercase",
   :block/created-at 1648315567604,
   :block/updated-at 1648315567604}
