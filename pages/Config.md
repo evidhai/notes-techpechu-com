@@ -24,4 +24,5 @@
 -
 - ## Config -  Multi account
 - ![image.png](../assets/image_1650998437582_0.png)
+- source: https://docs.aws.amazon.com/config/latest/developerguide/aggregate-data.html
 -
