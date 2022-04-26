@@ -1,2 +1,2 @@
 - Usecase
-	- It restricts access to uses
+	- It restricts access to users, so users can perform only approved actions by admin
