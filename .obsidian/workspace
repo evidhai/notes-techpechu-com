@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Home.md",
+            "file": "pages/X-ray.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad723e7067b85480",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Home.md",
+                "file": "pages/X-ray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +90,15 @@
   },
   "active": "7f3db4c0be293231",
   "lastOpenFiles": [
-    "pages/Home.md",
-    "pages/hands-on.md",
-    "pages/exam-revise.md",
-    "pages/ElasticSearch (ES).md",
-    "pages/CodeDeploy.md",
-    "pages/Cloudwatch Logs.md",
-    "journals/2022_02_28.md",
-    "journals/2022_02_27.md",
-    "pages/AWS Devops Professional (DOP - C01 ) - Inprogress.md"
+    "pages/X-ray.md",
+    "pages/Welcome.md",
+    "pages/SSM - Run Command.md",
+    "pages/test-page.md",
+    "pages/SSM -automations.md",
+    "pages/Logs.md",
+    "pages/Kinesis Firehose.md",
+    "pages/Kinesis.md",
+    "pages/Jenkins CI.md",
+    "pages/Home.md"
   ]
 }
