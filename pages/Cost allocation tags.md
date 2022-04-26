@@ -1,0 +1,4 @@
+- Tags can be used to track cost
+- Types #exam-revise
+	- AWS generated Cost Allocation tags
+		- Tje
