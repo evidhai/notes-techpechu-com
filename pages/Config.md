@@ -3,4 +3,7 @@
 - [Getting started](https://docs.aws.amazon.com/config/latest/developerguide/gs-console.html) #hands-on
 -
 - ## Rules
-	-
+	- We can maintain compilance of our resource by adding config rules
+	- #+BEGIN_WARNING
+	  Each rule in 
+	  #+END_WARNING
