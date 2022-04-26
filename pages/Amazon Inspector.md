@@ -5,4 +5,6 @@
 	- Host assessments
 		- Inspector agent is  required
 - How it works?
--
+	- ![image.png](../assets/image_1650999837842_0.png)
+	- source: https://aws.amazon.com/inspector/
+	-
