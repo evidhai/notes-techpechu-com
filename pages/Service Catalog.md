@@ -4,4 +4,6 @@
 - Can be integrated with self service tools like service now
 - [Getting started](https://docs.aws.amazon.com/servicecatalog/latest/adminguide/getstarted.html) #hands-on
 - ### products
-	- Cloudformation templates
+	- Cloudformation templates which contain user permission
+- ### portfolio lists
+	- user accounts that are mapped
