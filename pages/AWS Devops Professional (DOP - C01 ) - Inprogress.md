@@ -225,7 +225,7 @@
 	  id:: 62683dd3-9460-4542-a42a-50a39ac2e365
 	- [[Amazon Inspector]]
 	  id:: 62658a93-b2a8-4dd2-bfcb-c81212da6d15
-	- [[Cost allocation tags]]
+- [[Cost allocation tags]]
 	-
 	- Reference links
 	  collapsed:: true
