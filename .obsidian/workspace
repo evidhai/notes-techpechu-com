@@ -7,8 +7,12 @@
         "id": "7f3db4c0be293231",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "pages/Home.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,14 @@
   },
   "active": "7f3db4c0be293231",
   "lastOpenFiles": [
+    "pages/Home.md",
+    "pages/hands-on.md",
+    "pages/exam-revise.md",
+    "pages/ElasticSearch (ES).md",
+    "pages/CodeDeploy.md",
+    "pages/Cloudwatch Logs.md",
+    "journals/2022_02_28.md",
+    "journals/2022_02_27.md",
     "pages/AWS Devops Professional (DOP - C01 ) - Inprogress.md"
   ]
 }
