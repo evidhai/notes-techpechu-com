@@ -1,1 +1,2 @@
-- It helps you to manage , audit and continously monitor the configurat
+- It helps you to manage , audit and continuously monitor the configuration of your aws resource.
+- You can export the config of your resourse as json , same can be exported to s3
