@@ -4,3 +4,5 @@
 		- Inspector agent is not required
 	- Host assessments
 		- Inspector agent is  required
+- How it works?
+-
