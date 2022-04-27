@@ -4,4 +4,5 @@
 	- To get in depth analysis we would require paid service
 -
 - ### Automations
+	- We can get notified using [[CloudWatch events]] . Ensure [[CloudWatch events]] is created in N.viginia
 	-
