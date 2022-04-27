@@ -62,6 +62,7 @@
 	- Day 15
 		- ((626979d5-5289-453e-8842-d8c4d9826a89))
 		- ((62697fec-f25c-4878-ab5f-006771734c99))
+		- ((62698281-572c-4909-b9fe-126080df5eed))
 		-
 		-
 		-
@@ -239,6 +240,7 @@
 	- [[Service Health Dashboard]]
 	  id:: 62697fec-f25c-4878-ab5f-006771734c99
 	- [[Trusted Advisor]]
+	  id:: 62698281-572c-4909-b9fe-126080df5eed
 	- Reference links
 	  collapsed:: true
 		- AWS Systems Manager
