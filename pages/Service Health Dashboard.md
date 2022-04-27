@@ -1,2 +1,3 @@
-- statusaws.amazon.com -> gives you the health status of all aws service globally
+- status.aws.amazon.com -> gives you the health status of all aws service globally
+- ![image.png](../assets/image_1651081444619_0.png)
 -
