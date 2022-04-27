@@ -246,7 +246,6 @@
 	- [[GuardDuty]]
 	- [[Macie]]
 	  id:: 626988bc-80aa-4170-947f-721eb5bcb17b
-	-
 	- Reference links
 	  collapsed:: true
 		- AWS Systems Manager
