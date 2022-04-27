@@ -1,4 +1,7 @@
-- Used to automate security events
+- Used to automate security events and provide recommended actions
 - ![image.png](../assets/image_1651082130889_0.png)
 - It has both free tier and paid service
 	- To get in depth analysis we would require paid service
+-
+- ### Automations
+	-
