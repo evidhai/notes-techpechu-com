@@ -1,5 +1,5 @@
 - To protect AWS account from any threats
-- Uses below logs to detact any attacks
+- Uses below logs to detact any attacks / threat detection
 	- Cloudtrail logs
 	- VPC flow logs
 	- DNS logs
