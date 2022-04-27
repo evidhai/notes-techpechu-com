@@ -61,6 +61,7 @@
 		- ((626552a8-4ec3-4dbf-82b5-26e2deb29c71))
 	- Day 15
 		- ((626979d5-5289-453e-8842-d8c4d9826a89))
+		- ((62697fec-f25c-4878-ab5f-006771734c99))
 		-
 		-
 		-
@@ -236,6 +237,8 @@
 	- [[Secrets Manager]]
 	  id:: 626979d5-5289-453e-8842-d8c4d9826a89
 	- [[Service Health Dashboard]]
+	  id:: 62697fec-f25c-4878-ab5f-006771734c99
+	- [[Trusted Advisor]]
 	- Reference links
 	  collapsed:: true
 		- AWS Systems Manager
