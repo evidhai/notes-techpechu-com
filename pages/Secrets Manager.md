@@ -1,3 +1,4 @@
 - Used to store secrets like password
 - Can also be used to store key and value
--
+- For encryption we can use default / custom encryption key
+- Rotate secret - We can set duration post that AWS auto generates new secrets and replace it with new one
