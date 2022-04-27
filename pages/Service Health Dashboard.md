@@ -1,0 +1,2 @@
+- statusaws.amazon.com -> gives you the health status of all aws service globally
+-
