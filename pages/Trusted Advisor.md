@@ -5,4 +5,3 @@
 -
 - ### Automations
 	- We can get notified using [[CloudWatch events]] . Ensure [[CloudWatch events]] is created in N.viginia
-	-
