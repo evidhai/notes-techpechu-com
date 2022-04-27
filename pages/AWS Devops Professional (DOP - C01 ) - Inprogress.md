@@ -231,6 +231,7 @@
 	  id:: 62684062-9ff4-4028-9f2a-71e23f59b55e
 	- [[License Manager]]
 	  id:: 626552a8-4ec3-4dbf-82b5-26e2deb29c71
+	- [[Secrets Manager]]
 	- Reference links
 	  collapsed:: true
 		- AWS Systems Manager

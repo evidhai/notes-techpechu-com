@@ -1,0 +1,3 @@
+- Used to store secrets like password
+- Can also be used to store key and value
+-
