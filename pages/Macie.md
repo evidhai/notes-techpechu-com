@@ -1,0 +1,1 @@
+- Analyses s3 and look for any sensitive info like credit card number , password in it
