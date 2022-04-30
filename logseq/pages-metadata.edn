@@ -40,6 +40,9 @@
  {:block/name "apr 27th, 2022",
   :block/created-at 1650997801625,
   :block/updated-at 1650997801625}
+ {:block/name "apr 28th, 2022",
+  :block/created-at 1651084202971,
+  :block/updated-at 1651084202971}
  {:block/name "apr 2nd, 2022",
   :block/created-at 1648846384312,
   :block/updated-at 1648846384312}
@@ -51,7 +54,7 @@
   :block/updated-at 1650806366808}
  {:block/name "aws devops professional (dop - c01 ) - inprogress",
   :block/created-at 1647455662443,
-  :block/updated-at 1651000636312}
+  :block/updated-at 1651084283876}
  {:block/name "b",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
@@ -151,6 +154,9 @@
  {:block/name "feb 28th, 2022",
   :block/created-at 1645989357412,
   :block/updated-at 1645989385766}
+ {:block/name "guardduty",
+  :block/created-at 1651082998175,
+  :block/updated-at 1651083098694}
  {:block/name "hands-on",
   :block/created-at 1647887065300,
   :block/updated-at 1648062548062}
@@ -202,6 +208,9 @@
  {:block/name "logs",
   :block/created-at 1650652086719,
   :block/updated-at 1650652433790}
+ {:block/name "macie",
+  :block/created-at 1651083459385,
+  :block/updated-at 1651083498194}
  {:block/name "mar 30th, 2022",
   :block/created-at 1648581041154,
   :block/updated-at 1648581041154}
@@ -229,9 +238,15 @@
  {:block/name "s3 events",
   :block/created-at 1650653126141,
   :block/updated-at 1650653388843}
+ {:block/name "secrets manager",
+  :block/created-at 1651079648597,
+  :block/updated-at 1651079726335}
  {:block/name "service catalog",
   :block/created-at 1650998807871,
   :block/updated-at 1650999327701}
+ {:block/name "service health dashboard",
+  :block/created-at 1651081354659,
+  :block/updated-at 1651081649303}
  {:block/name "sns",
   :block/created-at 1647888328583,
   :block/updated-at 1647888328583}
@@ -268,6 +283,9 @@
  {:block/name "todo",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
+ {:block/name "trusted advisor",
+  :block/created-at 1651081873447,
+  :block/updated-at 1651082368607}
  {:block/name "vpc",
   :block/created-at 1647975617907,
   :block/updated-at 1647975617907}
