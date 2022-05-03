@@ -213,6 +213,7 @@
 		- Tagging in AWS
 		- https://aws.amazon.com/answers/account-management/aws-tagging-strategies/
 - # Topic : Policies and Standard Automation
+  collapsed:: true
 	- [[SSM]]
 	  id:: 62654dbd-6dc8-434b-84c6-e55edcfe3e37
 	- [[SSM - Resource groups]]
@@ -285,3 +286,5 @@
 			- https://docs.aws.amazon.com/cli/latest/reference/support/index.html#cli-aws-support
 		- AWS Macie
 			- https://aws.amazon.com/blogs/security/classify-sensitive-data-in-your-environment-using-amazon-macie/
+-
+# Topic : Policies and Standard Automation
