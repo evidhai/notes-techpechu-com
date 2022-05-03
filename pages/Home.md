@@ -5,8 +5,13 @@
 	- [[AWS Devops Professional (DOP - C01 ) - Inprogress]]
 	- Lab Reference
 		- Dynamodb - reference link
+		  collapsed:: true
 			- https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.ReadConsistency.html
 			- https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.ReadWriteCapacityMode.html
+			- https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/LSI.html
+			- https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GSI.html
+			- https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/ql-reference.insert.html
+		-
 -
 - ## Roadmap
 	- [Youtube planner](https://trello.com/b/ATMpz1cj/yt-planner)
