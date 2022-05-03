@@ -287,7 +287,9 @@
 			- https://aws.amazon.com/blogs/security/classify-sensitive-data-in-your-environment-using-amazon-macie/
 -
 - # Topic : Incident , Fault Tolerance, DR
+	-
 	- Reference links
+	  collapsed:: true
 		- Auto Scaling
 			- https://gist.github.com/mikepfeiffer/d27f5c478bef92e8aff4241154b77e54
 			- https://aws.amazon.com/about-aws/whats-new/2018/05/application-load-balancer-announces-slow-start-support/
@@ -302,7 +304,7 @@
 			- https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-auto-scaling-group-create-deployment.html
 			- https://docs.aws.amazon.com/codedeploy/latest/userguide/integrations-aws-auto-scaling.html
 			- https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
-			- DynamoDB
+		- DynamoDB
 			- https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/
 			- https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/AppendixSampleTables.html#AppendixSampleData.Thread
 			- https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.html#Streams.Processing
@@ -334,3 +336,4 @@
 			- https://aws.amazon.com/premiumsupport/knowledge-center/streaming-cloudwatch-logs/
 			- https://aws.amazon.com/about-aws/whats-new/2017/06/cloudwatch-events-adds-cross-account-event-delivery-support/
 			- https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/CloudWatchEvents-CrossAccountEventDelivery.html
+	-
