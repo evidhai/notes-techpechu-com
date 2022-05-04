@@ -1,0 +1,3 @@
+- Autoscaling group can be created in 2 ways
+- Method 1 - [[Launch-configuration]]
+-
