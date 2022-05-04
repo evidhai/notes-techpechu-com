@@ -289,9 +289,12 @@
 -
 - # Topic : Incident , Fault Tolerance, DR
 	- #+BEGIN_NOTE
-	   
+	  This section you would have seen in detail on associate certificates hence not that dense notes  in place.
 	  #+END_NOTE
 	- [[ASG]]
+	- [[S3]]
+	- [[Multi-AZ]]
+	-
 	- Reference links
 	  collapsed:: true
 		- Auto Scaling
