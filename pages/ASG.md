@@ -11,4 +11,5 @@
 	- ![image.png](../assets/image_1651686854419_0.png){:height 261, :width 611}``
 -
 - ASG - Scaling Policies
+	- To track any specific metric say: CPU utilisation and get ASG to scale up or down
 	-
