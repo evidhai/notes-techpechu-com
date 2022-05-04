@@ -8,6 +8,7 @@
 - ASG-Scheduled Actions
 	- To schedule scaling to scale up or down
 	- [Getting started](https://docs.aws.amazon.com/autoscaling/ec2/userguide/ec2-auto-scaling-scheduled-scaling.html) #hands-on
-	- ![image.png](../assets/image_1651686854419_0.png){:height 261, :width 611}
+	- ![image.png](../assets/image_1651686854419_0.png){:height 261, :width 611}``
 -
+- ASG - Scaling Policies
 	-
