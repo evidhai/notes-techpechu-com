@@ -296,7 +296,7 @@
 	- [[Multi-AZ]]
 	- [[Multi-Region]]
 	- [[Route53]]
-	-
+	- [[DynamoDB]]
 	- Reference links
 	  collapsed:: true
 		- Auto Scaling
