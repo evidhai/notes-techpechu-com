@@ -12,4 +12,7 @@
 -
 - ASG - Scaling Policies
 	- To track any specific metric say: CPU utilisation and get ASG to scale up or down
+	-
+- [Attach ASG to loadbalancer](https://docs.aws.amazon.com/autoscaling/ec2/userguide/attach-load-balancer-asg.html) #hands-on
+-
 -
