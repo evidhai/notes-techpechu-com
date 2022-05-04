@@ -1,0 +1,1 @@
+- [Getting started](https://docs.aws.amazon.com/autoscaling/ec2/userguide/create-launch-config.html) #hands-on
