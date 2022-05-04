@@ -65,7 +65,7 @@
 		- ((62698281-572c-4909-b9fe-126080df5eed))
 		- ((626988bc-80aa-4170-947f-721eb5bcb17b))
 	- Day 16
-		- [[ASG]]
+		-
 		-
 		-
 		-
@@ -288,7 +288,10 @@
 			- https://aws.amazon.com/blogs/security/classify-sensitive-data-in-your-environment-using-amazon-macie/
 -
 - # Topic : Incident , Fault Tolerance, DR
-	-
+	- #+BEGIN_NOTE
+	   
+	  #+END_NOTE
+	- [[ASG]]
 	- Reference links
 	  collapsed:: true
 		- Auto Scaling
