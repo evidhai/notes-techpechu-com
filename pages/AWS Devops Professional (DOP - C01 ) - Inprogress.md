@@ -295,6 +295,7 @@
 	- [[S3]]
 	- [[Multi-AZ]]
 	- [[Multi-Region]]
+	- [[Route53]]
 	-
 	- Reference links
 	  collapsed:: true
