@@ -294,6 +294,7 @@
 	- [[ASG]]
 	- [[S3]]
 	- [[Multi-AZ]]
+	- [[Multi-Region]]
 	-
 	- Reference links
 	  collapsed:: true
