@@ -12,4 +12,4 @@
 -
 - ASG - Scaling Policies
 	- To track any specific metric say: CPU utilisation and get ASG to scale up or down
-	-
+-
