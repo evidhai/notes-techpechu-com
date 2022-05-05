@@ -65,6 +65,14 @@
 		- ((62698281-572c-4909-b9fe-126080df5eed))
 		- ((626988bc-80aa-4170-947f-721eb5bcb17b))
 	- Day 16
+		- <<Notes are not in detail as already covered in associate level cert preparation
+		- [[ASG]]
+		- [[S3]]
+		- [[Multi-AZ]]
+		- [[Multi-Region]]
+		- [[Route53]]
+		- [[DynamoDB]]
+	- Dat 17
 		-
 		-
 		-
