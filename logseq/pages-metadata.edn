@@ -54,13 +54,13 @@
   :block/updated-at 1648490079701}
  {:block/name "asg",
   :block/created-at 1651685737492,
-  :block/updated-at 1651687913002}
+  :block/updated-at 1651774295614}
  {:block/name "aws config",
   :block/created-at 1650806366808,
   :block/updated-at 1650806366808}
  {:block/name "aws devops professional (dop - c01 ) - inprogress",
   :block/created-at 1647455662443,
-  :block/updated-at 1651689004243}
+  :block/updated-at 1651772552622}
  {:block/name "b",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
@@ -244,6 +244,9 @@
  {:block/name "may 5th, 2022",
   :block/created-at 1651689004182,
   :block/updated-at 1651689004182}
+ {:block/name "may 6th, 2022",
+  :block/created-at 1651775402735,
+  :block/updated-at 1651775402735}
  {:block/name "multi-az",
   :block/created-at 1651688197061,
   :block/updated-at 1651688197061}
