@@ -52,12 +52,15 @@
  {:block/name "artifacts",
   :block/created-at 1648490003320,
   :block/updated-at 1648490079701}
+ {:block/name "asg",
+  :block/created-at 1651685737492,
+  :block/updated-at 1651687913002}
  {:block/name "aws config",
   :block/created-at 1650806366808,
   :block/updated-at 1650806366808}
  {:block/name "aws devops professional (dop - c01 ) - inprogress",
   :block/created-at 1647455662443,
-  :block/updated-at 1651575538072}
+  :block/updated-at 1651689004243}
  {:block/name "b",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
@@ -130,6 +133,9 @@
  {:block/name "done",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
+ {:block/name "dynamodb",
+  :block/created-at 1651689004242,
+  :block/updated-at 1651689004242}
  {:block/name "ec2",
   :block/created-at 1650474732281,
   :block/updated-at 1650474732281}
@@ -205,6 +211,12 @@
  {:block/name "later",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
+ {:block/name "launch-configuration",
+  :block/created-at 1651685768924,
+  :block/updated-at 1651685852842}
+ {:block/name "launch-templates",
+  :block/created-at 1651686270977,
+  :block/updated-at 1651686328067}
  {:block/name "license manager",
   :block/created-at 1651000461076,
   :block/updated-at 1651000582353}
@@ -226,6 +238,18 @@
  {:block/name "may 3rd, 2022",
   :block/created-at 1651572188904,
   :block/updated-at 1651572188904}
+ {:block/name "may 4th, 2022",
+  :block/created-at 1651685695495,
+  :block/updated-at 1651685695495}
+ {:block/name "may 5th, 2022",
+  :block/created-at 1651689004182,
+  :block/updated-at 1651689004182}
+ {:block/name "multi-az",
+  :block/created-at 1651688197061,
+  :block/updated-at 1651688197061}
+ {:block/name "multi-region",
+  :block/created-at 1651688213523,
+  :block/updated-at 1651688213523}
  {:block/name "new page_ dynamodb",
   :block/created-at 1651572299588,
   :block/updated-at 1651572299588}
@@ -244,6 +268,9 @@
  {:block/name "redshift",
   :block/created-at 1648750441410,
   :block/updated-at 1648750441410}
+ {:block/name "route53",
+  :block/created-at 1651688304950,
+  :block/updated-at 1651688304950}
  {:block/name "s3",
   :block/created-at 1648490489536,
   :block/updated-at 1648490489536}
