@@ -15,4 +15,5 @@
 	-
 - [Attach ASG to loadbalancer](https://docs.aws.amazon.com/autoscaling/ec2/userguide/attach-load-balancer-asg.html) #hands-on
 -
--
+- Lifecycle hooks
+	- ![image.png](../assets/image_1651774294981_0.png)
