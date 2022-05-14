@@ -27,7 +27,12 @@
 		- Terraform Dynamic blocks
 	- Day 6:
 		- Terraform modules
-	-
+	- Day 6:
+		- Secret handling
+	- Day 7:
+		- Introduction to git
+	- Day 8:
+		-
 		-
 	-
 		-
