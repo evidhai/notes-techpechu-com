@@ -5,4 +5,6 @@
 	- How to handle syncronisation of existing resource
 	- How to manage when you work as a team
 	- Basics of git
-	- Builld custom modules
+	- Builld custom modules on terraform and create opensource project to showcase your work
+	- What ever required you to get Terraform Associate certified
+- Entire course will be in Tamil ,
