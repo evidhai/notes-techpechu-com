@@ -17,5 +17,6 @@
 		- Basic system config
 		- Introduction to Terraform / Iac
 	- Day 2:
+		- Terraform Settings, Providers and Resources
 		-
 		-
