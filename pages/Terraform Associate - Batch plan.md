@@ -37,6 +37,14 @@
 	- Day 8:
 		- Terraform basic commands
 	- Day 9:
+		- Terraform workspace - introduction
+	- Day 10 :
+		- Build module for AWS EC2 instance and Security Group
+	- Day 11:
+		- Intro to git
+		- create
+	- Day 12:
+		-
 		-
 	-
 		-
