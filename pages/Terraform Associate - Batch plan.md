@@ -26,7 +26,6 @@
 		- Terraform variables and outputs
 	- Day 4:
 		- Terraform state files
-			-
 	- Day 5:
 		- Terraform Dynamic blocks
 	- Day 6:
