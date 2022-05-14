@@ -21,6 +21,9 @@
 		- Terraform Blocks explanation
 	- Day 3:
 		- Terraform variables and outputs
+	- Day 4:
+		- Terraform Dynamic blocks
+	- Day 5:
 		-
 	-
 		-
