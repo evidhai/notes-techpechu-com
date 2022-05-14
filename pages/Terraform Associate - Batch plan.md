@@ -16,6 +16,7 @@
 		- Introduction of each member
 		- Basic system config
 		- Introduction to Terraform / Iac
+	- Day
 	- Day 2:
 		- Terraform Settings, Providers and Resources
 		- Terraform Blocks explanation
