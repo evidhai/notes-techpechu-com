@@ -13,5 +13,9 @@
 -
 - Course plan:
 	- Day 1:
-		- Introduction
-		- Basic s
+		- Introduction of each member
+		- Basic system config
+		- Introduction to Terraform / Iac
+	- Day 2:
+		-
+		-
