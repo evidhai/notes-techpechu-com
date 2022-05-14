@@ -16,7 +16,9 @@
 		- Introduction of each member
 		- Basic system config
 		- Introduction to Terraform / Iac
-	- Day
+	- Day 2:
+		- Credential handling
+		- Terraform workflow
 	- Day 2:
 		- Terraform Settings, Providers and Resources
 		- Terraform Blocks explanation
@@ -31,8 +33,12 @@
 	- Day 6:
 		- Secret handling
 	- Day 7:
-		- Introduction to git
+		- Terraform functions
 	- Day 8:
+		- Terraform basic commands
+	- Day 9:
+		-
+	-
 		-
 		-
 	-
