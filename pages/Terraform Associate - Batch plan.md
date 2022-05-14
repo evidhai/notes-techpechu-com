@@ -2,4 +2,7 @@
 - Course will be 100% hands-on and realtime.
 - By end of this course you can
 	- Build automate creation of resources
-	-
+	- How to handle syncronisation of existing resource
+	- How to manage when you work as a team
+	- Basics of git
+	- Builld custom modules
