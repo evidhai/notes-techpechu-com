@@ -1,2 +1,5 @@
 - This page covers what we will be focussing on Terraform Associate Batch.
-- By end of this
+- Course will be 100% hands-on and realtime.
+- By end of this course you can
+	- Build automate creation of resources
+	-
