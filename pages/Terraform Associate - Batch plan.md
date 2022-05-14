@@ -18,5 +18,9 @@
 		- Introduction to Terraform / Iac
 	- Day 2:
 		- Terraform Settings, Providers and Resources
+		- Terraform Blocks explanation
+	- Day 3:
+		- Terraform variables and outputs
 		-
+	-
 		-
