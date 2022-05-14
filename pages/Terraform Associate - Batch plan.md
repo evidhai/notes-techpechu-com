@@ -7,4 +7,5 @@
 	- Basics of git
 	- Builld custom modules on terraform and create opensource project to showcase your work
 	- What ever required you to get Terraform Associate certified
-- Entire course will be in Tamil ,
+- Entire course will be in Tamil , sessions will be  via zoom and recordings will be provided
+- Common Telegram group wil
