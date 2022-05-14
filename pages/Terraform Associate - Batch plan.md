@@ -11,6 +11,8 @@
 - Common Telegram group will be created for interaction and get your doubts cleared
 - Sesssion duration 16  days (if time got delayed or any new topic demanded by people can extend it to 20) on sat and sunday 7:30 -8:30 PM IST.With max batch limit of 10 members.
 -
+- No pre-requisite
+-
 - Course plan:
 	- Day 1:
 		- Introduction of each member
@@ -51,11 +53,3 @@
 		- Integrate Day 10 - 13 module and launch your site
 	- Day 15 -16
 		- Buffer / Revission
-	-
-		-
-		-
-	-
-		-
-		-
-	-
-		-
