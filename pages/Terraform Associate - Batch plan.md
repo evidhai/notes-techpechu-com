@@ -25,6 +25,8 @@
 		- Terraform state files
 	- Day 5:
 		- Terraform Dynamic blocks
+	- Day 6:
+		- Terraform modules
 	-
 		-
 	-
