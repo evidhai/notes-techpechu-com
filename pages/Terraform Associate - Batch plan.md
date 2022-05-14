@@ -44,7 +44,11 @@
 		- Intro to git
 		- create resource from Day 10 module remotely
 	- Day 12:
-		-
+		- Build module for ASG and launch config
+	- Day 13:
+		- Build module for ALB
+	- Day 14:
+		- Integrate Day
 		-
 		-
 	-
