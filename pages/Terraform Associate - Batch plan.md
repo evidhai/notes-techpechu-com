@@ -9,7 +9,7 @@
 	- What ever required you to get Terraform Associate certified
 - Entire course will be in Tamil , sessions will be  via zoom and recordings will be provided
 - Common Telegram group will be created for interaction and get your doubts cleared
-- Sesssion duration 16  days (if ) on sat and sunday 7:30 -8:30 PM IST.With max batch limit of 10 members.
+- Sesssion duration 16  days (if time got delayed or any new topic demanded by people can extend it to 20) on sat and sunday 7:30 -8:30 PM IST.With max batch limit of 10 members.
 -
 - Course plan:
 	- Day 1:
@@ -26,6 +26,7 @@
 		- Terraform variables and outputs
 	- Day 4:
 		- Terraform state files
+			-
 	- Day 5:
 		- Terraform Dynamic blocks
 	- Day 6:
@@ -49,6 +50,8 @@
 		- Build module for ALB
 	- Day 14:
 		- Integrate Day 10 - 13 module and launch your site
+	- Day 15 -16
+		- Buffer / Revission
 	-
 		-
 		-
