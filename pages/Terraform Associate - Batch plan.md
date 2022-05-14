@@ -42,8 +42,9 @@
 		- Build module for AWS EC2 instance and Security Group
 	- Day 11:
 		- Intro to git
-		- create
+		- create resource from Day 10 module remotely
 	- Day 12:
+		-
 		-
 		-
 	-
