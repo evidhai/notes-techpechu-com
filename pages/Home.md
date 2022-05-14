@@ -3,6 +3,7 @@
   #+END_QUOTE
 - [[Welcome]]
 	- [[AWS Devops Professional (DOP - C01 ) - Inprogress]]
+	- [[Terraform Associate - Batch plan]]
 	-
 	- Lab Reference
 		- Dynamodb - reference link

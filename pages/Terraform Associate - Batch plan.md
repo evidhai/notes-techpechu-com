@@ -1,0 +1,2 @@
+- This page covers what we will be focussing on Terraform Associate Batch.
+- By end of this
