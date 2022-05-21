@@ -16,3 +16,5 @@
 	- Stack instances
 		- Each individual stacks created under stackset on multi regions are called as stack instances
 	-
+- Stack policy
+	- Protects the existing resources to be unaffected from the any change on cloudformation
