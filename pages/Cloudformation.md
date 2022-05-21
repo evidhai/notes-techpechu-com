@@ -1,4 +1,8 @@
 - Iac service
 - YAML or JSON
 - Cloudformation handles the order of deployment and know the dependancies
-- Compone
+- Components of Cloudformation
+	- Stack
+		- A set of resource that you can provision, update or delete
+	- Templates
+		- JSON or YAML file where you describes the
