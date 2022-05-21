@@ -5,4 +5,6 @@
 	- Stack
 		- A set of resource that you can provision, update or delete
 	- Templates
-		- JSON or YAML file where you describes the
+		- JSON or YAML file where you describes the resources that to be created
+	- Stack set
+		- Allows you to update delete or create your stacks across a number of AWS accounts in dei
