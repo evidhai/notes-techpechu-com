@@ -52,4 +52,4 @@
 	- Day 14:
 		- Integrate Day 10 - 13 module and launch your site
 	- Day 15 -16
-		- Buffer / Revission
+		- Buffer / Revision
