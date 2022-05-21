@@ -7,4 +7,6 @@
 	- Templates
 		- JSON or YAML file where you describes the resources that to be created
 	- Stack set
-		- Allows you to update delete or create your stacks across a number of AWS accounts in dei
+		- Allows you to update delete or create your stacks across a number of AWS accounts in different regions with a single template
+		- You se
+	-
