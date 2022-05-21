@@ -1,3 +1,4 @@
 - Iac service
 - YAML or JSON
+- Cloudformation handles the order of deployment and know the dependancies
 -
