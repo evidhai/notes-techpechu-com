@@ -2,7 +2,8 @@
 - YAML or JSON
 - No additional cost for cloudformation
 - How Cloudforation works?
-	- Upload the
+	- Upload the tempates to S3 and referred in the cloudformation
+	-
 - Cloudformation handles the order of deployment and know the dependancies
 - Components of Cloudformation
   collapsed:: true
