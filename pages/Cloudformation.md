@@ -52,6 +52,7 @@
 			- `!Ref` is YAML shorrthand
 		- Fn::GetAtt
 			- To get any specific attribute info on the
+			- ![image.png](../assets/image_1653203283123_0.png)
 		- Fn::FindInMap
 		- Fn::ImportValue
 		- Fn::Join
