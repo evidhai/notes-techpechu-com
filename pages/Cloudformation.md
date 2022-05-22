@@ -30,7 +30,8 @@
 			- To output values like VPC ID , subnetID
 			- ![image.png](../assets/image_1653202804013_0.png)
 			- Cross stack Reference
-				- To use output in abother stack `Fn::Import`
+				- To use output in abother stack `Fn::ImportValue` in short `!ImportValue`
+				- ![image.png](../assets/image_1653202938255_0.png)
 		- Conditionals : Conditions to perform on resource creation
 		- Metadata
 		- Cn
