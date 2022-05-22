@@ -68,6 +68,7 @@
 	- Userdata
 		- Entire script to be passed in `Fn::Base64`
 		- User data script log is storred in `/var/log/cloud-init-output.log`
+		- ![image.png](../assets/image_1653204588193_0.png)
 	-
 - Stack policy
   collapsed:: true
