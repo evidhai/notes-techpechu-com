@@ -22,7 +22,8 @@
 			- pseudo parameters
 				- To get info like AWS account number , region etc these are inbuilt parameters
 		- Mappings : static variable for your template
-			-
+			- All values are harcoded within the template
+			- To access `Fn::FindInMap`
 		- Outputs: to output details of resource created
 		- Conditionals : Conditions to perform on resource creation
 		- Metadata
