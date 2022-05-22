@@ -1,19 +1,14 @@
 - Iac service
 - YAML or JSON
 - No additional cost for cloudformation
-- How Cloudforation works?
-  collapsed:: true
-	- Upload the tempates to S3 and referred in the cloudformation
-	- You can't redit the uploaded stack , you need to reupload
-	- Stacks are identified by name
-	- Deleting stack will delete every resources created by it
 - Cloudformation handles the order of deployment and know the dependancies
 - Components of Cloudformation
-  collapsed:: true
 	- Stack
 		- A set of resource that you can provision, update or delete
 	- Templates
 		- JSON or YAML file where you describes the resources that to be created
+	- Components in Templates
+		- Res
 	- Stack set
 		- Allows you to update delete or create your stacks across a number of AWS accounts in different regions with a single template
 		- You select the Template and which regions
@@ -24,4 +19,11 @@
 		- Each individual stacks created under stackset on multi regions are called as stack instances
 	-
 - Stack policy
+  collapsed:: true
 	- Protects the existing resources to be unaffected from the any change on cloudformation
+- How Cloudforation works?
+  collapsed:: true
+	- Upload the tempates to S3 and referred in the cloudformation
+	- You can't redit the uploaded stack , you need to reupload
+	- Stacks are identified by name
+	- Deleting stack will delete every resources created by it
