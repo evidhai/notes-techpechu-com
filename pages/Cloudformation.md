@@ -13,6 +13,7 @@
 			- To refer a parameter  `Fn::Ref` shorhand in YAML is !Ref
 			- ![image.png](../assets/image_1653201890761_0.png)
 			- ![image.png](../assets/image_1653201849794_0.png)
+			-
 		- Mappings : static variable for your template
 		- Outputs: to output details of resource created
 		- Conditionals : Conditions to perform on resource creation
