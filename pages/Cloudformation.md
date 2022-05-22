@@ -93,6 +93,7 @@
 		- DeletionPolicy = Snapshot
 			- All data will be backedup
 		- ![image.png](../assets/image_1653226101855_0.png)
+	- Termination policy
 	-
 	-
 - Stack policy
