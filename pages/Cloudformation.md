@@ -3,6 +3,8 @@
 - No additional cost for cloudformation
 - How Cloudforation works?
 	- Upload the tempates to S3 and referred in the cloudformation
+	- You can't redit the uploaded stack , you need to reupload
+	- Stacks are identified by name
 	-
 - Cloudformation handles the order of deployment and know the dependancies
 - Components of Cloudformation
