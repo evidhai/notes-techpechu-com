@@ -9,8 +9,9 @@
 		- JSON or YAML file where you describes the resources that to be created
 	- Components in Templates
 		- Resources (mandatoy) : aws resource declared
+		  collapsed:: true
 			- #+BEGIN_NOTE
-			  You can't 
+			  You can't create dynamic amount of resurces, everything to be declared
 			  #+END_NOTE
 			- ![image.png](../assets/image_1653202453124_0.png)
 		- Parameters : To pass dynamic inputs
@@ -21,6 +22,7 @@
 			- pseudo parameters
 				- To get info like AWS account number , region etc these are inbuilt parameters
 		- Mappings : static variable for your template
+			-
 		- Outputs: to output details of resource created
 		- Conditionals : Conditions to perform on resource creation
 		- Metadata
