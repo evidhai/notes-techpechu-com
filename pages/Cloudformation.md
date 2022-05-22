@@ -27,7 +27,8 @@
 			- To access `Fn::FindInMap` in short !FindInMap[ MapName , TopLevelKEy, SeconLeavelKey]
 			- ![image.png](../assets/image_1653202723571_0.png)
 		- Outputs: to output details of resource created
-			-
+			- To output values like VPC ID , subnetID
+			- ![image.png](../assets/image_1653202804013_0.png)
 		- Conditionals : Conditions to perform on resource creation
 		- Metadata
 		- Cn
