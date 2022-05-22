@@ -4,8 +4,10 @@
 - Cloudformation handles the order of deployment and know the dependancies
 - Components of Cloudformation
 	- Stack
+	  collapsed:: true
 		- A set of resource that you can provision, update or delete
 	- Templates
+	  collapsed:: true
 		- JSON or YAML file where you describes the resources that to be created
 	- Components in Templates
 	  collapsed:: true
@@ -39,14 +41,17 @@
 			- ![image.png](../assets/image_1653202973518_0.png)
 		- Metadata
 	- Stack set
+	  collapsed:: true
 		- Allows you to update delete or create your stacks across a number of AWS accounts in different regions with a single template
 		- You select the Template and which regions
 		- #+BEGIN_IMPORTANT
 		  In order to delete the stack set you need to ensure to delete all the stack instances in it
 		  #+END_IMPORTANT
 	- Stack instances
+	  collapsed:: true
 		- Each individual stacks created under stackset on multi regions are called as stack instances
 	- Intrinsic Functions
+	  collapsed:: true
 		- Ref
 			- To refer the parameters
 			- `!Ref` is YAML shorrthand
@@ -59,7 +64,7 @@
 			- To join with a delimiter
 		- Fn::Sub
 			- To substitute one value with another
-		- Condition Functions )Fn::If, Fn::Not, Fn::Equals ..)
+		- Condition Functions )Fn::If, Fn::Not, Fn::Equals,Fn::And, Fn::Or)
 	-
 - Stack policy
   collapsed:: true
