@@ -49,7 +49,9 @@
 	- Intrinsic Functions
 		- Ref
 			- To refer the parameters
+			- `!Ref` is YAML shorrthand
 		- Fn::GetAtt
+			- To get any specific attribute info on the
 		- Fn::FindInMap
 		- Fn::ImportValue
 		- Fn::Join
