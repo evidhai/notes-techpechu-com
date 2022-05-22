@@ -22,10 +22,12 @@
 			- pseudo parameters
 				- To get info like AWS account number , region etc these are inbuilt parameters
 		- Mappings : static variable for your template
+		  collapsed:: true
 			- All values are harcoded within the template
 			- To access `Fn::FindInMap` in short !FindInMap[ MapName , TopLevelKEy, SeconLeavelKey]
-			-
+			- ![image.png](../assets/image_1653202723571_0.png)
 		- Outputs: to output details of resource created
+			-
 		- Conditionals : Conditions to perform on resource creation
 		- Metadata
 		- Cn
