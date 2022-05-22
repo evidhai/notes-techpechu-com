@@ -66,9 +66,13 @@
 			- To substitute one value with another
 		- Condition Functions )Fn::If, Fn::Not, Fn::Equals,Fn::And, Fn::Or)
 	- Userdata
+	  collapsed:: true
 		- Entire script to be passed in `Fn::Base64`
 		- User data script log is storred in `/var/log/cloud-init-output.log`
 		- ![image.png](../assets/image_1653204588193_0.png)
+	- Rollback
+		- Default onfailure = rollback
+		-
 	-
 - Stack policy
   collapsed:: true
