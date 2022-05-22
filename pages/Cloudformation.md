@@ -76,8 +76,13 @@
 		- to troubleshoot on failure = do_nothing
 		- delete : onfailure = delet e
 	- Changesets
+	  collapsed:: true
 		- Changesets will say what will be changed on updating the template
 		- It can't say will the update will be succeed or not
+	- Deletion policy
+		- Policy to say what happens to resources when the cloudformation template is deleted
+		-
+	-
 	-
 - Stack policy
   collapsed:: true
