@@ -56,7 +56,9 @@
 		- Fn::FindInMap
 		- Fn::ImportValue
 		- Fn::Join
+			- To join with a delimiter
 		- Fn::Sub
+			- To substitute one value with another
 		- Condition Functions )Fn::If, Fn::Not, Fn::Equals ..)
 	-
 - Stack policy
