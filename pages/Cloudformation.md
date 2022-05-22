@@ -8,6 +8,7 @@
 	- Templates
 		- JSON or YAML file where you describes the resources that to be created
 	- Components in Templates
+	  collapsed:: true
 		- Resources (mandatoy) : aws resource declared
 		  collapsed:: true
 			- #+BEGIN_NOTE
@@ -34,9 +35,9 @@
 				- To use output in abother stack `Fn::ImportValue` in short `!ImportValue`
 				- ![image.png](../assets/image_1653202938255_0.png)
 		- Conditionals : Conditions to perform on resource creation
+		  collapsed:: true
 			- ![image.png](../assets/image_1653202973518_0.png)
 		- Metadata
-		- Cn
 	- Stack set
 		- Allows you to update delete or create your stacks across a number of AWS accounts in different regions with a single template
 		- You select the Template and which regions
@@ -45,6 +46,11 @@
 		  #+END_IMPORTANT
 	- Stack instances
 		- Each individual stacks created under stackset on multi regions are called as stack instances
+	- Intrinsic Functions
+		- Ref
+		- Fn::GetAtt
+		- Fn::FindInMap
+		- Fn::
 	-
 - Stack policy
   collapsed:: true
