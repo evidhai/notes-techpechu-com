@@ -81,6 +81,11 @@
 		- It can't say will the update will be succeed or not
 	- Deletion policy
 		- Policy to say what happens to resources when the cloudformation template is deleted
+		- #+BEGIN_NOTE
+		  Default option is Delete , all resources will be deleted
+		  #+END_NOTE
+		- DeletionPolicy = Retain
+			- preserve the resources on case of template deletion
 		-
 	-
 	-
