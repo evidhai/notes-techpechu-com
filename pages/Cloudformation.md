@@ -76,7 +76,8 @@
 		- to troubleshoot on failure = do_nothing
 		- delete : onfailure = delet e
 	- Changesets
-		- Changesets will say what will be changed on
+		- Changesets will say what will be changed on updating the template
+		- It can't say will the update will be succeed or not
 	-
 - Stack policy
   collapsed:: true
