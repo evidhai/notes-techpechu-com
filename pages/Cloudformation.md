@@ -9,6 +9,7 @@
 		- JSON or YAML file where you describes the resources that to be created
 	- Components in Templates
 		- Resources (mandatoy) : aws resource declared
+			- ![image.png](../assets/image_1653202398365_0.png)
 		- Parameters : To pass dynamic inputs
 		  collapsed:: true
 			- To refer a parameter  `Fn::Ref` shorhand in YAML is !Ref
