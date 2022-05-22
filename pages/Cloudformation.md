@@ -80,16 +80,19 @@
 		- Changesets will say what will be changed on updating the template
 		- It can't say will the update will be succeed or not
 	- Deletion policy
-		- Policy to say what happens to resources when the cloudformation template is deleted
-		- by default for DB cluster default policy is Snapshot
-		-
-		- #+BEGIN_NOTE
-		  Default option is Delete , all resources will be deleted
-		  #+END_NOTE
+	  collapsed:: true
+		- DeletionPolicy = Delete
+			- Policy to say what happens to resources when the cloudformation template is deleted
+			- by default for DB cluster default policy is Snapshot
+			- To delete any S3 the bucket must be empty
+			- #+BEGIN_NOTE
+			  Default option is Delete , all resources will be deleted
+			  #+END_NOTE
 		- DeletionPolicy = Retain
 			- preserve the resources on case of template deletion
 		- DeletionPolicy = Snapshot
 			- All data will be backedup
+		- ![image.png](../assets/image_1653226101855_0.png)
 	-
 	-
 - Stack policy
