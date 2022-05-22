@@ -71,9 +71,11 @@
 		- User data script log is storred in `/var/log/cloud-init-output.log`
 		- ![image.png](../assets/image_1653204588193_0.png)
 	- Rollback
+	  collapsed:: true
 		- Default onfailure = rollback
 		- to troubleshoot on failure = do_nothing
 		- delete : onfailure = delet e
+	-
 	-
 - Stack policy
   collapsed:: true
