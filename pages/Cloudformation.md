@@ -10,10 +10,12 @@
 	- Components in Templates
 		- Resources (mandatoy) : aws resource declared
 		- Parameters : To pass dynamic inputs
+		  collapsed:: true
 			- To refer a parameter  `Fn::Ref` shorhand in YAML is !Ref
 			- ![image.png](../assets/image_1653201890761_0.png)
 			- ![image.png](../assets/image_1653201849794_0.png)
-			-
+			- pseudo parameters
+				- To get info like AWS account number , region etc these are inbuilt parameters
 		- Mappings : static variable for your template
 		- Outputs: to output details of resource created
 		- Conditionals : Conditions to perform on resource creation
