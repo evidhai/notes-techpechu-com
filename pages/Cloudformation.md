@@ -67,7 +67,7 @@
 		- Condition Functions )Fn::If, Fn::Not, Fn::Equals,Fn::And, Fn::Or)
 	- Userdata
 		- Entire script to be passed in `Fn::Base64`
-		- User data script log is storred in
+		- User data script log is storred in `/var/log/cloud-init-output.log`
 	-
 - Stack policy
   collapsed:: true
