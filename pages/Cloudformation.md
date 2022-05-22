@@ -72,7 +72,8 @@
 		- ![image.png](../assets/image_1653204588193_0.png)
 	- Rollback
 		- Default onfailure = rollback
-		- to troubleshoot on
+		- to troubleshoot on failure = do_nothing
+		- delete : onfailure = delet e
 	-
 - Stack policy
   collapsed:: true
