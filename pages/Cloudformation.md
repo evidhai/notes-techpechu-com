@@ -75,7 +75,8 @@
 		- Default onfailure = rollback
 		- to troubleshoot on failure = do_nothing
 		- delete : onfailure = delet e
-	-
+	- Changesets
+		- Changesets will say what will be changed on
 	-
 - Stack policy
   collapsed:: true
