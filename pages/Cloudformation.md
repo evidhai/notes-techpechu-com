@@ -2,10 +2,11 @@
 - YAML or JSON
 - No additional cost for cloudformation
 - How Cloudforation works?
+  collapsed:: true
 	- Upload the tempates to S3 and referred in the cloudformation
 	- You can't redit the uploaded stack , you need to reupload
 	- Stacks are identified by name
-	-
+	- Deleting stack will delete every resources created by it
 - Cloudformation handles the order of deployment and know the dependancies
 - Components of Cloudformation
   collapsed:: true
