@@ -48,9 +48,13 @@
 		- Each individual stacks created under stackset on multi regions are called as stack instances
 	- Intrinsic Functions
 		- Ref
+			- To refer the parameters
 		- Fn::GetAtt
 		- Fn::FindInMap
-		- Fn::
+		- Fn::ImportValue
+		- Fn::Join
+		- Fn::Sub
+		- Condition Functions )Fn::If, Fn::Not, Fn::Equals ..)
 	-
 - Stack policy
   collapsed:: true
