@@ -27,12 +27,14 @@
 			- To access `Fn::FindInMap` in short !FindInMap[ MapName , TopLevelKEy, SeconLeavelKey]
 			- ![image.png](../assets/image_1653202723571_0.png)
 		- Outputs: to output details of resource created
+		  collapsed:: true
 			- To output values like VPC ID , subnetID
 			- ![image.png](../assets/image_1653202804013_0.png)
 			- Cross stack Reference
 				- To use output in abother stack `Fn::ImportValue` in short `!ImportValue`
 				- ![image.png](../assets/image_1653202938255_0.png)
 		- Conditionals : Conditions to perform on resource creation
+			- ![image.png](../assets/image_1653202973518_0.png)
 		- Metadata
 		- Cn
 	- Stack set
