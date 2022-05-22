@@ -9,6 +9,9 @@
 		- JSON or YAML file where you describes the resources that to be created
 	- Components in Templates
 		- Resources (mandatoy) : aws resource declared
+			- #+BEGIN_NOTE
+			  You can't 
+			  #+END_NOTE
 			- ![image.png](../assets/image_1653202453124_0.png)
 		- Parameters : To pass dynamic inputs
 		  collapsed:: true
