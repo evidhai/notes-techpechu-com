@@ -10,6 +10,7 @@
 	- Components in Templates
 		- Resources (mandatoy) : aws resource declared
 		- Parameters : To pass dynamic inputs
+			- To refer a parameter  `Fn::Ref`
 		- Mappings : static variable for your template
 		- Outputs: to output details of resource created
 		- Conditionals : Conditions to perform on resource creation
