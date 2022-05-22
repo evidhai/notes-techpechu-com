@@ -1,6 +1,8 @@
 - Iac service
 - YAML or JSON
--
+- No additional cost for cloudformation
+- How Cloudforation works?
+	- Upload the
 - Cloudformation handles the order of deployment and know the dependancies
 - Components of Cloudformation
   collapsed:: true
