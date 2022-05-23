@@ -94,6 +94,9 @@
 			- All data will be backedup
 		- ![image.png](../assets/image_1653226101855_0.png)
 	- Termination policy
+	- Depends-on
+	  collapsed:: true
+		- ![image.png](../assets/image_1653330611676_0.png){:height 389, :width 578}
 	-
 	-
 - Stack policy
