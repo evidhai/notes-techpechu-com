@@ -100,7 +100,6 @@
 	-
 	-
 - Stack policy
-  collapsed:: true
 	- Protects the existing resources to be unaffected from the any change on cloudformation
 - How Cloudforation works?
   collapsed:: true
