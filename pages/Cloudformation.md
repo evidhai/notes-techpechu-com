@@ -110,8 +110,11 @@
 		- Ref:
 			- https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-waitcondition.html
 	- Nesed stack
+	  collapsed:: true
 		- Here you manage just the master stack and that has dependancy on other stack.
-		- Tha master stack reac
+		- Tha master stack reads the child stack and populates the data in master stack
+	- custom resources
+		-
 	-
 	-
 - Stack policy
