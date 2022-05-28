@@ -72,7 +72,7 @@
 		- [[Multi-Region]]
 		- [[Route53]]
 		- [[DynamoDB]]
-	- Day 17
+	- Day 17 - 2
 		-
 		-
 		-
