@@ -114,8 +114,13 @@
 		- Here you manage just the master stack and that has dependancy on other stack.
 		- Tha master stack reads the child stack and populates the data in master stack
 	- custom resources
+	  collapsed:: true
 		- Custom resources enable you to write custom provisioning logic in templates that AWS CloudFormation runs anytime you create, update (if you changed the custom resource), or delete stacks. For example, you might want to include resources that aren't available as AWS CloudFormation resource types. You can include those resources by using custom resources. That way you can still manage all your related resources in a single stack.
 		- Refer: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-custom-resources.html
+	- Delete_failed
+		- The delete failed is the most serious condition on all of the possible state values because it means that we can't remove the stack.
+		- If we can't remove the stack, we may need to submit a support ticket because the CloudFormation team must manually remove the stack from the CloudFormation console while leaving the resources associated with the stack in place because those resources are the ones that are making the stack fail during deletion.
+		  Learn more: https://cloudacademy.com/course/advanced-aws-cloudformation/data-flow/
 	-
 	-
 - Stack policy
