@@ -103,11 +103,15 @@
 		- ![image.png](../assets/image_1653764712108_0.png)
 		- if not you will get `InsufficientCapabilitiesException`
 	- cfn-wait
+	  collapsed:: true
 		- You can use a wait condition for situations like the following:
 		- To coordinate stack resource creation with configuration actions that are external to the stack creation.
 		- To track the status of a configuration process.
 		- Ref:
 			- https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-waitcondition.html
+	- Nesed stack
+		- Here you manage just the master stack and that has dependancy on other stack.
+		- Tha master stack reac
 	-
 	-
 - Stack policy
