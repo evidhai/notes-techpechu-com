@@ -97,7 +97,8 @@
 	- Depends-on
 	  collapsed:: true
 		- ![image.png](../assets/image_1653330611676_0.png){:height 389, :width 578}
-	- Life cycle
+	- capability_iam
+		- If one reasource needs IAM to access another resource , eg: stack to acces
 		-
 	-
 	-
