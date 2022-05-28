@@ -102,6 +102,9 @@
 		- If one reasource needs IAM to access another resource , eg: stack to access another stack then use below
 		- ![image.png](../assets/image_1653764712108_0.png)
 		- if not you will get `InsufficientCapabilitiesException`
+	- cfn-wait
+		-
+		- https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-waitcondition.html
 	-
 	-
 - Stack policy
