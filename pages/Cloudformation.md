@@ -114,7 +114,8 @@
 		- Here you manage just the master stack and that has dependancy on other stack.
 		- Tha master stack reads the child stack and populates the data in master stack
 	- custom resources
-		-
+		- Custom resources enable you to write custom provisioning logic in templates that AWS CloudFormation runs anytime you create, update (if you changed the custom resource), or delete stacks. For example, you might want to include resources that aren't available as AWS CloudFormation resource types. You can include those resources by using custom resources. That way you can still manage all your related resources in a single stack.
+		- Refer: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-custom-resources.html
 	-
 	-
 - Stack policy
