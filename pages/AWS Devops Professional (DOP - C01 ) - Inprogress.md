@@ -357,6 +357,7 @@
 	-
 	- # Topic : Config management , IaC
 		- [[Cloudformation]]
+		- [[Elastic Beanstalk]]
 		- Reference links
 		  collapsed:: true
 			- CloudFormation:

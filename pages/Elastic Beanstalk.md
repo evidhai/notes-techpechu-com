@@ -1,0 +1,3 @@
+- CLI commands
+	- `eb init` -> to initialise
+	- `eb create `
