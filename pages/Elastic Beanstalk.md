@@ -8,4 +8,5 @@
 	- `eb terminate` -> to destroy the application
 - saved config
 	- `eb config save <<env-name>> --cfg initial-configuration` to save config
-	- `eb setenv <<variable name>> `
+	- `eb setenv <<variable name>> <<value>>` to set value
+	-
