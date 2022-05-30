@@ -7,4 +7,4 @@
 	- `eb deploy` -> to deploy any updates on existing application
 	- `eb terminate` -> to destroy the application
 - saved config
-	- `eb `
+	- `eb config save <<env-name>> --cfg initial-configuration`
