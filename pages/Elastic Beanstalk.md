@@ -1,3 +1,4 @@
 - CLI commands
 	- `eb init` -> to initialise
-	- `eb create `
+	- `eb create dev-env` -> to create dev environment
+	-
