@@ -9,4 +9,5 @@
 - saved config
 	- `eb config save <<env-name>> --cfg initial-configuration` to save config
 	- `eb setenv <<variable name>> <<value>>` to set value
-	- `eb config put prod` ->
+	- `eb config put prod` -> applies the change and rename to prod
+	-
