@@ -5,4 +5,4 @@
 	- `eb health` -> shows the health of available environment
 	- `eb health --refresh` -> refreshes the health check for every 5 seconds
 	- `eb deploy` -> to deploy any updates on existing application
-	-
+	- `eb terminate` -> to destroy the application
