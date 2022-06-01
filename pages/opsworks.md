@@ -1,4 +1,6 @@
 - Only opsworks stack is in scope of exam
 - you write cookbooks in chef and get the application created
 - Opswork manages your underneath instances
+	- Timebased instances:
+		- Opswork can auto bring instances as per schedule time
 	-
