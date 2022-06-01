@@ -1,2 +1,4 @@
 - Only opsworks stack is in scope of exam
-- you
+- you write cookbooks in chef and get the application created
+- Opswork manages your underneath instances
+	-
