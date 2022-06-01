@@ -10,6 +10,7 @@
 - Apps
 	- We map the source code of your application, and we can get it deployed on our instances
 - Stacks lifecycle events #exam-revise
+  collapsed:: true
 	- Setup
 		- Happens whenever instance is booted
 	- Configure
@@ -20,3 +21,5 @@
 		- Delete an app in the instances
 	- Shutdown
 		- To terminate the instances
+- Autohealing
+	- If any layer failed then it autoheal
