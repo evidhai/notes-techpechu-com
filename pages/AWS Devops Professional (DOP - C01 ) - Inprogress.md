@@ -74,6 +74,8 @@
 		- [[DynamoDB]]
 	- Day 17 - 21
 		- [[Cloudformation]]
+	- Day 22-23
+		- [[Elastic Beanstalk]]
 		-
 		-
 		-
