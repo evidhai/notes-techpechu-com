@@ -15,5 +15,8 @@
 	- Configure
 		- ![image.png](../assets/image_1654113059027_0.png)
 	- Deploy
+		- Deploy the application overall in all instances
 	- Undeploy
+		- Delete an app in the instances
 	- Shutdown
+		- To terminate the instances
