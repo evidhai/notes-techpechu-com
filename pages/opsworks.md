@@ -11,7 +11,9 @@
 	- We map the source code of your application, and we can get it deployed on our instances
 - Stacks lifecycle events #exam-revise
 	- Setup
+		- Happens whenever instance is booted
 	- Configure
+		- ![image.png](../assets/image_1654113059027_0.png)
 	- Deploy
 	- Undeploy
 	- Shutdown
