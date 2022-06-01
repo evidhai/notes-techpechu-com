@@ -1,0 +1,2 @@
+- Only opsworks stack is in scope of exam
+-

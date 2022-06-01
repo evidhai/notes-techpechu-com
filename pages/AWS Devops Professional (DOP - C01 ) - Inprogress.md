@@ -361,7 +361,7 @@
 		- [[Cloudformation]]
 		- [[Elastic Beanstalk]]
 		- [[Lambda]]
-		-
+		- [[opsworks]]
 		- Reference links
 		  collapsed:: true
 			- CloudFormation:
