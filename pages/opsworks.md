@@ -9,4 +9,9 @@
 		- Runs all the time
 - Apps
 	- We map the source code of your application, and we can get it deployed on our instances
--
+- Stacks lifecycle events #exam-revise
+	- Setup
+	- Configure
+	- Deploy
+	- Undeploy
+	- Shutdown
