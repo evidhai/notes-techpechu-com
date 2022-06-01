@@ -1,0 +1,1 @@
+- Max memory supported 300
