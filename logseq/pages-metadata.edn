@@ -60,7 +60,7 @@
   :block/updated-at 1650806366808}
  {:block/name "aws devops professional (dop - c01 ) - inprogress",
   :block/created-at 1647455662443,
-  :block/updated-at 1653767772952}
+  :block/updated-at 1653936385024}
  {:block/name "b",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
@@ -144,7 +144,7 @@
   :block/updated-at 1648490484625}
  {:block/name "elastic beanstalk",
   :block/created-at 1647886214748,
-  :block/updated-at 1647886214748}
+  :block/updated-at 1653937447390}
  {:block/name "elasticsearch (es)",
   :block/created-at 1648750463910,
   :block/updated-at 1650794001640}
@@ -259,6 +259,9 @@
  {:block/name "may 29th, 2022",
   :block/created-at 1653762650103,
   :block/updated-at 1653762650103}
+ {:block/name "may 31st, 2022",
+  :block/created-at 1653936366634,
+  :block/updated-at 1653936366634}
  {:block/name "may 3rd, 2022",
   :block/created-at 1651572188904,
   :block/updated-at 1651572188904}
