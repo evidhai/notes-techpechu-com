@@ -1,1 +1,3 @@
-- Max memory supported 300
+- Max memory supported 3008 MB
+- Timeout default is 3sec, max of 15 min
+-
