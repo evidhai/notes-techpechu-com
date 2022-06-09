@@ -12,4 +12,5 @@
 - Lambda environment variables
 	- use os.environ to refer the variables
 - Versions
+	- $LATEST -> to
 -
