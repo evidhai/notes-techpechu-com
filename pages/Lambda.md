@@ -15,5 +15,6 @@
 	- $LATEST -> to  refer the latest versions
 - Alias
 	- To refer specific version with required alias
--
+- SAM Framework
+	- To design serverless applications
 -
