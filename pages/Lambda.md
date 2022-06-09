@@ -1,3 +1,7 @@
 - Max memory supported 3008 MB
 - Timeout default is 3sec, max of 15 min
+- Trigger
+	- Lambda can be triggered by
+		- API gateway
+		-
 -
