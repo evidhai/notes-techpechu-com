@@ -3,5 +3,11 @@
 - Trigger
 	- Lambda can be triggered by
 		- API gateway
+		- SNS
+		- Dynamodb
+		- Cloudwatch events
+		- Kinesis
+		- S3
+		- SQS
 		-
 -
