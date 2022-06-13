@@ -2,4 +2,6 @@
 	- Regional
 	- Edge optimised
 	- Private
+- Integration types
+	- ![image.png](../assets/image_1655143154435_0.png)
 -
