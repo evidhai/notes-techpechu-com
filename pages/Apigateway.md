@@ -5,4 +5,4 @@
 - Integration types
 	- ![image.png](../assets/image_1655143154435_0.png)
 - stage variables
-	- to pass dynamic values without need of de
+	- to pass dynamic values without need of deploying
