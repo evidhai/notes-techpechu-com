@@ -1,2 +1,5 @@
 - Endpoint types
-	-
+	- Regional
+	- Edge optimised
+	- Private
+-
