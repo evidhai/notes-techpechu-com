@@ -6,3 +6,4 @@
 	- ![image.png](../assets/image_1655143154435_0.png)
 - stage variables
 	- to pass dynamic values without need of deploying
+- Refer throttling from Developer associate
