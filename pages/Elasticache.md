@@ -1,4 +1,7 @@
 - Components
 	- Node
+		- instance
 	- SHARD
-	- REDIS
+		- 1-6 node forms a shard
+	- REDIS CLUSTER
+		- group of 1-90 shards
