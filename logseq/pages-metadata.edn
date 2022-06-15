@@ -12,7 +12,7 @@
   :block/updated-at 1651000106861}
  {:block/name "apigateway",
   :block/created-at 1655142809034,
-  :block/updated-at 1655144318969}
+  :block/updated-at 1655233172654}
  {:block/name "apr 11th, 2022",
   :block/created-at 1649697829360,
   :block/updated-at 1649697829360}
@@ -63,7 +63,7 @@
   :block/updated-at 1650806366808}
  {:block/name "aws devops professional (dop - c01 ) - inprogress",
   :block/created-at 1647455662443,
-  :block/updated-at 1655142809035}
+  :block/updated-at 1655233211414}
  {:block/name "b",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
@@ -145,6 +145,9 @@
  {:block/name "ecr",
   :block/created-at 1648490484625,
   :block/updated-at 1648490484625}
+ {:block/name "ecs",
+  :block/created-at 1655233211411,
+  :block/updated-at 1655233211411}
  {:block/name "elastic beanstalk",
   :block/created-at 1647886214748,
   :block/updated-at 1654109523677}
@@ -202,6 +205,9 @@
  {:block/name "jun 14th, 2022",
   :block/created-at 1655145052022,
   :block/updated-at 1655145052022}
+ {:block/name "jun 15th, 2022",
+  :block/created-at 1655233133371,
+  :block/updated-at 1655233133371}
  {:block/name "jun 2nd, 2022",
   :block/created-at 1654109007380,
   :block/updated-at 1654109007380}
