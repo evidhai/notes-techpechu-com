@@ -6,4 +6,4 @@
 	- REDIS CLUSTER
 		- group of 1-90 shards
 	- Memcached cluster
-		- collection of one or mode
+		- collection of one or more cache nodes
