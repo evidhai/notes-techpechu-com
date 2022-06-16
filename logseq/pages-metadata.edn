@@ -63,7 +63,7 @@
   :block/updated-at 1650806366808}
  {:block/name "aws devops professional (dop - c01 ) - inprogress",
   :block/created-at 1647455662443,
-  :block/updated-at 1655318514124}
+  :block/updated-at 1655353631737}
  {:block/name "b",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
@@ -130,6 +130,15 @@
  {:block/name "cost allocation tags",
   :block/created-at 1651000157136,
   :block/updated-at 1651000394692}
+ {:block/name "databases-generic",
+  :block/created-at 1655353631736,
+  :block/updated-at 1655355227408}
+ {:block/name "dms",
+  :block/created-at 1655354189970,
+  :block/updated-at 1655354189970}
+ {:block/name "document db",
+  :block/created-at 1655354143874,
+  :block/updated-at 1655354143874}
  {:block/name "doing",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
@@ -226,6 +235,9 @@
  {:block/name "jun 9th, 2022",
   :block/created-at 1654798481056,
   :block/updated-at 1654798481056}
+ {:block/name "keyspaces",
+  :block/created-at 1655354417654,
+  :block/updated-at 1655354417654}
  {:block/name "kinesis",
   :block/created-at 1648750135629,
   :block/updated-at 1648750793050}
@@ -331,6 +343,9 @@
  {:block/name "preparation]",
   :block/created-at 1648315567600,
   :block/updated-at 1648315567600}
+ {:block/name "qldb",
+  :block/created-at 1655353659770,
+  :block/updated-at 1655353659770}
  {:block/name "readme",
   :block/created-at 1648316493014,
   :block/updated-at 1648316493014}
