@@ -21,3 +21,5 @@
 	- Its service to migrate data from one to other database by transferring the data in right format
 - [[keyspaces]]
 	- It's compatible with casandra
+	- Can be queries with Casandra Query language (CQL)
+	-
