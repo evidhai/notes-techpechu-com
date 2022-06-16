@@ -6,7 +6,7 @@
 	- plaintext -> hash -> store it
 	- can be integrated with [[Kinesis]]
 - [[Document DB]]
-  collapsed:: true
+	- Backup daily with
 	- It's non relational DB
 	- It's document based database
 	- Endpoints
