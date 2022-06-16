@@ -6,6 +6,7 @@
 	- plaintext -> hash -> store it
 	- can be integrated with [[Kinesis]]
 - [[Document DB]]
+  collapsed:: true
 	- It's non relational DB
 	- It's document based database
 	- Endpoints
@@ -16,4 +17,7 @@
 		- Instance
 			- It's direct instances for specific purpose to serve traffic directly
 - [[DMS]] - Database migration service
+  collapsed:: true
 	- Its service to migrate data from one to other database by transferring the data in right format
+- [[keyspaces]]
+	- It's compatible with casandra
