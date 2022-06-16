@@ -8,5 +8,10 @@
 - [[Document DB]]
 	- It's non relational DB
 	- It's document based database
+	- Endpoints
+		- Cluster
+			- points to the current primary DB
+		- Reader Endpoints
+			- Connects to read rep
 - [[DMS]] - Database migration service
 	- Its service to migrate data from one to other database by transferring the data in right format
