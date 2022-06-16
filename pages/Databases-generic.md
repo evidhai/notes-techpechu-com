@@ -5,4 +5,8 @@
 	- It's serverless
 	- plaintext -> hash -> store it
 	- can be integrated with [[Kinesis]]
--
+- [[Document DB]]
+	- It's non relational DB
+	- It's document based database
+- [[DMS]] - Database migration service
+	-
