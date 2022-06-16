@@ -12,6 +12,8 @@
 		- Cluster
 			- points to the current primary DB
 		- Reader Endpoints
-			- Connects to read rep
+			- Connects to read replicas
+		- Instance
+			- It's direct instances for specific purpose to serve traffic directly
 - [[DMS]] - Database migration service
 	- Its service to migrate data from one to other database by transferring the data in right format
