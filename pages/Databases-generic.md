@@ -9,4 +9,4 @@
 	- It's non relational DB
 	- It's document based database
 - [[DMS]] - Database migration service
-	-
+	- Its service to migrate data from one to other database by transferring the data in right format
