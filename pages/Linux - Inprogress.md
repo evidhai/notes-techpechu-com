@@ -4,4 +4,12 @@
 - Basic commands
 	- `echo hello`
 	- ```bash
+	  echo hello
+	  #hello
+	  
+	  echo hello world
+	  #hello world
+	  
+	  echo -n hello
+	  #hello
 	  ```
