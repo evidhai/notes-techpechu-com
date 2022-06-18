@@ -1,0 +1,3 @@
+- Containers vs VM
+	- ![image.png](../assets/image_1655578743059_0.png){:height 305, :width 526}
+-
