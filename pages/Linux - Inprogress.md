@@ -23,5 +23,7 @@
 		-
 		-
 	- Help
+		- > `man --help` or `man -h` or `man - ?` to find the help
+	- File
 		-
 	-
