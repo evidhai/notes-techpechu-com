@@ -2,6 +2,7 @@
   Linux commands are case sensitive
   #+END_IMPORTANT
 - Basic commands
+  collapsed:: true
 	- `echo hello`
 	- ```bash
 	  echo hello
@@ -48,7 +49,9 @@
 	- Variables
 		- Set variable value `test_var=Hi`
 		- To refer variables use $ `echo $test_var`
-	- Assign output of a co
+	- Assign output of a command to variable
+		- `current_date=$(date)` -> This stores current date to current_date variable
+	-
 	-
 		-
 	-
