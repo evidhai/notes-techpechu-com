@@ -55,4 +55,5 @@
 	-
 		-
 	-
--
+- Multiline in cmd
+	- > use `\` to enter next line than treated as enter in terminal
