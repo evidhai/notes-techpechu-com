@@ -2,6 +2,7 @@
   Linux commands are case sensitive
   #+END_IMPORTANT
 - [[Basics]]
+  collapsed:: true
 	- Basic commands
 	  collapsed:: true
 		- `echo hello`
