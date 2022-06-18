@@ -46,6 +46,8 @@
 			- To delete just the directory
 				- `rm -d <<directory name`
 	- Variables
+		- Set variable value `test_var=Hi`
+		- To refer variables use $ `echo $test_var`
 		-
 	-
 		-
