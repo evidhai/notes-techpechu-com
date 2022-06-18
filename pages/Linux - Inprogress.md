@@ -38,6 +38,8 @@
 			- `mv <<filename>> <<destination>>`
 	- Directories
 		- `pwd` -> To know the current working directory
+		- Create directory
+			- `mkdir <<directory name` -> creates a directory
 		-
 		-
 	-
