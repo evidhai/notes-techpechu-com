@@ -68,3 +68,16 @@
 	- The fifth column is the size of the file in bytes. clouddrive is 30 bytes and file.txt is 0 bytes.
 	- The sixth column, for example, Sep 18 04:06, is the date and time the file was last modified.
 	- The file name is given last. In the case of link files, the file that it links to is also given and is displayed with a green background in the image above.
+- To print multiline
+	- ```bash
+	  cat <<EOF
+	  First line
+	  Second line
+	  Third line
+	  EOF
+	  
+	  Output:
+	  First line
+	  Second line
+	  Third line
+	  ```
