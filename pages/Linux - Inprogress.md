@@ -41,6 +41,7 @@
 		- Create directory
 			- `mkdir <<directory name` -> creates a directory
 		- Delete the directory and files init
-			- `rm -r`
+			- `rm -r <<directory name>>` -> Deletes the directory and files within it
+		-
 		-
 	-
