@@ -56,6 +56,7 @@
 		-
 	-
 - Multiline in cmd
+  collapsed:: true
 	- > use `\` to enter next line than treated as enter in terminal
 	- ![image.png](../assets/image_1655575595946_0.png){:height 188, :width 890}
 	- The first line of the output (total 0) is how many blocks of storage space are used by all the files listed. The following rows describe the details of each file.
@@ -64,6 +65,6 @@
 	- The first column, for example, lrwxrwxrwx, describes the file type and file permissions.
 	          The first character represents the file type. l represents a link, and - represents a regular file.
 	          The following nine characters represent the file permissions: the first three describe the permissions of the file owner, the middle three describe the permissions of the file's group, and the final three describe the permissions of all other users. Each triplet can include an r for read permission, a w for write permission, and an x for execute permission. As an example, for file.txt the owner has read and write permissions (rw-), the group has read permission (r--), and other users have read permission (r--). Execute permission allows you to execute a file. For example, you have execute permission for ls because you are allowed to execute the ls command. Otherwise an error message would be printed when you issue the ls command.
-	      The fifth column is the size of the file in bytes. clouddrive is 30 bytes and file.txt is 0 bytes.
-	      The sixth column, for example, Sep 18 04:06, is the date and time the file was last modified.
-	      The file name is given last. In the case of link files, the file that it links to is also given and is displayed with a green background in the image above.
+	- The fifth column is the size of the file in bytes. clouddrive is 30 bytes and file.txt is 0 bytes.
+	- The sixth column, for example, Sep 18 04:06, is the date and time the file was last modified.
+	- The file name is given last. In the case of link files, the file that it links to is also given and is displayed with a green background in the image above.
