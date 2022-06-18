@@ -69,6 +69,7 @@
 	- The sixth column, for example, Sep 18 04:06, is the date and time the file was last modified.
 	- The file name is given last. In the case of link files, the file that it links to is also given and is displayed with a green background in the image above.
 - To print multiline
+  collapsed:: true
 	- ```bash
 	  cat <<EOF
 	  First line
@@ -81,3 +82,5 @@
 	  Second line
 	  Third line
 	  ```
+- Replace a text
+	- `sed 's/<<from_word>>/<<to_Wrodlinux/' geekfile.txt`
