@@ -48,7 +48,7 @@
 	- Variables
 		- Set variable value `test_var=Hi`
 		- To refer variables use $ `echo $test_var`
-		-
+	- Assign output of a co
 	-
 		-
 	-
