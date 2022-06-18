@@ -83,4 +83,5 @@
 	  Third line
 	  ```
 - Replace a text
-	- `sed 's/<<from_word>>/<<to_Wrodlinux/' geekfile.txt`
+	- `sed 's/<<from_word>>/<<to_Word>>/' <<file_source.txt>>`
+	-
