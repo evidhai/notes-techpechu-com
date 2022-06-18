@@ -32,5 +32,8 @@
 		- Pass output of cmd to a file
 			- `echo "hi" > <<filename>>` -> This replace all the contents in a file
 			- `echo "hi" >> <<filename>>` -> This adds text to the end of the file
+		- Copy the file
+			- `cp <<filename>> <<destination>>`
+		-
 		-
 	-
