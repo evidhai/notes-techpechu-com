@@ -27,5 +27,8 @@
 	- File
 		- Create new file
 			- `touch <<filename`
-		-
+		- To read the file
+			- `cat <<filename>>`
+		- Pass output of cmd to a file
+			- `echo "hi`
 	-
