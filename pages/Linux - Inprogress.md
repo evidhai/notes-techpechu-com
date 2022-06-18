@@ -13,3 +13,6 @@
 	  echo -n hello
 	  #hello
 	  ```
+	- `man`
+		- > To get manual page
+		-
