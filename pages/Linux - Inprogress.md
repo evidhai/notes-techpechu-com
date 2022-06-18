@@ -37,11 +37,16 @@
 		- Move the file
 			- `mv <<filename>> <<destination>>`
 	- Directories
+	  collapsed:: true
 		- `pwd` -> To know the current working directory
 		- Create directory
 			- `mkdir <<directory name` -> creates a directory
 		- Delete the directory and files init
 			- `rm -r <<directory name>>` -> Deletes the directory and files within it
+			- To delete just the directory
+				- `rm -d <<directory name`
+	- Variables
 		-
+	-
 		-
 	-
