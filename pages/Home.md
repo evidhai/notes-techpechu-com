@@ -4,7 +4,7 @@
 - [[Welcome]]
 	- [[AWS Devops Professional (DOP - C01 ) - Inprogress]]
 	- [[Terraform Associate - Batch plan]]
-	-
+	- [[Linux - Inprogress]]
 	- To cover
 		- Docker
 		- Kubernetes
