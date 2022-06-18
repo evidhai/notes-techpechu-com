@@ -34,6 +34,10 @@
 			- `echo "hi" >> <<filename>>` -> This adds text to the end of the file
 		- Copy the file
 			- `cp <<filename>> <<destination>>`
+		- Move the file
+			- `mv <<filename>> <<destination>>`
+	- Directories
+		- `pwd` -> To know the current working directory
 		-
 		-
 	-
