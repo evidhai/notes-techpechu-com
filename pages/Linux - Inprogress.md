@@ -15,4 +15,6 @@
 	  ```
 	- `man`
 		- > To get manual page
+		- ![image.png](../assets/image_1655573854145_0.png)
+		- Anything within []
 		-
