@@ -40,6 +40,7 @@
 		- `pwd` -> To know the current working directory
 		- Create directory
 			- `mkdir <<directory name` -> creates a directory
-		-
+		- Delete the directory and files init
+			- `rm -r`
 		-
 	-
