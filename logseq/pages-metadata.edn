@@ -63,10 +63,13 @@
   :block/updated-at 1650806366808}
  {:block/name "aws devops professional (dop - c01 ) - inprogress",
   :block/created-at 1647455662443,
-  :block/updated-at 1655353631737}
+  :block/updated-at 1655578732970}
  {:block/name "b",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
+ {:block/name "basics",
+  :block/created-at 1655576838352,
+  :block/updated-at 1655576838352}
  {:block/name "c",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
@@ -124,6 +127,9 @@
  {:block/name "config",
   :block/created-at 1650996812883,
   :block/updated-at 1650998677716}
+ {:block/name "containers",
+  :block/created-at 1655578732965,
+  :block/updated-at 1655578835062}
  {:block/name "contents",
   :block/created-at 1646899294262,
   :block/updated-at 1646899294262}
@@ -195,7 +201,7 @@
   :block/updated-at 1648304330422}
  {:block/name "home",
   :block/created-at 1646499904120,
-  :block/updated-at 1654798693356}
+  :block/updated-at 1655573526799}
  {:block/name "iam",
   :block/created-at 1647975588961,
   :block/updated-at 1647975588961}
@@ -223,6 +229,12 @@
  {:block/name "jun 16th, 2022",
   :block/created-at 1655318490801,
   :block/updated-at 1655318490801}
+ {:block/name "jun 18th, 2022",
+  :block/created-at 1655573344298,
+  :block/updated-at 1655573344298}
+ {:block/name "jun 19th, 2022",
+  :block/created-at 1655577003785,
+  :block/updated-at 1655577003785}
  {:block/name "jun 2nd, 2022",
   :block/created-at 1654109007380,
   :block/updated-at 1654109007380}
@@ -268,6 +280,12 @@
  {:block/name "license manager",
   :block/created-at 1651000461076,
   :block/updated-at 1651000582353}
+ {:block/name "linux - inprogress",
+  :block/created-at 1655573526797,
+  :block/updated-at 1655576838355}
+ {:block/name "linux-basics",
+  :block/created-at 1655576870986,
+  :block/updated-at 1655576870986}
  {:block/name "logs",
   :block/created-at 1650652086719,
   :block/updated-at 1650652433790}
