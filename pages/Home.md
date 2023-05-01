@@ -2,10 +2,10 @@
   This is public rough notes of what ever [Vasan](https://twitter.com/keerthivasan036) studying / learning day to day
   #+END_QUOTE
 - [[Welcome]]
-	- [[AWS Devops Professional (DOP - C01 ) - Inprogress]]
+	- [[AWS Devops Professional (DOP - C01 ) - Completed]]
 	- [[Terraform Associate - Batch plan]]
 	- [[Linux - Inprogress]]
-	-
+	- [[AWS Sol Arch Professional - Inprogress]]
 	- To cover
 		- Docker
 		- Kubernetes
