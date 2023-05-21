@@ -1,2 +1,3 @@
 - Follow official hashicorp guide [Docs](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
-- Insa
+- Install AWS CLI [AWS Guide](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+- Use
