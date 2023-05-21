@@ -1,3 +1,4 @@
 - Follow official hashicorp guide [Docs](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
 - Install AWS CLI [AWS Guide](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
-- Use
+- Use `aws configure` in terminal to configure creds locally [aws config](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
+-
