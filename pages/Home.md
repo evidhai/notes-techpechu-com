@@ -4,7 +4,7 @@
 - [[Welcome]]
 	- [[AWS Devops Professional (DOP - C01 ) - Completed]]
 	- [[Terraform Associate - Batch plan]]
-		-
+		- [[Terraform install instructions]]
 	- [[Linux - Inprogress]]
 	- [[AWS Sol Arch Professional - Inprogress]]
 	- To cover
