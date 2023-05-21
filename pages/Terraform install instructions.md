@@ -1,1 +1,2 @@
-- Follow official
+- Follow official hashicorp guide [Docs](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+- Insa
