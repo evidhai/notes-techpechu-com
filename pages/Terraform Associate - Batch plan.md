@@ -44,8 +44,10 @@
 	- Day 10 :
 		- Build module for AWS EC2 instance and Security Group
 	- Day 11:
-		- Intro to git
-		- create resource from Day 10 module remotely
+		- Terraform commands
+			- auto-approve
+			- plan
+			- Deploy from plan
 	- Day 12:
 		- Build module for ASG and launch config
 	- Day 13:
