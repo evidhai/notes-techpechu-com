@@ -10,13 +10,10 @@
 - Entire course will be in Tamil , sessions will be  via zoom/gmeet  and recordings will be provided
 - Common Telegram group will be created for interaction and get your doubts cleared
 - Sesssion duration 16  days (if time got delayed or any new topic demanded by people can extend it to 20) on sat and sunday 8:30 - 9:30 PM IST.With max batch limit of 10 members.
-
-
 - Pre-requisite
-  - Laptop / PC with Vscode
-  - AWS account 
-  - Time to practice and learn
-  
+	- Laptop / PC with Vscode
+	- AWS account
+	- Time to practice and learn
 - Course plan:
 	- Day 1:
 		- Introduction of each member
@@ -34,15 +31,13 @@
 		- Terraform state files
 	- Day 5:
 		- Terraform Dynamic blocks
-  		- for loops
+			- for loops
 	- Day 6:
-		- Terraform modules
-	- Day 6:
-		- Secret handling
-	- Day 7:
 		- Terraform functions
+	- Day 7:
+		- Terraform modules intro
 	- Day 8:
-		- Terraform basic commands
+		- Terraform modules advanced
 	- Day 9:
 		- Terraform workspace - introduction
 	- Day 10 :
@@ -58,5 +53,5 @@
 		- Integrate Day 10 - 13 module and launch your site
 	- Day 15 -16
 		- Buffer / Revision
-
-See you soon
+		  
+		  See you soon
