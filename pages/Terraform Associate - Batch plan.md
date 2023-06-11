@@ -38,6 +38,7 @@
 		- Terraform modules intro
 	- Day 8:
 		- Terraform modules advanced
+			- Cover git ,and remote source
 	- Day 9:
 		- Terraform workspace - introduction
 	- Day 10 :
