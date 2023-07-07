@@ -11,8 +11,11 @@
 - What's not covered?
 	- No automation is covered, all will be via manual
 	- We focus 4 domains which exam is tested on, so will stick to the curriculum
-	-
-	-
 - Entire course will be in Tamil , sessions will be  via zoom/gmeet  and recordings will be provided
 - Common Telegram group will be created for interaction and get your doubts cleared
 - Sesssion duration 16  days (if time got delayed or any new topic demanded by people can extend it to 20) on sat and sunday 8:30 - 9:30 PM IST.With max batch limit of 10 members.
+-
+-
+- ## Course plan
+- Day 1:
+	-
