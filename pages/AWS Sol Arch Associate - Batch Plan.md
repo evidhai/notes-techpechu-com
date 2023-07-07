@@ -30,7 +30,7 @@
 	- Shared responsibility model
 	-
 - Day 3:
-	-
+	- S3
 	-
 	-
 	-
