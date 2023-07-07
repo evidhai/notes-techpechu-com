@@ -1,12 +1,9 @@
 - This page covers what we will be focussing on AWS Sol arch Associate Batch.
-- Course will be mix of hands-on, indepth concept covering realtime scenarios
+- Course will be mix of hands-on, indepth concept covering realtime scenarios inlined towards AWS study guide
+- https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf
 - By end of this course you can
-	- Build automate creation of resources using Terraform
-	- How to handle syncronisation of existing resource
-	- Manage terraform  as a team
-	- Basics of git
-	- Builld custom modules on terraform and create opensource project to showcase your work
-	- What ever required you to get Terraform Associate certified
+	- Understand services available at AWS , comfort at navigating the UI
+	-
 - Entire course will be in Tamil , sessions will be  via zoom/gmeet  and recordings will be provided
 - Common Telegram group will be created for interaction and get your doubts cleared
 - Sesssion duration 16  days (if time got delayed or any new topic demanded by people can extend it to 20) on sat and sunday 8:30 - 9:30 PM IST.With max batch limit of 10 members.
