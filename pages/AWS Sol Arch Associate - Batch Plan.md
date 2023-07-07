@@ -3,8 +3,9 @@
 - https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf
 - By end of this course you can
 	- Understand services available at AWS , comfort at navigating the UI
+	- Create services and n
 	- Able to perform best practices recommended by AWS
-	- Get comfort on
+	-
 - Entire course will be in Tamil , sessions will be  via zoom/gmeet  and recordings will be provided
 - Common Telegram group will be created for interaction and get your doubts cleared
-- Sesssion duration 16  days (if time got delayed or any new topic demanded by people can extend it to 20) on sat and sunday 8:30 - 9:30 PM IST.With max batch limit of 15 members.
+- Sesssion duration 16  days (if time got delayed or any new topic demanded by people can extend it to 20) on sat and sunday 8:30 - 9:30 PM IST.With max batch limit of 10 members.
