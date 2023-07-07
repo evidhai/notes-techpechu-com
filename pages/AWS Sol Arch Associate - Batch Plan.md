@@ -22,6 +22,9 @@
 	- What is Cloud?
 	- Industry use cases
 	- AWS Free tier overview
-	-
+	- AZ , Regions
 - Day 2:
+	- IAM
+	- MFA
+	- Roles, policies,
 	-
