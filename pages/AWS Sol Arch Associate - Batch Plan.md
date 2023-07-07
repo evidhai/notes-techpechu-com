@@ -3,8 +3,9 @@
 - https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf
 - By end of this course you can
 	- Understand services available at AWS , comfort at navigating the UI
-	- Create services and n
+	- Comfort yourself to update on any latest services and get the path way to self learn
 	- Able to perform best practices recommended by AWS
+	-
 	-
 - Entire course will be in Tamil , sessions will be  via zoom/gmeet  and recordings will be provided
 - Common Telegram group will be created for interaction and get your doubts cleared
