@@ -26,5 +26,11 @@
 - Day 2:
 	- IAM
 	- MFA
-	- Roles, policies,
+	- Roles, policies,Groups
+	- Shared responsibility model
+	-
+- Day 3:
+	-
+	-
+	-
 	-
