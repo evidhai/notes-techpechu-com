@@ -28,9 +28,17 @@
 	- MFA
 	- Roles, policies,Groups
 	- Shared responsibility model
-	-
 - Day 3:
 	- S3
 - Day 4:
+	- EC2
+	- SG
+	- ASG
+- Day 5:
+	- EBS
+	- EFS
+- Day 6:
+	-
+	-
 	-
 	-
