@@ -18,4 +18,10 @@
 -
 - ## Course plan
 - Day 1:
+	- Intro
+	- What is Cloud?
+	- Industry use cases
+	- AWS Free tier overview
+	-
+- Day 2:
 	-
