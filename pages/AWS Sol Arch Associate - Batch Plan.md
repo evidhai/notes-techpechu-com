@@ -5,7 +5,11 @@
 	- Understand services available at AWS , comfort at navigating the UI
 	- Comfort yourself to update on any latest services and get the path way to self learn
 	- Able to perform best practices recommended by AWS
+	- Get the best understanding of Domains and Tasks listed in the AWS study guide
 	-
+- What's not covered?
+	- No automation is covered, all will be via manual
+	- We focus 4 domains which
 	-
 - Entire course will be in Tamil , sessions will be  via zoom/gmeet  and recordings will be provided
 - Common Telegram group will be created for interaction and get your doubts cleared
