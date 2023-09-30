@@ -7,6 +7,10 @@
 	- Able to perform best practices recommended by AWS
 	- Get the best understanding of Domains and Tasks listed in the AWS study guide
 	- Will also discuss on realtime use cases for each services
+- Pre requisite
+	- No pre AWS knowledge required
+	- Would recommend to join sessions via Laptop
+	-
 - Entire course will be in Tamil , sessions will be  via zoom/gmeet  and recordings will be provided
 - Common Telegram group will be created for interaction and get your doubts cleared
 - Sesssion duration 16  days (if time got delayed or any new topic demanded by people can extend days) on sat and sunday 8:30 - 9:30 PM IST.With max batch limit of 10 members.
