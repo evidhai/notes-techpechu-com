@@ -17,28 +17,70 @@
 -
 -
 - ## Course plan
+- Will follow Official AWS syllabus
+-
+-
+- Learn from 5x AWS certified
+- professional.
+  Classes will be in tamil
 - Day 1:
-	- Intro
-	- What is Cloud?
-	- Industry use cases
-	- AWS Free tier overview
-	- AZ , Regions
+  AWS console walkthrough 
+  AWS basic terminologies
+  IAM deepdive
 - Day 2:
-	- IAM
-	- MFA
-	- Roles, policies,Groups
-	- Shared responsibility model
+  S3
 - Day 3:
-	- S3
+  Cloudfront
+  EC2
+  Security Group
 - Day 4:
-	- EC2
-	- SG
-	- ASG
+  EFS
+  EBS
 - Day 5:
-	- EBS
-	- EFS
+  Loadbalancer -> 
+  Network LB
+  Application LB
 - Day 6:
-	-
-	-
-	-
-	-
+  ECS
+  Fargate
+- Day 7:
+  VPC
+  NAT
+- Day 8:
+  Lambda
+  API gateway
+- Day 9:
+  Autoscaling group
+  ENI , ENA , EFA
+- Day 10:
+  Cloudwatch
+  CloudTrail
+  Route 53
+- Day 11:
+  Elasticbeanstalk
+  Cloudformation
+  Code build
+  Code commit
+- Day 12:
+  SQS , SNS , SES
+  Kinesis
+- Day 13:
+  Databases
+- Day 14:
+  Other service overview
+  SCP
+  AWS organisations
+  Athena
+  MAcie
+  Snowball
+  Storage gateway
+  Quicksight
+  WAF
+  Shield
+  Advanced shield
+  OpsWork
+  Trusted advisor
+  Lexicons
+  Amazon Polly
+- Day 15: Buffer day
+- Day 16: Buffer day
