@@ -10,7 +10,7 @@
 - Pre requisite
 	- No pre AWS knowledge required
 	- Would recommend to join sessions via Laptop
-	-
+	- Mandatory to create AWS free tier account to practice topics covered
 - Entire course will be in Tamil , sessions will be  via zoom/gmeet  and recordings will be provided
 - Common Telegram group will be created for interaction and get your doubts cleared
 - Sesssion duration 16  days (if time got delayed or any new topic demanded by people can extend days) on sat and sunday 8:30 - 9:30 PM IST.With max batch limit of 10 members.
