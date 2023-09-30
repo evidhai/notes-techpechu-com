@@ -3,6 +3,7 @@
   #+END_QUOTE
 - [[Welcome]]
 	- [[AWS Devops Professional (DOP - C01 ) - Completed]]
+	- [[AWS Sol Arch Associate - Batch Plan]]
 	- [[Terraform Associate - Batch plan]]
 		- [[Terraform install instructions]]
 	- [[AWS Sol Arch Associate - Batch Plan]]
