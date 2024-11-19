@@ -2,7 +2,6 @@
   Linux commands are case sensitive
   #+END_IMPORTANT
 - [[Basics]]
-  collapsed:: true
 	- Basic commands
 	  collapsed:: true
 		- `echo hello`
@@ -58,7 +57,6 @@
 			-
 		-
 	- Multiline in cmd
-	  collapsed:: true
 		- > use `\` to enter next line than treated as enter in terminal
 		- ![image.png](../assets/image_1655575595946_0.png){:height 188, :width 890}
 		- The first line of the output (total 0) is how many blocks of storage space are used by all the files listed. The following rows describe the details of each file.
@@ -71,7 +69,6 @@
 		- The sixth column, for example, Sep 18 04:06, is the date and time the file was last modified.
 		- The file name is given last. In the case of link files, the file that it links to is also given and is displayed with a green background in the image above.
 	- To print multiline
-	  collapsed:: true
 		- ```bash
 		  cat <<EOF
 		  First line
